@@ -36,10 +36,10 @@ Este archivo sirve para unificar las estadísticas productivas de las siguientes
 
 ## Proyecto Colectivo
 
-    Si tu trabajo usa estadísticas económicas en Argentina, animate a usar y colaborar en el archivo `concordancias_GPSprod_SIPA_prodPBA_CIIU.csv`. Colaborando podemos facilitar y potenciar los esfuerzos individuales.
-    Pull request!
+Si tu trabajo usa estadísticas económicas en Argentina, animate a usar y colaborar en el archivo `concordancias_GPSprod_SIPA_prodPBA_CIIU.csv`. Colaborando podemos facilitar y potenciar los esfuerzos individuales.
+Pull request!
 
 ## Recomendaciones
 
-    Los nombres de columna corresponden con los de sus fuentes. La palabra 'label' indica una descripción, mientras que 'ID' es un numero identificatorio. Estos ID suelen ser numeros enteros. En caso de ver un decimal '.0' al cargar el dataset, conviene confirmar que se trata de enteros y desechar el punto y decimales.
+Los nombres de columna corresponden con los de sus fuentes. La palabra 'label' indica una descripción, mientras que 'ID' es un numero identificatorio. Estos ID suelen ser numeros enteros. En caso de ver un decimal '.0' al cargar el dataset, conviene confirmar que se trata de enteros y desechar el punto y decimales.
     
