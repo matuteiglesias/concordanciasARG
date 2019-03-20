@@ -1,0 +1,1138 @@
+letra,clanae,sector,dpe,dígitos,sector
+A,1,1,1,Letra,"AGRICULTURA, GANADERÍA, CAZA y SERVICIOS CONEXO"
+A,1,1,1,2,"Agricultura, Ganadería, Caza y Servicios Conexos"
+A,11,11,11,3,Cultivos agrícolas.
+A,111,111,011.1,4,"Cultivo de cereales, oleaginosas y forrajeras."
+A,1111,1111,011.11,5,Cultivo de cereales excepto los forrajeros y los de semillas para siembra.
+A,,,11111,6,"Trigo, excepto para siembra"
+A,,,11112,6,"Cultivos de cereales, excepto los forrajeros"
+A,,,011.1121,7,"Cebada cervecera, excepto para siembra"
+A,1112,1112,011.12,5,Cultivo de cereales forrajeros.
+A,,,11121,6,"Maíz, excepto para siembra"
+A,,,11122,6,"Sorgo granífero, excepto para siembra"
+A,,,11123,6,Cultivo de cereales forrajeros
+A,,,111231,7,"Alpiste, excepto para siembra"
+A,,,111232,7,"Avena, excepto para siembra"
+A,,,011.1233,7,"Centeno, excepto para siembra"
+A,,,011.1234,7,"Mijo, excepto para siembra"
+A,1113,1113,011.13,5,Cultivo de oleaginosas excepto el de semillas para siembra.
+A,,,11131,6,"Girasol, excepto para siembra"
+A,,,11132,6,"Soja, excepto para siembra"
+A,,,11133,6,"Cultivos de oleaginosas,excepto el de semillas para siembra"
+A,,,011.1331,7,"Colza, excepto para siembra"
+A,,,011.1332,7,"Lino, excepto para siembra"
+A,1114,1114,011.14,5,Cultivo de pastos forrajeros.
+A,112,11.2,011.2,4,"Cultivo de hortalizas, legumbres, flores y plantas ornamentales."
+A,1121,11.21,011.21,5,"Cultivo de papa, batata y mandioca."
+A,,,11211,6,Papa
+A,,,11212,6,Batata y Mandioca
+A,1122,11.22,011.22,5,"Cultivo de bulbos, brotes, raíces y hortalizas de fruto."
+A,,,11221,6,Ajo
+A,,,11222,6,Cebolla 
+A,,,11223,6,Pimiento
+A,,,11224,6,Tomate
+A,,,11225,6,Zapallo
+A,,,11226,6,"Cultivo de bulbos, brotes, raíces y hortalizas de fruto n.c.p."
+A,1123,11.23,011.23,5,Cultivo de hortalizas de hoja y de otras hortalizas frescas.
+A,,,11231,6,Acelga
+A,,,11232,6,Lechuga
+A,,,11233,6,Cultivos de hortalizas de hoja y de otras hortalizas frescas n.c.p.
+A,1124,11.24,011.24,5,Cultivo de legumbres.
+A,,,11241,6,Poroto
+A,,,11242,6,Cultivo de legumbres n.c.p.
+A,1125,11.25,011.25,5,Cultivo de flores y plantas ornamentales.
+A,113,11.3,011.3,4,Cultivo de frutas -excepto vid para vinificar- y nueces.
+A,1131,11.31,011.31,5,Cultivo de frutas de pepita.
+A,,,11311,6,Manzana
+A,,,11312,6,Pera
+A,,,11313,6,Cultivos de frutas de pepita n.c.p.
+A,1132,11.32,011.32,5,Cultivo de frutas de carozo.
+A,,,11321,6,Ciruela
+A,,,11322,6,Durazno y Pelón
+A,,,11323,6,Cultivos de frutas de carozo n.c.p.
+A,1133,11.33,011.33,5,Cultivo de frutas cítricas.
+A,,,11331,6,Limón
+A,,,11332,6,Mandarina
+A,,,11333,6,Naranja
+A,,,11334,6,Pomelo
+A,,,11335,6,Cultivos de frutas cítricas n.c.p.
+A,1134,11.34,011.34,5,Cultivo de nueces y frutas secas.
+A,,,11341,6,Nuez
+A,,,11342,6,Cultivos de nueces y frutas secas n.c.p.
+A,1135,11.35,011.35,5,Cultivo de frutas tropicales.
+A,114,114,011.39,4,Cultivo de frutas n.c.p.
+A,115,11.5,011.4,4,"Cultivos industriales, de especias y de plantas aromáticas y medicinales."
+A,1151,11.51,011.41,5,Cultivo de plantas para la obtención de fibras.
+A,12,12,011.42,5,Cultivo de plantas sacaríferas.
+A,121,121,011.43,4,Cultivo de vid para vinificar.
+A,1211,1211,011.44,5,Cultivo de plantas para preparar infusiones.
+A,1212,1212,011.45,5,Cultivo de tabaco.
+A,1213,1213,011.46,5,Cultivo de especias y de plantas aromáticas y medicinales.
+A,1214,1214,011.47,5,Cultivo de frutas oleaginosas.
+A,1215,1215,011.49,5,Cultivos industriales n.c.p.
+A,1216,1216,011.5,4,Producción de semillas y otras formas de propagación de cultivos agrícolas.
+A,1217,1217,011.51,5,Producción de semillas.
+A,1218,1218,011.52,5,Producción de otras formas de propagación de cultivos agrícolas.
+A,122,122,011.53,4,Servicio de procesamiento de semillas para su siembra.
+A,1221,1221,12,3,Cría de animales.
+A,1222,1222,012.1,4,"Cría de ganado y producción de leche, lana y pelos."
+A,1223,1223,012.11,5,Cría de ganado bovino -excepto la realizada en cabañas y para la producción de leche-.
+A,1224,1224,012.12,5,Cría de ganado ovino -excepto la realizada en cabañas y para la producción de lana-.
+A,1229,1229,012.13,5,Cría de ganado porcino -excepto la realizada en cabañas-.
+A,14,14,012.14,5,Cría de ganado equino -excepto la realizada en haras-.
+A,141,141,012.15,5,Cría de ganado caprino -excepto la realizada en cabañas y para la producción de leche-.
+A,1411,1411,012.16,5,Cría de ganado en cabañas y haras.
+A,1412,1412,012.17,5,Producción de leche.
+A,1413,1413,012.18,5,Producción de lana y pelos de ganado.
+A,1419,1419,012.19,5,Cría de ganado n.c.p.
+A,142,142,012.2,4,"Producción de granja y cría de animales, excepto ganado."
+A,1421,1421,012.21,5,Cría de aves  de corral.
+A,1422,1422,012.22,5,Producción de huevos.
+A,1423,1423,012.23,5,Apicultura.
+A,15,15,012.24,5,"Cría de animales pelíferos, pilíferos y plumíferos."
+A,2,2,012.25,5,Cunicultura.
+A,20,20,012.29,5,"Cría de animales y obtención de productos de origen animal, n.c.p."
+A,201,201,13,3,Actividades agropecuarias mixtas.
+A,202,202,130,4,Actividades agropecuarias mixtas.
+A,2021,2021,0130.0,5,Actividades agropecuarias mixtas.
+A,2022,2022,14,3,"Servicios agrícolas y pecuarios, excepto los veterinarios."
+A,,,014.1,4,Servicios agrícolas.
+A,,,014.11,5,"Servicios de maquinaria agrícola, excepto los de cosecha mecánica."
+A,,,014.12,5,Servicios de cosecha mecánica.
+A,,,014.13,5,Servicios de contratistas de mano de obra agrícola.
+A,,,014.16,5,Servicio de post cosecha.
+A,,,014.19,5,Servicios agrícolas n.c.p.
+A,,,014.2,4,"Servicios pecuarios, excepto los veterinarios."
+A,,,014.21,5,Inseminación artificial y servicios n.c.p. para mejorar la reproducción de los animales y el rendimiento de sus productos.
+A,,,014.22,5,Servicios de contratistas de mano de obra pecuaria.
+A,,,014.29,5,Servicios pecuarios n.c.p.
+A,,,15,3,"Caza y captura de animales vivos, repoblación de animales de caza y servicios conexos."
+A,,,150,4,"Caza y captura de animales vivos, repoblación de animales de caza y servicios conexos."
+A,,,0150.1,5,Caza y captura de animales vivos y repoblación de animales de caza.
+A,,,0150.2,5,Servicios para la caza.
+A,,,2,2,"Silvicultura, Extracción de Madera y Servicios Conexos"
+A,,,20,3,"Silvicultura, extracción de madera y servicios conexos."
+A,,,020.1,4,Silvicultura.
+A,,,020.11,5,Plantación de bosques.
+A,,,020.12,5,repoblación y conservación de bosques nativos y zonas forestadas.
+A,,,020.13,5,Explotación de viveros forestales.
+A,,,020.2,4,Extracción de productos forestales.
+A,,,020.21,5,Extracción de productos forestales de bosques cultivados.
+A,,,020.22,5,Extracción de productos forestales de bosques nativos.
+A,,,020.3,4,Servicios forestales.
+A,,,020.31,5,Servicios forestales de extracción de madera.
+A,,,020.39,5,Servicios forestales excepto los relacionados con la extracción de madera.
+B,B,B,B,Letra,PESCA Y SERVICIOS CONEXOS
+B,5,5,5,2,"Pesca, Explotación de Criaderos de Peces, Granjas Piscícolas y Servicios Conexos"
+B,50,50,50,3,Pesca y servicios conexos.
+B,501,050.1,050.1,4,Pesca y recolección de productos marinos.
+B,5011,050.11,050.11,5,Pesca marítima: costera y de altura.
+B,,50111,50111,6,Costeros Chicos
+B,,50112,50112,6,Costeros grandes
+B,,50113,50113,6,Fresqueros 
+B,,50114,50114,6,Congeladores
+B,5012,050.12,050.12,5,Pesca continental: fluvial y lacustre.
+B,502,050.2,050.13,4,Recolección de productos marinos.
+B,503,050.3,050.2,3,"Explotación de criaderos de peces, granjas piscícolas y otros frutos acuáticos (acuicultura)."
+B,,,050.20,5,"Explotación de criaderos de peces, granjas piscícolas y otros frutos acuáticos (acuicultura)."
+B,,,050.3,4,Servicios para la pesca.
+B,,,050.30,5,Servicios para la pesca.
+C,,,,Letra,EXPLOTACIÓN DE MINAS Y CANTERAS
+C,,,,2,"Extracción de petróleo crudo y gas natural; actividades de servicios relacionadas con la extracción de petróleo y gas, excepto las actividades de prospección"
+C,,,,5,Extracción de petróleo crudo y gas natural
+C,,,,5,"Actividades de servicios relacionadas con la extracción de petróleo y gas, excepto las actividades de prospección"
+C,,,,2,Explotación de minas y canteras n.c.p.
+C,,,,5,Extracción de rocas ornamentales
+C,,,,5,Extracción de piedra caliza y yeso
+C,,,,5,"Extracción de arenas, canto rodado y triturados pétreos"
+C,,,,5,Extracción de arcilla y caolín
+C,,,,5,Extracción de minerales para la fabricación de productos químicos
+C,,,,5,Extracción de sal en salinas y de roca
+C,,,,5,Explotación de minas y canteras n.c.p.
+D,D,D,D,Letra,INDUSTRIA MANUFACTURERA
+D,,,15,2,Elaboración De Productos Alimenticios Y Bebidas
+D,,,151,3,"Producción y procesamiento de carne, pescado, frutas, legumbres, hortalizas, aceites y grasas"
+D,,,1511,4,Producción y procesamiento de carne y productos carnicos
+D,,,15111,5,Matanza de ganado y procesamiento de su carne
+D,,,15112,5,Producción y procesamiento de carne de aves
+D,,,15113,5,Elaboración de fiambres y embutidos
+D,,,15119,5,Matanza de animales n.c.p. y procesamiento de su carne; Elaboración de subproductos carnicos n.c.p.
+D,,,1512,4,Elaboración de pescado y productos de pescado
+D,,,15120,5,Elaboración de pescado y productos de pescado
+D,,,1513,4,"Preparación de frutas, hortalizas y legumbres"
+D,,,15131,5,"Preparación de conservas de frutas, hortalizas y legumbres"
+D,,,15132,5,"Elaboración de jugos naturales y sus concentrados, de frutas, hortalizas y legumbres"
+D,,,15134,5,"Elaboración de frutas, hortalizas y legumbres congeladas"
+D,,,15139,5,"Elaboración de frutas, hortalizas y legumbres deshidratadas o desecadas; preparación n.c.p. de frutas, hortalizas y legumbres"
+D,,,1514,4,Elaboración de aceites y grasas de origen vegetal
+D,,,15140,5,Elaboración de aceites y grasas de origen vegetal
+D,,,152,3,Elaboración de productos lácteos
+D,,,1520,4,Elaboración de productos lácteos
+D,,,15201,5,Elaboración de leches y productos lácteos deshidratados
+D,,,15202,5,Elaboración de quesos
+D,,,15203,5,Elaboración industrial de helados
+D,,,15209,5,Elaboración de productos lácteos n.c.p.
+D,,,153,3,"Elaboración de productos de molinería, almidones y productos derivados del almidón; Elaboración de alimentos preparados para animales"
+D,,,1531,4,Elaboración de productos de molinería
+D,,,15311,5,Molienda de trigo
+D,,,15312,5,Preparación de arroz
+D,,,15313,5,Preparación y molienda de legumbres y cereales -excepto trigo y arroz y molienda húmeda de maíz)-
+D,,,1532,4,Elaboración de almidones y productos derivados del almidón
+D,,,15320,5,Elaboración de almidones y productos derivados del almidón
+D,,,1533,4,Elaboración de alimentos preparados para animales
+D,,,15330,5,Elaboración de alimentos preparados para animales
+D,,,154,3,Elaboración de productos alimenticios n.c.p.
+D,,,1541,4,Elaboración de productos de panadería
+D,,,15411,5,Elaboración de galletitas y bizcochos
+D,,,15412,5,"Elaboración de productos de panadería, excluido galletitas y bizcochos"
+D,,,1542,4,Elaboración de azúcar
+D,,,15420,5,Elaboración de azúcar
+D,,,1543,4,Elaboración de cacao y chocolate y de productos de confitería
+D,,,15430,5,Elaboración de cacao y chocolate y de productos de confitería
+D,,,1544,4,Elaboración de pastas alimenticias
+D,,,15441,5,Elaboración de pastas alimenticias frescas
+D,,,15442,5,Elaboración de pastas alimenticias secas
+D,,,1549,4,Elaboración de productos alimenticios n.c.p.
+D,,,15491,5,"Tostado, torrado y molienda de café; elaboración y  molienda de hierbas aromáticas y especias"
+D,,,15492,5,Preparación de hojas de te
+D,,,15493,5,Elaboración de yerba mate
+D,,,15499,5,Elaboración de productos alimenticios n.c.p.
+D,,,155,3,Elaboración de bebidas
+D,,,1551,4,"Destilación, rectificación y mezcla de bebidas alcohólicas; producción de alcohol etílico"
+D,,,15511,5,Destilación de alcohol etílico
+D,,,15512,5,"Destilación, rectificación y mezcla de bebidas espiritosas"
+D,,,1552,4,Elaboración de vinos y otras bebidas fermentadas a partir de frutas
+D,,,15521,5,Elaboración de vinos
+D,,,15529,5,Elaboración de sidra y otras bebidas alcohólicas fermentadas a partir de frutas
+D,,,1553,4,"Elaboración de cerveza, bebidas malteadas y de malta"
+D,,,15530,5,"Elaboración de cerveza, bebidas malteadas y de malta"
+D,,,1554,4,Elaboración de bebidas no alcohólicas; producción de aguas minerales
+D,,,15541,5,Elaboración de soda y aguas
+D,,,15542,5,"Elaboración de bebidas gaseosas, excepto soda"
+D,,,15549,5,"Elaboración de hielo, jugos envasados para diluir y otras bebidas no alcohólicas"
+D,,,158,3,Servicios industriales para la elaboración de alimentos y bebidas
+D,,,1580,4,Servicios industriales para la elaboración de alimentos y bebidas
+D,,,15800,5,Servicios industriales para la elaboración de alimentos y bebidas
+D,,,16,2,Elaboración De Productos De Tabaco
+D,,,160,3,Elaboración de productos de tabaco
+D,,,1600,4,Elaboración de productos de tabaco
+D,,,16001,5,Preparación de hojas de tabaco
+D,,,16009,5,Elaboración de cigarrillos y  productos de tabaco n.c.p.
+D,,,17,2,Fabricación De Productos Textiles
+D,,,171,3,fabricación de hilados y tejidos; acabado de productos textiles
+D,,,1711,4,Preparación e hilandería de fibras textiles; tejeduría de productos textiles
+D,,,17111,5,Preparación de fibras textiles vegetales; desmotado de algodón
+D,,,17112,5,Preparación de fibras animales de uso textil; lavado de lana
+D,,,17113,5,Fabricación de hilados de fibras textiles
+D,,,17114,5,"Fabricación de tejidos textiles, incluso en hilanderías y tejedurias integradas"
+D,,,17115,5,Fabricación de tejidos de punto
+D,,,1712,4,Acabado de productos textiles
+D,,,17120,5,Acabado de productos textiles
+D,,,172,3,Fabricación de productos textiles n.c.p.
+D,,,1721,4,"Fabricación de artículos confeccionados de materiales textiles, excepto prendas de vestir"
+D,,,17210,5,"Fabricación de artículos confeccionados de materiales textiles, excepto prendas de vestir"
+D,,,1722,4,Fabricación de tapices y alfombras
+D,,,1723,4,"Fabricación de cuerdas, cordeles, bramantes y redes"
+D,,,1729,4,Fabricación de productos textiles n.c.p.
+D,,,17290,5,Fabricación de productos textiles n.c.p.
+D,,,18,2,Fabricación De Prendas De Vestir; Terminación Y Teñido De Pieles
+D,,,181,3,"Fabricación de prendas de vestir, excepto prendas de piel"
+D,,,1811,4,"Confección de prendas de vestir, excepto prendas de piel y cuero"
+D,,,18110,5,"Confección de prendas de vestir, excepto prendas de piel y cuero"
+D,,,1812,4,Confección de prendas y accesorios de vestir de cuero
+D,,,18120,5,Confección de prendas y accesorios de vestir de cuero
+D,,,182,3,"Terminación y teñido de pieles; fabricación de prendas, accesorios de vestir y otros artículos de piel"
+D,,,1820,4,"Terminación y teñido de pieles; fabricación de prendas, accesorios de vestir y otros artículos de piel"
+D,,,184,3,Fabricación de indumentaria de punto
+D,,,1840,4,Fabricación de indumentaria de punto
+D,,,18401,5,Fabricación de medias
+D,,,18402,5,Fabricación de suéteres y artículos similares de punto
+D,,,189,3,Servicios industriales para la industria confeccionista
+D,,,1890,4,Servicios industriales para la industria confeccionista
+D,,,18900,5,Servicios industriales para la industria confeccionista
+D,,,19,2,"Curtido Y Terminación De Cueros; Fabricación De Artículos De Marroquinería, Talabartería Y Calzado Y De Sus Partes"
+D,,,191,3,Curtido y terminación de cueros; fabricación de artículos de marroquinería y talabartería
+D,,,1911,4,Curtido y terminación de cueros
+D,,,19110,5,Curtido y terminación de cueros
+D,,,1912,4,"Fabricación de maletas, bolsos de mano y similares, artículos de talabartería y  artículos de cuero n.c.p."
+D,,,19120,5,"Fabricación de maletas, bolsos de mano y similares, artículos de talabartería y artículos de cuero n.c.p."
+D,,,192,3,Fabricación de calzado y de sus partes
+D,,,1920,4,Fabricación de calzado y de sus partes
+D,,,19201,5,"Fabricación de calzado de cuero, excepto el ortopédico"
+D,,,19202,5,"Fabricación de calzado de tela, plástico, goma, caucho y otros materiales, excepto calzado ortopédico y de asbesto"
+D,,,19203,5,Fabricación de partes de calzado
+D,,,20,2,"Producción De Madera Y Fabricación De Productos De Madera Y Corcho, Excepto Muebles; Fabricación De Artículos De Paja Y De Materiales Trenzables"
+D,,,201,3,Aserrado y cepillado de madera
+D,,,2010,4,Aserrado y cepillado de madera
+D,,,20100,5,Aserrado y cepillado de madera
+D,,,202,3,"Fabricación de productos de madera, corcho, paja y materiales trenzables"
+D,,,2021,4,"Fabricación de hojas de madera para enchapado; fabricación de tableros contrachapados, tableros laminados, tableros de partículas, y  tableros y paneles n.c.p."
+D,,,20210,5,Fabricación de hojas de madera para enchapado; fabricación de tableros contrachapados; tableros laminados; tableros de partículas y tableros y paneles n.c.p.
+D,,,2022,4,Fabricación de partes y piezas de carpintería para edificios y Construcciones
+D,,,20220,5,Fabricación de partes y piezas de carpintería para edificios y Construcciones
+D,,,2023,4,Fabricación de recipientes de madera
+D,,,20230,5,Fabricación de recipientes de madera
+D,,,2029,4,"Fabricación de productos de madera n.c.p.; fabricación de artículos de corcho, paja y materiales trenzables"
+D,,,20290,5,"Fabricación de productos de madera n.c.p.; fabricación de artículos de corcho, paja y materiales trenzables"
+D,,,21,2,Fabricación De Papel Y De  Productos De Papel
+D,,,210,3,Fabricación de papel y de productos de papel
+D,,,2101,4,"Fabricación de pasta de madera, papel y cartón"
+D,,,21010,5,"Fabricación de pasta de madera, papel y cartón"
+D,,,2102,4,Fabricación de papel y cartón ondulado y envases de papel y cartón
+D,,,21020,5,Fabricación de papel y cartón ondulado y de envases de papel y cartón
+D,,,2109,4,Fabricación de  artículos de papel y cartón
+D,,,21091,5,Fabricación de artículos de papel y cartón de uso domestico e higiénico sanitario
+D,,,21099,5,Fabricación de artículos de papel y cartón n.c.p.
+D,,,22,2,Edición E Impresión; Reproducción De Grabaciones
+D,,,221,3,Edición
+D,,,2211,4,"Edición de libros, folletos, partituras y otras publicaciones"
+D,,,22110,5,"Edición de libros, folletos, partituras y otras publicaciones"
+D,,,2212,4,"Edición de periódicos, revistas y publicaciones periódicas"
+D,,,22120,5,"Edición de periódicos, revistas y publicaciones periódicas"
+D,,,2213,4,Edición de grabaciones
+D,,,2219,4,Edición n.c.p.
+D,,,22190,5,Reproducción de grabaciones y edición n.c.p.
+D,,,222,3,Impresión y servicios conexos
+D,,,2221,4,Impresión
+D,,,22210,5,Impresión
+D,,,2222,4,Servicios relacionados con la impresión
+D,,,22220,5,Servicios relacionados con la impresión
+D,,,23,2,"Fabricación De Coque, Productos De La Refinación Del Petróleo Y Combustible Nuclear"
+D,,,231,3,Fabricación de productos de hornos de coque
+D,,,2310,4,Fabricación de productos de hornos de coque
+D,,,23100,5,Fabricación de productos de hornos de coque
+D,,,232,3,Fabricación de productos de la refinación del petróleo
+D,,,2320,4,Fabricación de productos de la refinación del petróleo
+D,,,23200,5,Fabricación de productos de la refinación del petróleo
+D,,,233,3,Elaboración de combustible nuclear
+D,,,2330,4,Elaboración de combustible nuclear
+D,,,23300,5,Fabricación de combustible nuclear
+D,,,24,2,Fabricación De Sustancias Y Productos Químicos
+D,,,241,3,Fabricación de sustancias químicas básicas
+D,,,2411,4,"Fabricación de sustancias químicas básicas, excepto abonos y compuestos de nitrógeno"
+D,,,24111,5,Fabricación de gases comprimidos y licuados.
+D,,,24119,5,"Fabricación de materias químicas básicas, n.c.p."
+D,,,2412,4,Fabricación de abonos y compuestos de nitrógeno
+D,,,24120,5,Fabricación de abonos y compuestos de nitrógeno
+D,,,2413,4,Fabricación de plásticos en formas primarias y de caucho sintético
+D,,,24130,5,Fabricación de plásticos en formas primarias y de caucho sintético
+D,,,242,3,Fabricación de productos químicos n.c.p.
+D,,,2421,4,Fabricación de plaguicidas y  productos químicos de uso agropecuario
+D,,,24210,5,Fabricación de plaguicidas y  productos químicos de uso agropecuario
+D,,,2422,4,Fabricación de pinturas; barnices y productos de revestimiento similares; tintas de imprenta y masillas
+D,,,24220,5,Fabricación de pinturas; barnices y productos de revestimiento similares; tintas de imprenta y masillas
+D,,,2423,4,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos"
+D,,,24231,5,Fabricación de medicamentos de uso humano y productos farmacéuticos
+D,,,24232,5,Fabricación de medicamentos de uso veterinario
+D,,,24233,5,Fabricación de sustancias químicas para la elaboración de medicamentos
+D,,,24239,5,Fabricación de productos de laboratorio y productos botánicos n.c.p.
+D,,,2424,4,"Fabricación de jabones y detergentes, preparados para limpiar y pulir, perfumes y preparados de tocador"
+D,,,24241,5,Fabricación de jabones y preparados de limpieza
+D,,,24249,5,"Fabricación de cosméticos, perfumes y  productos de higiene y tocador"
+D,,,2429,4,Fabricación de productos químicos n.c.p.
+D,,,24290,5,Fabricación de productos químicos n.c.p.
+D,,,25,2,Fabricación De Productos De Caucho Y Plástico
+D,,,251,3,Fabricación de productos de caucho
+D,,,2511,4,Fabricación de cubiertas y cámaras de caucho; recauchutado y renovación de cubiertas de caucho
+D,,,25110,5,Fabricación de cubiertas y cámaras de caucho; recauchutado y renovación de cubiertas de caucho
+D,,,2519,4,Fabricación de productos de caucho n.c.p.
+D,,,25190,5,Fabricación de  productos de caucho n.c.p.
+D,,,252,3,Fabricación de productos de plástico
+D,,,2520,4,Fabricación de productos de plástico
+D,,,25201,5,Fabricación de envases plásticos
+D,,,25209,5,"Fabricación de productos plásticos en formas básicas y artículos de plástico n.c.p., excepto muebles"
+D,,,26,2,Fabricación De Productos Minerales No Metálicos
+D,,,261,3,Fabricación de vidrio y productos de vidrio
+D,,,2610,4,Fabricación de vidrio y productos de vidrio
+D,,,26101,5,Fabricación de envases de vidrio
+D,,,26102,5,Fabricación y elaboración de vidrio plano
+D,,,26109,5,Fabricación de productos de vidrio n.c.p.
+D,,,269,3,Fabricación de productos minerales no metálicos n.c.p.
+D,,,2691,4,Fabricación de productos de cerámica no refractaria para uso no estructural
+D,,,26910,5,Fabricación de productos de cerámica no refractaria para uso no estructural
+D,,,2692,4,Fabricación de productos de cerámica refractaria
+D,,,26920,5,Fabricación de productos de cerámica refractaria
+D,,,2693,4,Fabricación de productos de arcilla y cerámica no refractaria para uso estructural
+D,,,26930,5,Fabricación de productos de arcilla y cerámica no refractaria para uso estructural
+D,,,2694,4,"Elaboración de cemento, cal y yeso"
+D,,,26941,5,Elaboración de cemento
+D,,,26942,5,Elaboración de cal y yeso
+D,,,2695,4,"Fabricación de artículos de hormigón, cemento y yeso"
+D,,,26951,5,Fabricación de mosaicos
+D,,,26959,5,"Fabricación de artículos de cemento, fibrocemento y yeso excepto mosaicos"
+D,,,2696,4,"Corte, tallado y acabado de la piedra"
+D,,,26960,5,"Corte, tallado y acabado de la piedra"
+D,,,2699,4,Fabricación de productos minerales no metálicos n.c.p.
+D,,,26990,5,Fabricación de productos minerales no metálicos n.c.p.
+D,,,27,2,Fabricación De Metales Comunes
+D,,,271,3,Industrias básicas de hierro y acero
+D,,,2710,4,Industrias básicas de hierro y acero
+D,,,27100,5,Industrias básicas de hierro y acero
+D,,,272,3,Fabricación de productos primarios de metales preciosos y metales no ferrosos
+D,,,2720,4,Fabricación de productos primarios de metales preciosos y metales no ferrosos
+D,,,27201,5,Elaboración de aluminio primario y semielaborados de aluminio
+D,,,27209,5,Producción de metales no ferrosos n.c.p. y sus semielaborados
+D,,,273,3,Fundición de metales
+D,,,2731,4,Fundición de hierro y acero
+D,,,27310,5,Fundición de hierro y acero
+D,,,2732,4,Fundición de metales no ferrosos
+D,,,27320,5,Fundición de metales no ferrosos
+D,,,28,2,"Fabricación De Productos Elaborados De Metal, Excepto Maquinaria Y Equipo"
+D,,,281,3,"Fabricación de productos metálicos para uso estructural, tanques, depósitos y generadores de vapor"
+D,,,2811,4,Fabricación de productos metálicos para uso estructural y montaje estructural
+D,,,28110,5,Fabricación de productos metálicos para uso estructural y montaje estructural
+D,,,2812,4,"Fabricación de tanques, depósitos y recipientes de metal"
+D,,,28120,5,"Fabricación de tanques, depósitos y recipientes de metal"
+D,,,2813,4,Fabricación de generadores de vapor
+D,,,28130,5,Fabricación de generadores de vapor
+D,,,289,3,Fabricación de productos elaborados de metal n.c.p.; servicios de trabajo de metales
+D,,,2891,4,"Forjado, prensado, estampado y laminado de metales; pulvimetalurgia"
+D,,,28910,5,"Forjado, prensado, estampado y laminado de metales; pulvimetalurgia"
+D,,,2892,4,Tratamiento y revestimiento de metales; obras de ingeniería mecánica en general realizadas a cambio de una retribución o por contrata
+D,,,28920,5,Tratamiento y revestimiento de metales; obras de ingeniería mecánica en general realizadas a cambio de una retribución o por contrata
+D,,,2893,4,"Fabricación de artículos de cuchillería, herramientas de mano y artículos de ferretería"
+D,,,28930,5,"Fabricación de artículos de cuchillería, herramientas de mano y artículos de ferretería"
+D,,,2899,4,Fabricación de productos elaborados de metal  n.c.p.
+D,,,28991,5,Fabricación de envases metálicos
+D,,,28999,5,Fabricación de productos metálicos n.c.p.
+D,,,29,2,Fabricación De Maquinaria Y Equipo N.C.P.
+D,,,291,3,Fabricación de maquinaria de uso general
+D,,,2911,4,"Fabricación de motores y turbinas, excepto motores para aeronaves, vehículos automotores y motocicletas"
+D,,,29110,5,"Fabricación de motores y turbinas, excepto motores para aeronaves, vehículos automotores y motocicletas"
+D,,,2912,4,Fabricación de bombas; compresores; grifos y válvulas
+D,,,29121,5,Fabricación de bombas
+D,,,29122,5,Fabricación de compresores; grifos y válvulas
+D,,,2913,4,Fabricación de cojinetes; engranajes; trenes de engranaje y piezas de transmisión
+D,,,29130,5,Fabricación de cojinetes; engranajes; trenes de engranaje y piezas de transmisión
+D,,,2914,4,Fabricación de hornos; hogares y quemadores
+D,,,29140,5,Fabricación de hornos; hogares y quemadores
+D,,,2915,4,Fabricación de equipo de elevación y manipulación
+D,,,29150,5,Fabricación de equipo de elevación y manipulación
+D,,,2919,4,Fabricación de  maquinaria de uso general n.c.p.
+D,,,29190,5,Fabricación de maquinaria y equipo de uso general n.c.p.
+D,,,292,3,Fabricación de maquinaria de uso especial
+D,,,2921,4,Fabricación de maquinaria agropecuaria
+D,,,29211,5,Fabricación de tractores
+D,,,29212,5,Fabricación de maquinaria agrícola
+D,,,29213,5,Fabricación de implementos agrícolas
+D,,,2929,4,Fabricación de maquinaria de uso especial n.c.p.
+D,,,29290,5,Fabricación de maquinaria de uso especial n.c.p.; Fabricación de armas y municiones
+D,,,293,3,Fabricación de aparatos de uso domestico n.c.p.
+D,,,2930,4,Fabricación de aparatos de uso domestico n.c.p.
+D,,,29300,5,Fabricación de aparatos de uso domestico n.c.p.
+D,,,30,2,"Fabricación De Maquinaria De Oficina, Contabilidad E Informática"
+D,,,300,3,"Fabricación de maquinaria de oficina, contabilidad e informática"
+D,,,3000,4,"Fabricación de maquinaria de oficina, contabilidad e informática"
+D,,,30000,5,"Fabricación de maquinaria de oficina, contabilidad e informática"
+D,,,31,2,Fabricación De Maquinaria Y Aparatos Eléctricos  N.C.P.
+D,,,311,3,"Fabricación de motores, generadores y transformadores eléctricos"
+D,,,3110,4,"Fabricación de motores, generadores y transformadores eléctricos"
+D,,,31100,5,"Fabricación de motores, generadores y transformadores eléctricos"
+D,,,312,3,Fabricación de aparatos de distribución y control de la energía eléctrica
+D,,,3120,4,Fabricación de aparatos de distribución y control de la energía eléctrica
+D,,,31200,5,Fabricación de aparatos de distribución y control de la energía eléctrica
+D,,,313,3,Fabricación de hilos y cables aislados
+D,,,3130,4,Fabricación de hilos y cables aislados
+D,,,31300,5,Fabricación de cables de fibra óptica; Fabricación de hilos y cables aislados
+D,,,314,3,"Fabricación de acumuladores, pilas y baterías primarias"
+D,,,3140,4,"Fabricación de acumuladores, pilas y baterías primarias"
+D,,,31400,5,"Fabricación de acumuladores, pilas y baterías primarias"
+D,,,315,3,Fabricación de lámparas eléctricas y equipo de iluminación
+D,,,3150,4,Fabricación de lámparas eléctricas y equipo de iluminación
+D,,,31500,5,Fabricación de lámparas eléctricas y equipo de iluminación
+D,,,319,3,Fabricación  de equipo eléctrico n.c.p.
+D,,,3190,4,Fabricación  de equipo eléctrico n.c.p.
+D,,,31900,5,Fabricación  de equipo eléctrico n.c.p.
+D,,,32,2,"Fabricación De Equipos Y Aparatos De Radio, Televisión Y Comunicaciones"
+D,,,321,3,"Fabricación de tubos, válvulas  y otros  componentes electrónicos"
+D,,,3210,4,"Fabricación de tubos, válvulas  y otros  componentes electrónicos"
+D,,,32100,5,"Fabricación de tubos, válvulas  y otros  componentes electrónicos"
+D,,,322,3,Fabricación de transmisores de radio y televisión y de aparatos para telefonía y telegrafía con hilos
+D,,,3220,4,Fabricación de transmisores de radio y televisión y de aparatos para telefonía y telegrafía con hilos
+D,,,32200,5,Fabricación de transmisores de radio y televisión y de aparatos para telefonía y telegrafía con hilos (equipos de comunicación)
+D,,,323,3,"Fabricación de receptores de radio y televisión, aparatos de grabación y reproducción de sonido y video, y productos conexos"
+D,,,3230,4,"Fabricación de receptores de radio y televisión, aparatos de grabación y reproducción de sonido y video, y productos conexos"
+D,,,32300,5,"Fabricación de receptores de radio y televisión, aparatos de grabación y reproducción de sonido y video, y productos conexos"
+D,,,33,2,"Fabricación De Instrumentos Médicos, Ópticos Y De Precisión; Fabricación De Relojes"
+D,,,331,3,"Fabricación de aparatos e instrumentos médicos y de aparatos para medir, verificar, ensayar, navegar y otros fines, excepto instrumentos de óptica"
+D,,,3311,4,Fabricación de equipo medico y quirúrgico y de aparatos ortopédicos
+D,,,33110,5,Fabricación de equipo medico y quirúrgico y de aparatos ortopédicos
+D,,,3312,4,"Fabricación de instrumentos y aparatos para medir, verificar, ensayar, navegar, control de procesos industriales y otros fines"
+D,,,33120,5,"Fabricación de instrumentos y aparatos para medir, verificar, ensayar, navegar, control de procesos industriales y otros fines"
+D,,,332,3,Fabricación de instrumentos de óptica y equipo fotográfico
+D,,,3320,4,Fabricación de instrumentos de óptica y equipo fotográfico
+D,,,33200,5,Fabricación de instrumentos de óptica y equipo fotográfico
+D,,,34,2,"Fabricación De Vehículos Automotores, Remolques Y Semiremolques"
+D,,,341,3,Fabricación de vehículos automotores
+D,,,3410,4,Fabricación de vehículos automotores
+D,,,34100,5,Fabricación de vehículos automotores
+D,,,342,3,Fabricación de carrocerías para vehículos automotores; Fabricación de remolques y semiremolques
+D,,,3420,4,Fabricación de carrocerías para vehículos automotores; Fabricación de remolques y semiremolques
+D,,,34200,5,Fabricación de carrocerías para vehículos automotores; Fabricación de remolques y semiremolques
+D,,,343,3,Fabricación de partes; piezas y accesorios para vehículos automotores y sus motores
+D,,,3430,4,Fabricación de partes; piezas y accesorios para vehículos automotores y sus motores
+D,,,34300,5,Fabricación de partes; piezas y accesorios para vehículos automotores y sus motores. Incluye rectificación de motores
+D,,,35,2,Fabricación De Equipo De Transporte N.C.P.
+D,,,351,3,Construcción y Reparación de buques y embarcaciones n.c.p.
+D,,,3511,4,Construcción y Reparación de buques
+D,,,35110,5,Construcción y Reparación de buques
+D,,,3512,4,Construcción de embarcaciones de recreo y deporte
+D,,,35120,5,Construcción de embarcaciones de recreo y deporte
+D,,,352,3,Fabricación y Reparación de locomotoras y de material rodante para ferrocarriles y tranvías
+D,,,3520,4,Fabricación y Reparación de locomotoras y de material rodante para ferrocarriles y tranvías
+D,,,35200,5,Fabricación y Reparación de locomotoras y de material rodante para ferrocarriles y tranvías
+D,,,353,3,Fabricación y Reparación de aeronaves
+D,,,3530,4,Fabricación y Reparación de aeronaves
+D,,,35300,5,Fabricación y Reparación de aeronaves
+D,,,359,3,Fabricación de equipo de transporte n.c.p.
+D,,,3591,4,Fabricación de motocicletas
+D,,,35910,5,Fabricación de motocicletas
+D,,,3599,4,Fabricación de equipo de transporte n.c.p.
+D,,,35990,5,Fabricación de equipo de transporte n.c.p.
+D,,,36,2,Fabricación De Muebles Y Colchones; Industrias Manufactureras N.C.P.
+D,,,361,3,Fabricación de muebles y colchones
+D,,,3610,4,Fabricación de muebles y colchones
+D,,,36101,5,"Fabricación de muebles y partes de muebles, principalmente de madera"
+D,,,36102,5,"Fabricación de muebles y partes de muebles, excepto los que son principalmente de madera"
+D,,,36103,5,Fabricación de somieres y colchones
+D,,,369,3,Industrias manufactureras n.c.p.
+D,,,3691,4,Fabricación de joyas y artículos conexos
+D,,,3692,4,Fabricación de instrumentos de música
+D,,,3693,4,Fabricación de artículos de deporte
+D,,,3694,4,Fabricación de juegos y juguetes
+D,,,3699,4,Industrias manufactureras n.c.p.
+D,,,36999,5,Industrias manufactureras n.c.p.
+D,,,37,2,Reciclamiento
+D,,,370,3,Reciclamiento
+D,,,3700,4,Reciclamiento
+D,,,37000,5,Reciclamiento
+D,,,38,2,"Reparación, Mantenimiento E Instalación De Maquinas Y Equipos"
+D,,,381,3,"Reparación y mantenimiento de instrumentos médicos, ópticos y de precisión; relojes excepto para uso personal o domestico"
+D,,,3810,4,Reparación y mantenimiento de aparatos e instrumentos médicos
+D,,,38100,5,Reparación y mantenimiento de aparatos e instrumentos médicos
+D,,,382,3,Reparación y mantenimiento de maquinaria de oficina y de contabilidad e informática; maquinaria de uso general y especial
+D,,,3821,4,Reparación y mantenimiento de maquinaria de oficina y de contabilidad e informática
+D,,,38210,5,Reparación y mantenimiento de maquinaria de oficina y de contabilidad e informática
+D,,,3822,4,Reparación y mantenimiento de maquinaria de uso general
+D,,,38220,5,Reparación y mantenimiento de hornos; hogares y quemadores
+D,,,3823,4,Reparación y mantenimiento de maquinaria de uso especial
+D,,,38231,5,Reparación y mantenimiento de maquinaria agropecuaria
+D,,,38239,5,Reparación y mantenimiento de maquinas herramienta
+D,,,383,3,"Reparación y mantenimiento de equipos y aparatos de radio, televisión y comunicaciones excepto para uso personal o domestico"
+D,,,3830,4,"Reparación y mantenimiento de tubos, válvulas y otros componentes electrónicos"
+D,,,38300,5,"Reparación y mantenimiento de tubos, válvulas y otros componentes electrónicos"
+D,,,385,3,Reparación y mantenimiento de maquinaria y aparatos eléctricos n.c.p.
+D,,,3850,4,"Reparación y mantenimiento de motores, generadores y transformadores eléctricos"
+D,,,38500,5,"Reparación y mantenimiento de motores, generadores y transformadores eléctricos"
+D,,,386,3,"Reparación y mantenimiento de productos de metal, servicios de trabajo de metales, excepto maquinaria y equipo"
+D,,,3860,4,"Reparación y mantenimiento de productos metálicos para uso estructural, tanques, depósitos y generadores de vapor"
+D,,,38600,5,"Reparación y mantenimiento de productos metálicos para uso estructural, tanques, depósitos y generadores de vapor"
+D,,,387,3,Instalación de maquinaria y equipos industriales
+D,,,3870,4,Instalación de maquinaria y equipos industriales
+D,,,38700,5,Instalación de maquinaria y equipos industriales
+D,,,389,3,Reparación y mantenimiento n.c.p.
+D,,,3890,4,Reparación y mantenimiento n.c.p.
+D,,,38900,5,Reparación y mantenimiento n.c.p.
+E,E,E,E,Letra,"ELECTRICIDAD, GAS Y AGUA"
+E,40,40,40,2,"Electricidad, Gas, Vapor y Agua Caliente"
+E,401,401,401,3,"Generación, transporte y distribución de energía eléctrica."
+E,40111,40111,40111,5,Generación de energía térmica convencional.
+E,40112,40112,40112,5,Generación de energía térmica nuclear.
+E,40113,40113,40113,5,Generación de energía hidráulica.
+E,40120,40120,40120,2,Transporte de energía eléctrica.
+E,40130,40130,40130,4,Distribución de energía eléctrica.
+E,402,402,402,3,Fabricación de gas y distribución de combustibles gaseosos por tuberías.
+E,40200,40200,40200,5,Fabricación de gas y distribución de combustibles gaseosos por tuberías.
+E,41,41,41,2,"Captación, Depuración y Distribución de Agua"
+E,410,410,410,3,"Captación, depuración y distribución de agua."
+F,F,F,F,Letra,CONSTRUCCION
+F,45,45,45,2,Construcción
+F,,1,45F1,3,Construcción privada
+F,,1.1,45F11,4,Construcción registrada
+F,,1.1.1,45F111,5,Residencial
+F,,,45F1112,6,Univivienda
+F,,,45F1113,6,Multivivienda
+F,,,45F1114,6,Ampliaciones
+F,,,45F1115,6,Viviendas construidas con financiamiento público
+F,,1.1.2,45F112,5,No Residencial
+F,,,45F1121,6,Industria
+F,,,45F1122,6,"Adm, bcos, financieras"
+F,,,45F1123,6,Comercio
+F,,,45F1124,6,Almacenaje
+F,,,45F1125,6,Educación
+F,,,45F1126,6,Salud
+F,,,45F1127,6,Transporte
+F,,,45F1128,6,Hotelería y alojamiento
+F,,,45F1129,6,Espectáculos
+F,,,45F1130,6,Cultura
+F,,,45F1131,6,Deportes y recreación
+F,,,45F1132,6,Gastronomía
+F,,,45F1133,6,Arquitectura funeraria
+F,,,45F1134,6,Otras
+F,,,45F1135,6,Ampliaciones
+F,,1.2,45F12,4,Construcción no registrada
+F,,1.2.1,45F121,5,Residencial no registrada
+F,,1.2.2,45F122,5,Gasto en mejoras y reparaciones de vivienda
+F,,1.2.3,45F123,5,No residencial no registrada 
+F,,2,45F2,3,Construcción pública
+F,,2.1,45F21,4,Administración Municipal
+F,,2.2,45F22,4,Administración Provincial
+F,,2.3,45F23,4,Administración Nacional
+G,G,G,G,Letra,"COMERCIO AL POR MAYOR, AL POR MENOR, REPARACIÓN DE VEHÍCULOS AUTOMOTORES, MOTOCICLETAS, EFECTOS PERSONALES Y ENSERES DOMÉSTICOS"
+G,,,50,2,"Venta, Mantenimiento y Reparación de Vehículos Automotores y Motocicletas; Venta al por Menor de Combustible para Vehículos Automotores"
+G,,,501,3,"Venta de vehículos automotores, excepto motocicletas"
+G,,,5010,4,"Venta de vehículos automotores, excepto motocicletas"
+G,,,50100,5,"Venta de vehículos automotores, excepto motocicletas"
+G,,,502,3,"Mantenimiento y Reparación de vehículos automotores, excepto motocicletas"
+G,,,5020,4,"Mantenimiento y Reparación de vehículos automotores, excepto motocicletas"
+G,,,50200,5,"Mantenimiento y Reparación de vehículos automotores, excepto motocicletas"
+G,,,503,3,"Venta de partes, piezas y accesorios de vehículos automotores"
+G,,,5031,4,"Venta al por mayor de partes, piezas y accesorios de vehículos automotores"
+G,,,50310,5,"Venta al por mayor de partes, piezas y accesorios de vehículos automotores"
+G,,,5032,4,"Venta al por menor de partes, piezas y accesorios de vehículos automotores"
+G,,,50320,5,"Venta al por menor de partes, piezas y accesorios de vehículos automotores"
+G,,,504,3,"Venta, mantenimiento y Reparación de motocicletas y de sus partes, piezas y accesorios"
+G,,,5040,4,"Venta, mantenimiento y Reparación de motocicletas y de sus partes, piezas y accesorios"
+G,,,50401,5,"Venta de motocicletas y de sus partes, piezas y accesorios"
+G,,,50402,5,Mantenimiento y Reparación de motocicletas
+G,,,505,3,Venta al por menor de combustible para vehículos automotores y motocicletas
+G,,,5050,4,Venta al por menor de combustible para vehículos automotores y motocicletas
+G,,,50500,5,Venta al por menor de combustible para vehículos automotores y motocicletas
+G,,,51,2,"Comercio al por Mayor y/o en Comisión o Consignación, Excepto el Comercio de Vehículos Automotores y Motocicletas"
+G,,,511,3,Venta al por mayor en comisión o consignación
+G,,,5111,4,Venta al por mayor en comisión o consignación de productos agrícolas y pecuarios
+G,,,51111,5,Venta al por mayor en comisión o consignación de productos agrícolas
+G,,,51112,5,Venta al por mayor en comisión o consignación de productos pecuarios
+G,,,5119,4,Venta al por mayor en comisión o consignación de mercancías n.c.p.
+G,,,51190,5,Venta al por mayor en comisión o consignación de mercancías n.c.p.
+G,,,512,3,"Venta al por mayor de materias primas agropecuarias, de animales vivos, alimentos, bebidas y tabaco, excepto en comisión o consignación"
+G,,,5121,4,Venta al por mayor de materias primas agropecuarias y de animales vivos
+G,,,51210,5,Venta al por mayor de materias primas agropecuarias y pecuarias incluso de animales vivos
+G,,,5122,4,Venta al por mayor de alimentos
+G,,,51221,5,"Venta al por mayor de fiambres, quesos y productos lácteos"
+G,,,51222,5,"Venta al por mayor de carnes rojas, menudencias y chacinados frescos; productos de granja y de la caza"
+G,,,51223,5,Venta al por mayor de pescado
+G,,,51224,5,"Venta al por mayor y empaque de frutas, de legumbres y hortalizas frescas"
+G,,,51225,5,"Venta al por mayor de pan, productos de confitería y pastas frescas; Venta al por mayor de aceites, azúcar, café, te, yerba mate y otras infusiones y especias y condimentos"
+G,,,51226,5,"Venta al por mayor de chocolates, golosinas y productos para kioscos y polirrubros n.c.p., excepto cigarrillos"
+G,,,51227,5,Venta al por mayor de alimentos balanceados para animales
+G,,,51228,5,Venta al por mayor en supermercados mayoristas de alimentos
+G,,,51229,5,Venta al por mayor de productos alimenticios n.c.p.
+G,,,5123,4,Venta al por mayor de bebidas
+G,,,51230,5,Venta al por mayor de bebidas
+G,,,5124,4,Venta al por mayor de cigarrillos y productos de tabaco
+G,,,51240,5,Venta al por mayor de cigarrillos y productos de tabaco
+G,,,513,3,Venta al por mayor de artículos de uso domestico y/o personal
+G,,,5131,4,"Venta al por mayor de productos textiles, prendas de vestir, calzado excepto el ortopédico, cueros, pieles, artículos de marroquinería,  paraguas y similares"
+G,,,51311,5,Venta al por mayor de productos textiles excepto prendas y accesorios de vestir
+G,,,51312,5,Venta al por mayor de prendas y accesorios de vestir
+G,,,51313,5,Venta al por mayor de calzado excepto el ortopédico
+G,,,51314,5,"Venta al por mayor de artículos de cueros, pieles, marroquinería y talabartería,  paraguas y similares"
+G,,,51315,5,"Venta al por mayor de uniformes, ropa de trabajo e indumentaria de seguridad"
+G,,,5132,4,"Venta al por mayor de libros, revistas, diarios, papel, cartón, materiales de embalaje y artículos de librería"
+G,,,51321,5,"Venta al por mayor de libros, revistas y diarios"
+G,,,51322,5,"Venta al por mayor de papel, cartón, materiales de embalaje y artículos de librería"
+G,,,5133,4,"Venta al por mayor de productos farmacéuticos, veterinarios, cosméticos y de perfumería, instrumental medico y odontológico y artículos ortopédicos"
+G,,,51331,5,Venta al por mayor de productos farmacéuticos
+G,,,51332,5,"Venta al por mayor de productos cosméticos, de tocador y de perfumería"
+G,,,51333,5,Venta al por mayor de instrumental medico y odontológico y artículos ortopédicos
+G,,,51334,5,Venta al por mayor de productos veterinarios
+G,,,5134,4,"Venta al por mayor de artículos de óptica, fotografía, relojería, joyería y fantasías"
+G,,,51341,5,Venta al por mayor de artículos de óptica y de fotografía
+G,,,51342,5,"Venta al por mayor de artículos de relojería, joyería y fantasías"
+G,,,5135,4,"Venta al por mayor de muebles, artículos de iluminación y  demás artefactos para el hogar"
+G,,,51350,5,"Venta al por mayor de muebles, artículos de iluminación y  demás artefactos para el hogar"
+G,,,5139,4,Venta al por mayor de artículos de uso domestico y/o personal n.c.p.
+G,,,51390,5,Venta al por mayor de artículos de uso domestico y/o personal n.c.p.
+G,,,514,3,"Venta al por mayor de productos intermedios, desperdicios y desechos no agropecuarios"
+G,,,5141,4,"Venta al por mayor de combustibles, incluso gaseosos y productos conexos"
+G,,,51411,5,Venta al por mayor de combustibles y lubricantes para automotores
+G,,,51419,5,"Venta al por mayor de combustibles y lubricantes -excepto para automotores-, gas en garrafas, leña y carbón"
+G,,,5142,4,Venta al por mayor de metales y minerales metalíferos
+G,,,51420,5,Venta al por mayor de metales y minerales metalíferos
+G,,,5143,4,"Venta al por mayor de madera,  materiales de Construcción, artículos de ferretería y materiales para plomería e instalaciones de  gas"
+G,,,51430,5,"Venta al por mayor de madera,  materiales de Construcción, artículos de ferretería y materiales para plomería e instalaciones de  gas"
+G,,,5149,4,"Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos"
+G,,,51492,5,"Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos de papel y cartón"
+G,,,51493,5,"Venta al por mayor de productos intermedios, desperdicios y desechos de vidrio,  de plástico, de caucho y goma, y químicos"
+G,,,51494,5,"Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos metálicos"
+G,,,51495,5,"Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos de componentes eléctricos"
+G,,,51499,5,"Venta al por mayor de productos intermedios, desperdicios y desechos n.c.p."
+G,,,515,3,"Venta al por mayor de maquinas, equipo y materiales conexos"
+G,,,5151,4,"Venta al por mayor de maquinas, equipos e implementos de uso especial"
+G,,,51511,5,"Venta al por mayor de maquinas, equipos e implementos de uso en los sectores agropecuario, jardinería, silvicultura, pesca y caza"
+G,,,51512,5,"Venta al por mayor de maquinas, equipos e implementos de uso en la elaboración de alimentos, bebidas y tabaco"
+G,,,51513,5,"Venta al por mayor de maquinas, equipos e implementos de uso en la Fabricación de textiles, prendas y accesorios de vestir, calzado, artículos de cuero y marroquinería"
+G,,,51514,5,"Venta al por mayor de maquinas, equipos e implementos de uso en imprentas, artes graficas y actividades conexas"
+G,,,51515,5,"Venta al por mayor de maquinas, equipos e implementos de uso medico y paramédico"
+G,,,51519,5,"Venta al por mayor de maquinas, equipos e implementos de uso especial n.c.p."
+G,,,5152,4,Venta al por mayor de maquinas-herramienta de uso general
+G,,,51520,5,Venta al por mayor de maquinas-herramienta de uso general
+G,,,5154,4,"Venta al por mayor de muebles e instalaciones para la industria, el comercio y los servicios"
+G,,,51540,5,"Venta al por mayor de muebles e instalaciones para la industria, el comercio y los servicios"
+G,,,5159,4,"Venta al por mayor de maquinas, equipo y materiales conexos n.c.p."
+G,,,51592,5,"Venta al por mayor de equipos informáticos y maquinas electrónicas de escribir y calcular ;Venta al por mayor de maquinas y equipos de comunicaciones, control y seguridad"
+G,,,51599,5,"Venta al por mayor de maquinas, equipo y materiales conexos n.c.p."
+G,,,519,3,Venta al por mayor de mercancías n.c.p.
+G,,,5190,4,Venta al por mayor de mercancías n.c.p.
+G,,,51901,5,Venta al por mayor de insumos agropecuarios diversos
+G,,,51909,5,Venta al por mayor de mercancías n.c.p.
+G,,,52,2,"Comercio al por Menor, Excepto el Comercio de Vehículos Automotores y Motocicletas; Reparación de Efectos Personales y Enseres Domésticos"
+G,,,521,3,Venta al por menor excepto la especializada
+G,,,5211,4,Venta al por menor en comercios no especializados con predominio de productos alimenticios y bebidas
+G,,,52112,5,Venta al por menor en supermercados con predominio productos de alimenticios y bebidas
+G,,,52119,5,"Venta al por menor en kioscos, polirrubros y comercios no especializados n.c.p."
+G,,,52120,5,"Venta al por menor excepto la especializada, sin predominio de productos alimenticios y bebidas"
+G,,,522,3,"Venta al por menor de productos alimenticios, bebidas y tabaco en comercios especializados"
+G,,,5221,4,"Venta al por menor de productos de almacén, fiambrera y dietética"
+G,,,52211,5,"Venta al por menor principalmente de fiambres, quesos y productos lácteos"
+G,,,52212,5,Venta al por menor de productos de almacén y dietética
+G,,,5222,4,Venta al por menor de carnes rojas y productos de granja y de la caza
+G,,,52221,5,"Venta al por menor de carnes rojas, menudencias y chacinados frescos"
+G,,,52222,5,"Venta al por menor de huevos, carne de aves y  productos de granja y de la caza n.c.p."
+G,,,5223,4,"Venta al por menor de frutas, legumbres y hortalizas frescas"
+G,,,52230,5,"Venta al por menor de frutas, legumbres y hortalizas frescas"
+G,,,5224,4,Venta al por menor de pan y productos de panadería y confitería
+G,,,52240,5,Venta al por menor de pan y productos de panadería y confitería
+G,,,5225,4,Venta al por menor de bebidas
+G,,,52250,5,Venta al por menor de bebidas
+G,,,5229,4,"Venta al por menor de productos  alimenticios n.c.p. y tabaco, en comercios especializados"
+G,,,52291,5,Venta al por menor de pescados y productos de la pesca
+G,,,52299,5,"Venta al por menor de productos alimenticios n.c.p. y tabaco, en comercios especializados"
+G,,,523,3,"Venta al por menor de productos n.c.p. excepto los usados, en comercios especializados"
+G,,,5231,4,"Venta al por menor de productos farmacéuticos, cosméticos, de perfumería, instrumental medico y odontológico y artículos ortopédicos"
+G,,,52311,5,Venta al por menor de productos farmacéuticos y de herboristería
+G,,,52312,5,"Venta al por menor de productos cosméticos, de tocador y de perfumería"
+G,,,52313,5,Venta al por menor de instrumental medico y odontológico y artículos ortopédicos
+G,,,5232,4,"Venta al por menor de productos textiles, excepto prendas de vestir"
+G,,,52321,5,"Venta al por menor de hilados, tejidos y artículos de mercería"
+G,,,52322,5,Venta al por menor de confecciones para el hogar
+G,,,52329,5,Venta al por menor de artículos textiles n.c.p. excepto prendas de vestir
+G,,,5233,4,"Venta al por menor de prendas y accesorios de vestir excepto calzado, artículos de marroquinería, paraguas y similares"
+G,,,52330,5,"Venta al por menor de prendas y accesorios de vestir excepto calzado, artículos de marroquinería, paraguas y similares"
+G,,,5234,4,"Venta al por menor de calzado excepto el ortopédico, artículos de marroquinería, paraguas y similares"
+G,,,52341,5,Venta al por menor de artículos de talabartería
+G,,,52342,5,Venta al por menor de calzado excepto el ortopédico
+G,,,52343,5,Venta al por menor de calzado deportivo
+G,,,52349,5,"Venta al por menor de artículos de marroquinería, paraguas y similares n.c.p."
+G,,,5235,4,"Venta al  por menor de muebles, artículos de mimbre y corcho, colchones y somieres, artículos de  iluminación y artefactos para el hogar"
+G,,,52351,5,"Venta al por menor de muebles excepto para la oficina, la industria, el comercio y los servicios; artículos de mimbre y corcho"
+G,,,52352,5,Venta al por menor de colchones y somieres
+G,,,52353,5,Venta al por menor de artículos de iluminación
+G,,,52354,5,Venta al por menor de artículos de bazar y menaje
+G,,,52355,5,"Venta al por menor de artefactos  para el hogar, eléctricos, a gas, a kerosén u otros combustibles"
+G,,,52356,5,"Venta al por menor de instrumentos musicales, equipos de sonido, casetes de audio y video, discos de audio y video"
+G,,,52357,5,Venta al por menor de aparatos de telefonía y comunicación de uso personal
+G,,,52359,5,Venta al por menor de artículos para el hogar n.c.p.
+G,,,5236,4,"Venta al por menor de materiales de Construcción, artículos de ferretería, pinturas, cristales y espejos, y artículos para la decoración"
+G,,,52361,5,Venta al por menor de aberturas
+G,,,52362,5,Venta al por menor de maderas y artículos de madera  y corcho excepto muebles
+G,,,52363,5,Venta al por menor de artículos de ferretería y materiales eléctricos
+G,,,52364,5,Venta al por menor de pinturas y productos conexos
+G,,,52365,5,Venta al por menor de artículos para plomería e instalación de gas
+G,,,52366,5,"Venta al por menor de cristales, espejos, mamparas y cerramientos"
+G,,,52367,5,"Venta al por menor de papeles para pared, revestimientos para pisos y artículos similares para la decoración: casas de decoración"
+G,,,52369,5,Venta al por menor de materiales de Construcción n.c.p.
+G,,,5237,4,"Venta al por menor de artículos de óptica, fotografía, relojería, joyería y fantasía"
+G,,,52371,5,Venta al por menor de artículos de óptica y fotografía
+G,,,52372,5,Venta al por menor de artículos de relojería y joyería
+G,,,52373,5,Venta al por menor de bijouterie y fantasía
+G,,,5238,4,"Venta al por menor de libros, revistas, diarios, papel, cartón, materiales de embalaje y artículos de librería"
+G,,,52381,5,Venta al por menor de libros y publicaciones
+G,,,52382,5,Venta al por menor de diarios y revistas
+G,,,52383,5,"Venta al por menor de papel, cartón, materiales de embalaje y artículos de librería"
+G,,,5239,4,Venta al por menor en comercios especializados n.c.p.
+G,,,52391,5,"Venta al por menor de flores, plantas, semillas, abonos, fertilizantes y otros productos de vivero"
+G,,,52392,5,Venta al por menor de materiales y productos de limpieza
+G,,,52393,5,Venta al por menor de juguetes; artículos de cotillon y juegos de mesa
+G,,,52394,5,Venta al por menor de artículos de deportes y esparcimiento
+G,,,52395,5,Venta al por menor de maquinas y equipos para oficina y sus componentes y repuestos de uso personal o domestico
+G,,,52396,5,"Venta al por menor de fuel oil, gas en garrafas, carbón y leña"
+G,,,52397,5,"Venta al por menor de productos veterinarios, animales domésticos y alimento balanceado para mascota"
+G,,,52399,5,Venta al por menor de artículos nuevos n.c.p.
+G,,,524,3,Venta al por menor de artículos usados excluidos automotores y motocicletas
+G,,,5240,4,Venta al por menor de artículos usados excluidos automotores y motocicletas
+G,,,52400,5,Venta al por menor de artículos usados excluidos automotores y motocicletas
+G,,,525,3,Venta al por menor no realizada en establecimientos
+G,,,5259,4,Venta al por menor no realizada en establecimientos  n.c.p.
+G,,,52590,5,Venta al por menor no realizada en establecimientos  n.c.p.
+G,,,526,3,Reparación de efectos personales y enseres domésticos
+G,,,5260,4,Reparación de efectos personales y enseres domésticos
+G,,,52600,5,Reparación de efectos personales y enseres domésticos
+H,H,H,H,Letra,SERVICIOS DE HOTELERIA Y RESTAURANTES
+H,,,55,2,Servicios de Hoteleria y Restaurantes
+H,,,551,3,"Servicios de alojamiento en hoteles, campamentos y otros tipos de hospedaje temporal"
+H,,,5511,4,Servicios de alojamiento en camping
+H,,,55110,5,Servicios de alojamiento en camping
+H,,,5512,4,Servicios de alojamiento excepto en camping
+H,,,55121,5,Servicios de alojamiento por hora
+H,,,55122,5,"Servicios de alojamiento en hoteles, pensiones y otras residencias de alojamiento temporal, excepto por  hora"
+H,,,552,3,Servicios de expendio de comidas y bebidas
+H,,,5521,4,"Servicios de expendio de comidas y bebidas en restaurantes, bares y otros establecimientos con servicio de mesa y/o en mostrador"
+H,,,55211,5,"Servicios de expendio de comidas y bebidas en restaurantes, bares y otros establecimientos con servicio de mesa y/o en mostrador excepto en heladerías"
+H,,,55212,5,Servicios de expendio de helados
+H,,,5522,4,Preparación y venta de comidas para llevar
+H,,,55221,5,Provisión de comidas preparadas para empresas
+H,,,55229,5,Preparación y venta de comidas para llevar n.c.p.
+I,I,,I,Letra,"SERVICIO DE TRANSPORTE, DE ALMACENAMIENTO Y DE COMUNICACIONES"
+I,60,,60,2,Servicio de Transporte Terrestre
+I,601,,601,3,Servicio de transporte ferroviario.
+I,601.1,,601.1,5,Servicio de transporte ferroviario de cargas.
+I,601.10,,601.10,5,Servicio de transporte ferroviario de cargas.
+I,601.2,,601.2,5,Servicio de transporte ferroviario de pasajeros.
+I,601.21,,601.21,3,Servicio de transporte ferroviario urbano y suburbano de pasajeros.
+I,601.22,,601.22,4,Servicio de transporte ferroviario interurbano de pasajeros.
+I,602,,602,5,Servicio de transporte automotor.
+I,602.1,,602.1,5,Servicio de transporte automotor de cargas.
+I,602.11,,602.11,5,Servicios de mudanza.
+I,602.12,,602.12,5,"Servicios de transporte de mercaderías a granel, incluido el transporte por camión cisterna."
+I,602.13,,602.13,3,Servicios de transporte de animales.
+I,602.18,,602.18,2,Servicio de transporte urbano de carga n.c.p.
+I,602.19,,602.19,2,Servicio de transporte automotor de cargas n.c.p.
+I,602.2,,602.2,2,Servicio de transporte automotor de pasajeros.
+I,602.21,,602.21,3,Servicio de transporte automotor urbano regular de pasajeros.
+I,602.22,,602.22,3,Servicio de transporte automotor  de pasajeros mediante taxis y remises; alquiler de autos con chofer.
+I,602.23,,602.23,3,Servicio de transporte escolar.
+I,602.24,,602.24,3,"Servicio de transporte automotor urbano de oferta libre de pasajeros excepto mediante taxis y remises, alquiler de autos con chofer y  transporte escolar."
+I,602.25,,602.25,3,Servicio de transporte automotor interurbano de pasajeros.
+I,602.26,,602.26,2,Servicio de transporte automotor de pasajeros para el turismo.
+I,602.27,,602.27,3,Servicio de transporte automotor internacional de pasajeros.
+I,602.29,,602.29,5,Servicio de transporte automotor de pasajeros n.c.p.
+I,603,,603,3,Servicio de transporte por tuberías.
+I,603.1,,603.1,4,Servicio de transporte por oleoductos; poliductos y fueloductos.
+I,603.11,,603.11,5,Servicio de transporte por oleoductos.
+I,603.12,,603.12,5,Servicio de transporte por poliductos y fueloductos.
+I,603.2,,603.2,4,Servicio de transporte por gasoductos.
+I,603.20,,603.20,5,Servicio de transporte por gasoductos.
+I,61,,61,2,Servicio de Transporte por Vía Acuática
+I,611,,611,3,Servicio de transporte marítimo.
+I,611.1,,611.1,4,Servicio de transporte marítimo de carga.
+I,611.10,,611.10,5,Servicio de transporte marítimo de carga.
+I,611.2,,611.2,4,Servicio de transporte marítimo de pasajeros.
+I,611.20,,611.20,5,Servicio de transporte marítimo de pasajeros.
+I,612,,612,3,Servicio de transporte fluvial.
+I,612.1,,612.1,4,Servicio de transporte fluvial de cargas.
+I,612.10,,612.10,5,Servicio de transporte fluvial de cargas.
+I,612.2,,612.2,4,Servicio de transporte fluvial de pasajeros.
+I,612.20,,612.20,5,Servicio de transporte fluvial de pasajeros.
+I,62,,62,2,Servicio de Transporte Aéreo
+I,62.1,,62.1,3,Servicio de transporte aéreo de cargas.
+I,62.10,,62.10,4,Servicio de transporte aéreo de cargas.
+I,62100,,62100,5,Servicio de transporte aéreo de cargas.
+I,62.2,,62.2,3,Servicio de transporte aéreo de pasajeros.
+I,62.20,,62.20,4,Servicio de transporte aéreo de pasajeros.
+I,62200,,62200,5,Servicio de transporte aéreo de pasajeros.
+I,63,,63,2,Servicios Anexos al Transporte; Servicios de Agencias de Viaje
+I,63.1,,63.1,3,Servicios de manipulación de carga.
+I,63.10,,63.10,4,Servicios de manipulación de carga.
+I,63101,,63101,5,Servicios de manipulación de carga en el ámbito terrestre.
+I,63102,,63102,5,Servicios de manipulación de carga en el ámbito portuario.
+I,63103,,63103,5,Servicios de manipulación de carga en el ámbito aéreo.
+I,63.2,,63.2,3,Servicios de almacenamiento y depósito.
+I,63.20,,63.20,4,Servicios de almacenamiento y depósito.
+I,63201,,63201,5,Servicios de almacenamiento y depósito en silos.
+I,63202,,63202,5,Servicios de almacenamiento y depósito en cámaras frigoríficas.
+I,63209,,63209,5,Servicios de almacenamiento y depósito n.c.p.
+I,63.3,,63.3,3,Servicios complementarios para el transporte.
+I,63.31,,63.31,4,Servicios complementarios para el transporte terrestre
+I,63311,,63311,5,Servicios explotación de infraestructura; peajes y otros derechos.
+I,63312,,63312,5,Servicios prestados por playas de estacionamiento y garajes.
+I,63313,,63313,5,"Mantenimiento y reparación de vehículos automotores, excepto motocicletas y automotores de uso particular."
+I,63318,,63318,5,Servicios de bonetería (para unidades auxiliares).
+I,63319,,63319,5,Servicios complementarios para el transporte terrestre n.c.p.
+I,63.32,,63.32,4,Servicios complementarios para el transporte por agua.
+I,63321,,63321,5,Servicios de explotación de infraestructura; derechos de puerto.
+I,63322,,63322,5,Servicios de guarderías náuticas.
+I,63323,,63323,5,Servicios para la navegación.
+I,63324,,63324,5,Mantenimiento y reparación de lanchas y embarcaciones deportivas.
+I,63329,,63329,5,Servicios complementarios para el transporte por agua n.c.p.
+I,63.33,,63.33,4,Servicios complementarios para el transporte aéreo.
+I,63331,,63331,5,"Servicios de hangares, estacionamiento y remolque de aeronaves."
+I,63332,,63332,5,Servicios para la aeronavegación.
+I,63339,,63339,5,Servicios complementarios para el transporte aéreo n.c.p.
+I,63.4,,63.4,3,Servicios de agencias de viaje y otras actividades complementarias de apoyo turístico
+I,63.41,,63.41,4,Servicios mayoristas de agencias de viajes.
+I,63410,,63410,5,Servicios mayoristas de agencias de viajes.
+I,63.42,,63.42,4,Servicios minoristas de agencias de viajes.
+I,63420,,63420,5,Servicios minoristas de agencias de viajes.
+I,63.43,,63.43,4,Servicios complementarios de apoyo turístico.
+I,63430,,63430,5,Servicios complementarios de apoyo turístico.
+I,63.5,,63.5,3,Servicios de gestión y logística para el transporte de mercaderías.
+I,63.50,,63.50,4,Servicios de gestión y logística para el transporte de mercaderías.
+I,63501,,63501,5,Servicios de gestión aduanera para el transporte de mercaderías.
+I,63502,,63502,5,Servicios de agencias marítimas para el transporte de mercaderías.
+I,63509,,63509,5,Servicios de gestión y logística para el transporte de mercaderías n.c.p.
+I,64,,64,2,Servicios de correos y telecomunicaciones.
+I,641,,641,3,Servicios de correos.
+I,641.0,,641.0,4,Servicios de correos.
+I,641.01,,641.01,5,Servicio de correo postal.
+I,641.09,,641.09,5,Otros servicios de correo n.c.p.
+I,642,,642,3,Servicios de transmisión de radio y televisión.
+I,642.1,,642.1,4,Servicios de transmisión de radio.
+I,642.10,,642.10,5,Servicios de transmisión de radio.
+I,642.2,,642.2,4,Servicios de transmisión de televisión.
+I,642.21,,642.21,5,Servicios de transmisión de televisión abierta.
+I,642.29,,642.29,5,Servicios de transmisión de televisión n.c.p.
+I,643,,643,3,Servicios de telecomunicaciones.
+I,6431,,6431,4,Servicios de telefonía fija.
+I,64311,,64311,5,Servicios de locutorios.
+I,64319,,64319,5,"Servicios de telefonía fija, excepto locutorios."
+I,6432,,6432,4,Servicios de telefonía móvil.
+I,64320,,64320,5,Servicios de telefonía móvil.
+I,6433,,6433,4,"Servicios de telecomunicaciones vía satélite, excepto servicios de transmisión de televisión."
+I,64330,,64330,5,"Servicios de telecomunicaciones vía satélite, excepto servicios de transmisión de televisión."
+I,6439,,6439,4,Servicios de telecomunicaciones n.c.p.
+I,64390,,64390,5,Servicios de telecomunicaciones n.c.p.
+I,644,,644,3,Servicios de internet.
+I,6440,,6440,4,Servicios de internet.
+I,64401,,64401,5,Servicios de proveedores de internet.
+I,64409,,64409,5,Servicios de internet n.c.p.
+J,J,J,J,Letra,INTERMEDIACIÓN FINANCIERA Y OTROS SERVICIOS FINANCIEROS
+J,65,65,65,2,Intermediación monetaria y otros servicios financieros excepto los de seguro y de administración de fondos de jubilaciones y pensiones
+J,651,651,651,3,Intermediación monetaria y financiera de la banca central
+J,652,652,652,3,Intermediación monetaria y financiera de las entidades financieras bancarias y no bancarias
+J,6521,6521,6521,4,Servicios de las entidades financieras bancarias
+J,659,659,659,3,Servicios financieros excepto los de la banca central y las entidades financieras
+J,66,66,66,2,Servicios de seguros y de administración de fondos de jubilaciones y pensiones
+J,661,661,661,3,Servicios de seguros
+J,6611,6611,6611,4,Servicios de seguros personales
+J,66111,66111,66111,5,Servicios de seguro de salud
+J,66112,66112,66112,5,Servicios de seguro de vida y patrimoniales
+J,662,662,662,3,Administración de fondos de jubilaciones y pensiones (AFJP)
+J,6620,6620,6620,4,Administración de fondos de jubilaciones y pensiones (AFJP)
+J,66200,66200,66200,5,Administración de fondos de jubilaciones y pensiones (AFJP)
+J,67,67,67,2,Servicios Auxiliares a la Actividad Financiera
+J,672,672,672,3,Servicios auxiliares a los servicios de seguros y de administración de fondos de jubilaciones y pensiones.
+K,K,K,K ,Letra,"SERVICIOS INMOBILIARIOS, EMPRESARIALES Y DE ALQUILER"
+K,70,70,70,2,Actividades inmobiliarias
+K,701,701,701,3,Actividades inmobiliarias realizadas con bienes propios o arrendados
+K,7010,7010,7010,4,Actividades inmobiliarias realizadas con bienes propios o arrendados
+K,70101,70101,70101,5,"Servicios de alquiler y explotación de inmuebles para fiestas, convenciones y otros eventos similares"
+K,70102,70102,70102,5,Servicio de alquiler de consultorios médicos
+K,70109,70109,70109,5,"Servicios inmobiliarios realizados por cuenta propia, con bienes propios o arrendados n.c.p."
+K,,Prop. Viv.,701091,6,Propiedad de la vivienda
+K,,Alq. Sect. Prod.,701092,6,Alquileres de los sectores productores
+K,702,702,702,3,Actividades inmobiliarias realizadas a cambio de una retribución o por contrata
+K,70201,70201,70201,5,Servicio de administracion de consorcio de edificios
+K,70209,70209,70209,5,Servicios inmobiliarios realizados a cambio de una retribución o por contrata n.c.p 
+K,71,71,71,2,Alquiler de maquinaria y equipos sin operarios y de efectos personales y enseres domésticos
+K,711,711,711,3,Alquiler de equipo de transporte
+K,712,712,712,3,Alquiler de otros tipos de maquinaria y equipo
+K,713,713,713,3,Alquiler de efectos personales y enseres domésticos n.c.p.
+K,72,72,72,2,Informática y actividades conexas
+K,73,73,73,2,Investigación y desarrollo
+K,,Sector Privado,A73,3,Investigación y desarrollo en el sector privado
+K,,Sector Público,B73,3,Investigación y desarrollo en el sector público
+K,74,74,74,2,Otras actividades empresariales
+K,741,741,741,3,"Actividades jurídicas y de contabilidad, teneduría de libros y auditoría; asesoramiento en materia de impuestos; estudios de mercado y realización de encuestas de opinión pública; asesoramiento empresarial y en materia de gestión"
+K,7411,7411,7411,4,Actividades jurídicas
+K,7412,7412,7412,4,"Actividades de contabilidad y teneduría de libros, auditoría y asesoría fiscal"
+K,7413,7413,"7413,4,5,9",4,Investigación de mercado y realización de encuestas de opinión pública.    Actividades de asesoramiento empresarial y en materia de gestión.    Servicios de gerenciamiento de empresas e instituciones de salud; servicios de auditoria y medicina legal; servicio de asesoramiento farmacéutico.    Asesoramineto empresarial n.c.p.
+K,742,742,742,3,Actividades de arquitectura e ingeniería y actividades conexas de asesoramiento técnico
+K,743,743,743,3,Publicidad
+K,749,749,749,3,Actividades empresariales n.c.p.
+K,7491,7491,7491,4,Obtención y dotación de personal
+K,7492,7492,7492,4,Actividades de investigación y seguridad
+K,7493,7493,7493,4,Actividades de limpieza de edificios
+K,7494,7494,7494,4,Actividades de fotografía
+K,7495,7495,7495,4,Actividades de envase y empaque
+K,7496,7496,7496,4,"Servicios de impresión heliográfica, fotocopia y otras formas de reproducciones."
+K,7499,7499,7499,4,Otras actividades empresariales n.c.p.
+L,L,L,L,Letra,"ADMINISTRACIÓN PÚBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA"
+L,75,75,75,2,"Administración pública, defensa y seguridad social obligatoria"
+L,751,751,751,3,Servicios de la Administración Pública
+L,7511,7511,7511,4,Servicios Generales de la Administración Pública
+L,7512,7512,7512,4,"Servicios para la regulación de las actividades sanitarias, educativas, culturales, y restantes servicios sociales, excepto seguridad social obligatoria"
+L,7513,7513,7513,4,Servicios para la regulación de la actividad económica
+L,7519,7519,7519,4,Servicios Auxiliares para los servicios generales de la Administración Pública n.c.p
+L,752,752,752,3,Prestacion Pública de servicios a la comunidad en general
+L,7521,7521,7521,4,Servicios de Asuntos Exteriores
+L,7522,7522,7522,4,Servicios de Defensa
+L,7523,7523,7523,4,Servicios de Justicia
+L,7524,7524,7524,4,Servicios para el orden público y la seguridad
+L,7525,7525,7525,4,Servicios de Protección Civil
+L,753,735,735,3,Servicios de la seguridad social obligatoria
+L,7530,7530,7530,4,Servicios de la seguridad social obligatoria 
+M,M,,M,Letra,ENSEÑANZA
+M,80,,80,2,Enseñanza Pública
+M,801,,801,3,Enseñanza inicial y primaria.
+M,8010,,8010,4,Enseñanza inicial y primaria.
+M,8010.1,,8010.1,5,Guarderías y jardines maternales.
+M,8010.2,,8010.2,5,"Enseñanza inicial, jardín de infantes y primaria."
+M,802,,802,3,Enseñanza secundaria.
+M,8021,,8021,4,Enseñanza secundaria de formación general.
+M,8021.0,,8021.0,5,Enseñanza secundaria de formación general.
+M,8022,,8022,4,Enseñanza secundaria de formación técnica y profesional.
+M,8022.0,,8022.0,5,Enseñanza secundaria de formación técnica y profesional.
+M,803,,803,3,Enseñanza superior y formación de postgrado.
+M,803.1,,803.1,4,Enseñanza  terciaria.
+M,803.10,,803.10,5,Enseñanza  terciaria.
+M,803.2,,803.2,4,Enseñanza universitaria excepto formación de postgrados.
+M,803.20,,803.20,5,Enseñanza universitaria excepto formación de postgrados.
+M,8033,,8033,4,Formación de postgrado.
+M,8033.0,,8033.0,5,Formación de postgrado.
+M,809,,809,3,Enseñanza para adultos y servicios de enseñanza n.c.p.
+M,8090,,8090,4,Enseñanza para adultos y servicios de enseñanza n.c.p.
+M,8090.1,,8090.1,5,"Enseñanza de gimnasia, deportes y actividades físicas."
+M,8090.2,,8090.2,5,Enseñanza de idiomas.
+M,8090.3,,8090.3,5,Enseñanza de cursos relacionados con informática.
+M,8090.4,,8090.4,5,"Enseñanza para adultos, excepto discapacitados."
+M,8090.5,,8090.5,5,Enseñanza especial y para discapacitados.
+M,8090.9,,8090.9,5,Servicios de enseñanza n.c.p.
+M,81,,81,2,Servicios para la educación.
+M,810,,810,3,Servicios para la educación.
+M,8100,,8100,4,Servicios para la educación.
+M,81000,,81000,5,Servicios para la educación.
+M,80,,80,2,Enseñanza PRIVADA
+M,801,,801,3,Enseñanza inicial y primaria.
+M,8010,,8010,4,Enseñanza inicial y primaria.
+M,8010.1,,8010.1,5,Guarderías y jardines maternales.
+M,8010.2,,8010.2,5,"Enseñanza inicial, jardín de infantes y primaria."
+M,802,,802,3,Enseñanza secundaria.
+M,8021,,8021,4,Enseñanza secundaria de formación general.
+M,8021.0,,8021.0,5,Enseñanza secundaria de formación general.
+M,8022,,8022,4,Enseñanza secundaria de formación técnica y profesional.
+M,8022.0,,8022.0,5,Enseñanza secundaria de formación técnica y profesional.
+M,803,,803,3,Enseñanza superior y formación de postgrado.
+M,803.1,,803.1,4,Enseñanza  terciaria.
+M,803.10,,803.10,5,Enseñanza  terciaria.
+M,803.2,,803.2,4,Enseñanza universitaria excepto formación de postgrados.
+M,803.20,,803.20,5,Enseñanza universitaria excepto formación de postgrados.
+M,8033,,8033,4,Formación de postgrado.
+M,8033.0,,8033.0,5,Formación de postgrado.
+M,809,,809,3,Enseñanza para adultos y servicios de enseñanza n.c.p.
+M,8090,,8090,4,Enseñanza para adultos y servicios de enseñanza n.c.p.
+M,8090.1,,8090.1,5,"Enseñanza de gimnasia, deportes y actividades físicas."
+M,8090.2,,8090.2,5,Enseñanza de idiomas.
+M,8090.3,,8090.3,5,Enseñanza de cursos relacionados con informática.
+M,8090.4,,8090.4,5,"Enseñanza para adultos, excepto discapacitados."
+M,8090.5,,8090.5,5,Enseñanza especial y para discapacitados.
+M,8090.9,,8090.9,5,Servicios de enseñanza n.c.p.
+M,81,,81,2,Servicios para la educación.
+M,810,,810,3,Servicios para la educación.
+M,8100,,8100,4,Servicios para la educación.
+M,81000,,81000,5,Servicios para la educación.
+N,N,N,N,Letra,SERVICIOS SOCIALES Y DE SALUD
+N,85,85,85,2,Servicios sociales y de salud
+N,,A85,A85,2,Sector Público
+N,,A851,A851,3,Servicios relacionados con la salud humana
+N,,A8511,A8511,4,Servicios de internación
+N,,A8512,A8512,4,Servicios de atención médica
+N,,A8513,A8513,4,Servicios odontológicos
+N,,A8514,A8514,4,Servicios de diagnóstico
+N,,A8515,A8515,4,Servicios de tratamiento
+N,,A8516,A8516,4,Servicios de emergencias y traslados
+N,,A8519,A8519,4,Servicios relacionados con la salud humana n.c.p
+N,,A852,A852,3,Servicios veterinarios
+N,,A8520,A8520,4,Servicios veterinarios
+N,,A853,A853,3,Servicios sociales
+N,,A8531,A8531,4,Servicios sociales con alojamiento
+N,,A8532,A8532,4,Servicios sociales sin alojamiento
+N,,B85,B85,2,Sector Privado
+N,,B8511,B8511,4,Servicios de internación
+N,,B8512,B8512,4,Servicios de atención médica
+N,,B8519,B8519,4,Servicios relacionados con la salud humana n.c.p
+N,,B8520,B8520,4,Servicios veterinarios
+N,,B8531,B8531,4,Servicios sociales con alojamiento
+N,,B8532,B8532,4,Servicios sociales sin alojamiento
+O,O,,O,Letra,"SERVICIOS COMUNITARIOS, SOCIALES Y PERSONALES N.C.P."
+O,90,,90,2,"Eliminación de Desperdicios y Aguas Residuales, Saneamiento y Servicios Similares"
+O,900,,900,3,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares."
+O,9000,,9000,4,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares."
+O,9000.1,,9000.1,5,"Recolección, reducción y eliminación de desperdicios."
+O,9000.2,,9000.2,5,"Servicios de depuración de aguas residuales, alcantarillado y cloacas."
+O,9000.9,,9000.9,5,Servicios de saneamiento publico n.c.p.
+O,91,,91,2,Servicios de Asociaciones n.c.p.
+O,911,,911,3,"Servicios de organizaciones empresariales, profesionales y de empleadores."
+O,9111,,9111,4,Servicios de organizaciones empresariales y de empleadores.
+O,9111.1,,9111.1,5,Servicios de organizaciones empresariales y de empleadores relacionados con la salud.
+O,9111.2,,9111.2,5,"Servicios de organizaciones empresariales y de empleadores relacionados con la producción manufacturera, el comercio y los servicios públicos."
+O,9111.3,,9111.3,5,"Servicios de organizaciones empresariales y de empleadores relacionados con la industria de la construcción, la ingeniería y la arquitectura."
+O,9111.4,,9111.4,5,Servicios de organizaciones empresariales y de empleadores relacionados con el turismo.
+O,9111.5,,9111.5,5,Servicios de organizaciones empresariales y de empleadores relacionados con el transporte; carga y descarga; almacenamiento.
+O,9111.6,,9111.6,5,Servicios de organizaciones empresariales y de empleadores relacionados con los sectores de producción primaria.
+O,9111.7,,9111.7,5,Servicios de organizaciones empresariales y de empleadores relacionados con la educación y la cultura.
+O,9111.9,,9111.9,5,Servicios de organizaciones empresariales y de empleadores n.c.p.
+O,9112,,9112,4,Servicios de organizaciones profesionales.
+O,9112.1,,9112.1,5,Servicios de organizaciones profesionales relacionadas con la salud.
+O,9112.2,,9112.2,5,Servicios de organizaciones profesionales relacionadas con la educación y la cultura.
+O,9112.3,,9112.3,5,Servicios de organizaciones profesionales relacionadas con actividades deportivas.
+O,9112.4,,9112.4,5,"Servicios de organizaciones profesionales relacionadas con actividades legales, jurídicas y de justicia."
+O,9112.5,,9112.5,5,Servicios de organizaciones profesionales relacionadas con la seguridad y la defensa.
+O,9112.6,,9112.6,5,Servicios de organizaciones profesionales relacionadas con el turismo.
+O,9112.7,,9112.7,5,"Servicios de organizaciones profesionales relacionadas con la industria de la construcción, la ingeniería y la arquitectura."
+O,9112.9,,9112.9,5,Servicios de organizaciones profesionales n.c.p
+O,912,,912,3,Servicios de sindicatos.
+O,9120,,9120,4,Servicios de sindicatos.
+O,9120.1,,9120.1,5,Servicios de sindicatos relacionados con el personal de la salud.
+O,9120.2,,9120.2,5,Servicios de sindicatos relacionados con el personal de la educación y la cultura.
+O,9120.3,,9120.3,5,"Servicios de sindicatos relacionados con el personal de la construcción, la ingeniería y la arquitectura"
+O,9120.4,,9120.4,5,"Servicios de sindicatos relacionados con el personal de la producción manufacturera, el comercio y los servicios públicos."
+O,9120.5,,9120.5,5,Servicios de sindicatos relacionados con el personal de los sectores de producción primaria.
+O,9120.6,,9120.6,5,"Servicios de sindicatos relacionados con el personal de transporte, carga y descarga, almacenamiento."
+O,9120.7,,9120.7,5,"Servicios de sindicatos relacionados con el personal del Estado nacional, provincial y local."
+O,9120.8,,9120.8,5,Servicios de sindicatos relacionados con el personal de turismo.
+O,9120.9,,9120.9,5,Servicios de sindicatos n.c.p.
+O,919,,919,3,Servicios de asociaciones n.c.p.
+O,9191,,9191,4,Servicios de organizaciones religiosas.
+O,9191.0,,9191.0,5,Servicios de organizaciones religiosas
+O,9192,,9192,4,Servicios de organizaciones políticas.
+O,9192.0,,9192.0,5,Servicios de organizaciones políticas.
+O,9199,,9199,4,Servicios de asociaciones n.c.p.
+O,9199.1,,9199.1,5,Servicios de consorcios de edificios.
+O,9199.2,,9199.2,5,Servicios de mutuales.
+O,9199.3,,9199.3,5,Servicios de asociaciones relacionadas con la educación.
+O,9199.4,,9199.4,5,"Servicios de asociaciones relacionadas con la salud, excepto mutuales."
+O,9199.5,,9199.5,5,Servicios de asociaciones deportivas y otras actividades físicas.
+O,9199.6,,9199.6,5,Servicios de asociaciones de jubilados y pensionados
+O,9199.9,,9199.9,5,Servicios de asociaciones n.c.p.
+O,92,,92,2,Servicios de Esparcimiento y Servicios Culturales y Deportivos
+O,921,,921,3,"Servicios de cinematografía, radio y televisión y servicios de espectáculos artísticos y de diversión n.c.p."
+O,9211,,9211,4,Producción y distribución de filmes y videocintas.
+O,9211.1,,9211.1,5,Producción de filmes y videocintas.
+O,9211.2,,9211.2,5,distribución de filmes y videocintas.
+O,9212,,9212,4,Exhibición de filmes y videocintas.
+O,9212.0,,9212.0,5,Exhibición de filmes y videocintas.
+O,9213,,9213,4,Servicios de radio y televisión.
+O,9213.0,,9213.0,5,Servicios de radio y televisión.
+O,9214,,9214,4,Servicios teatrales y musicales y servicios artísticos n.c.p.
+O,9214.1,,9214.1,5,Producción de espectáculos teatrales y musicales.
+O,9214.2,,9214.2,5,"Composición y representación de obras teatrales, musicales y artísticas."
+O,9214.3,,9214.3,5,Servicios conexos a la producción de espectáculos teatrales y musicales.
+O,9219,,9219,4,Servicios de espectáculos artísticos y de diversión  n.c.p.
+O,9219.1,,9219.1,5,"Servicios de salones de baile, discotecas y similares."
+O,9219.9,,9219.9,5,Servicios de espectáculos artísticos y de diversión  n.c.p.
+O,922,,922,3,Servicios de agencias de noticias.
+O,9220,,9220,4,Servicios de agencias de noticias.
+O,9220.0,,9220.0,5,Servicios de agencias de noticias y servicios de información.
+O,923,,923,3,"Servicios de bibliotecas, archivos y museos y servicios culturales n.c.p."
+O,9231,,9231,4,Servicios de bibliotecas y archivos.
+O,9231.0,,9231.0,5,Servicios de bibliotecas y archivos.
+O,9232,,9232,4,Servicios de museos y preservación de lugares y edificios históricos.
+O,9232.0,,9232.0,5,Servicios de museos y preservación de lugares y edificios históricos.
+O,9233,,9233,4,"Servicios de jardines botánicos, zoológicos y de parques nacionales."
+O,9233.0,,9233.0,5,"Servicios de jardines botánicos, zoológicos y de parques nacionales."
+O,9239,,9239,4,Servicios culturales y sociales n.c.p.
+O,9239.0,,9239.0,5,Servicios culturales n.c.p.
+O,924,,924,3,Servicios para la practica deportiva y de entretenimiento n.c.p.
+O,9241,,9241,4,Servicios para practicas deportivas.
+O,9241.1,,9241.1,5,"Servicios de organización, dirección y gestión de practicas deportivas y explotación de las instalaciones."
+O,9241.2,,9241.2,5,Promoción y producción de espectáculos deportivos.
+O,9241.3,,9241.3,5,"Servicios prestados por profesionales y técnicos, para la realización de practicas deportivas."
+O,9249,,9249,4,Servicios de esparcimiento n.c.p.
+O,9249.1,,9249.1,5,Servicios de esparcimiento relacionadas con juegos de azar y apuestas.
+O,9249.2,,9249.2,5,Servicios de salones de juegos.
+O,9249.9,,9249.9,5,Servicios de entretenimiento n.c.p.
+O,93,,93,2,Servicios n.c.p.
+O,930,,930,3,Servicios n.c.p.
+O,9301,,9301,4,"Lavado y limpieza de artículos de tela, cuero y/o de piel, incluso la limpieza en seco."
+O,9301.0,,9301.0,5,"Lavado y limpieza de artículos de tela, cuero y/o de piel, incluso la limpieza en seco."
+O,9302,,9302,4,Servicios de peluquería y tratamientos de belleza.
+O,9302.0,,9302.0,5,Servicios de peluquería y tratamientos de belleza.
+O,9303,,9303,4,Pompas fúnebres y servicios conexos.
+O,9303.0,,9303.0,5,Pompas fúnebres y servicios conexos.
+O,9309,,9309,4,Servicios n.c.p.
+O,9309.1,,9309.1,5,Servicios para el mantenimiento físico-corporal.
+O,9309.9,,9309.9,5,Servicios n.c.p.
+P,P,P,P,Letra,SERVICIOS DE HOGARES PRIVADOS QUE CONTRATAN SERVICIO DOMÉSTICO
+P,95,95,95,2,Servicios de hogares privados que contratan servicio doméstico

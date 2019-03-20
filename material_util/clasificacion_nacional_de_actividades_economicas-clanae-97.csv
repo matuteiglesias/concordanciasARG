@@ -1,0 +1,2016 @@
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+A,"AGRICULTURA, GANADERIA, CAZA Y SILVICULTURA",1 p,A,A
+01,"AGRICULTURA, GANADERIA, CAZA Y SERVICIOS CONEXOS",,01,01
+011,Cultivos agrícolas,,,
+011.1,"Cultivo de cereales, oleaginosas y forrajeras",,,
+011.11,Cultivo de cereales excepto los forrajeros y los de semillas para siembra,1110 p,0111 p,01100 p
+"","(Incluye arroz con cáscara, cebada excepto la forrajera, trigo, etc.)",,0130 p,01300 p
+011.12,Cultivo de cereales forrajeros,1110 p,0111 p,01100 p
+"","(Incluye alpiste, avena, cebada forrajera, centeno, mijo, etc.)",,0130 p,01300 p
+011.13,Cultivo de oleaginosas excepto el de semillas para siembra,1110 p,0111 p,01100 p
+"","(Incluyeloscultivosdeoleaginosasparaaceitescomestiblesy/odeusoindustrial:cártamo,colza,jojoba, lino oleaginoso, maní, olivo para aceite, ricino, sésamo, tung, etc.)",,0130 p,01300 p
+011.14,Cultivo de  pastos forrajeros,1110 p,0111 p,01100 p
+"",(Incluye fardos y rollos ),,0130 p,01300 p
+011.2,"Cultivo de hortalizas, legumbres, flores y plantas ornamentales",,,
+011.21,"Cultivo de papa, batata y mandioca",1110 p,0111 p,01100 p
+"",,,0130 p,01300 p
+011.22,"Cultivo de bulbos, brotes, raíces y hortalizas de fruto",1110 p,0112 p,01100 p
+"","(Incluye ajo,berenjena, cebolla,calabaza, espárrago,frutilla, melón,pepino, ají,pimiento, sandía,zanahoria, zapallo, zapallito, etc.)",,0130 p,01300 p
+011.23,Cultivo de hortalizas de hoja y de otras hortalizas frescas,1110 p,0112 p,01100 p
+"","(Incluyeacelga,apio,alcaparra,cebolladeverdeo,choclo,coles,espinaca,lechuga,perejil,radicheta, repollo, etc.)",,0130 p,01300 p
+011.24,Cultivo de legumbres,1110 p,0112 p,01100 p
+"","(Incluye el cultivo de legumbres frescas y secas: arveja, chaucha, haba, lupino, poroto, lenteja, etc.)",,0130 p,01300 p
+011.25,Cultivo de flores y plantas ornamentales,1110 p,0112 p,01100 p
+"",,,0130 p,01300 p
+011.3,Cultivo de frutas  -excepto vid para vinificar- y nueces,,,
+011.31,Cultivo de frutas de pepita,1110 p,0113 p,01100 p
+"","(Incluye membrillo, níspero, etc.)",,0130 p,01300 p
+011.32,Cultivo de frutas de carozo,1110 p,0113 p,01100 p
+"","( Incluye cereza, ciruela, damasco, durazno, pelón, etc.)",,0130 p,01300 p
+011.33,Cultivo de frutas cítricas,1110 p,0113 p,01100 p
+"","( Incluye bergamota, lima, limón, mandarina, naranja, pomelo, kinoto, etc.)",,0130 p,01300 p
+011.34,Cultivo de nueces y frutas secas,1110 p,0113 p,01100 p
+"","( Incluye almendra, avellana, castaña, nuez, pistacho, etc.)",,0130 p,01300 p
+011.39,Cultivo de frutas n.c.p.,1110 p,0113 p,01100 p
+"","( Incluye ananá, banana, higo, kiwi, mamón, palta, uva de mesa, etc.)",,0130 p,01300 p
+011.4,"Cultivos industriales, de especias y de plantas aromáticas y medicinales",,,
+011.41,Cultivo de plantas para la obtención de fibras,1110 p,0111 p,01100 p
+"","(Incluye abacá, cáñamo, formio, lino textil, maíz de Guinea, ramio, yute, etc.)",,0130 p,01300 p
+011.42,Cultivo de plantas sacaríferas,1110 p,0111 p,01100 p
+"",(Incluye remolacha azucarera),,0130 p,01300 p
+011.43,Cultivo de vid para vinificar,1110 p,0113 p,01100 p
+"",,,0130 p,01300 p
+011.44,Cultivo de plantas para preparar bebidas,1110 p,0113 p,01100 p
+"",,,0130 p,01300 p
+011.45,Cultivo de tabaco,1110 p,0111 p,01100 p
+"",,,0130 p,01300 p
+011.46,Cultivo de especias y de plantas aromáticas y medicinales,1110 p,0113 p,01100 p
+"",,,0130 p,01300 p
+011.49,Cultivos industriales n.c.p.,1110 p,0111 p,01100 p
+"","( Incluye olivo para conserva, palmitos, etc.)",,0130 p,01300 p
+011.5,Producción de semillas y otras formas de propagación de cultivos agrícolas,,,
+011.51,Producción de semillas,1110 p,0111 p,01100 p
+"","(Incluyelaproduccióndesemillashíbridasyvarietalesoautofecundadasdecereales,deoleaginosas,de forrajeras, de cultivos industriales, y de semillas de frutales, hortalizas, legumbres,flores, etc.)",,0112 p,01300 p
+"",,,0113 p,
+"",,,0130 p,
+011.52,Producción de otras formas de propagación de cultivos agrícolas,1110 p,0111 p,01100 p
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+"","(Incluye gajos, bulbos, estacas enraizadas o no, esquejes, plantines, etc.)",,0112 p,01300 p
+"",,,0113 p,
+"",,,0130 p,
+012,Cría de animales,,,
+012.1,"Cría de ganado y producción de leche , lana y pelos",,,
+012.11,Cría de ganado bovino -excepto la realizada en cabañas y para la producción de leche-,1110 p,0121 p,01200 p
+"",,,0130 p,01300 p
+012.12,Cría de ganado ovino -excepto la realizada en cabañas y para la producción de lana-,1110 p,0121 p,01200 p
+"",,,0130 p,01300 p
+012.13,Cría de ganado porcino -excepto en cabañas-,1110 p,0122p,01200 p
+"",,,0130p,01300 p
+012.14,Cría de ganado equino -excepto en haras-,1110 p,0121 p,01200 p
+"",(Incluye ganado equino para trabajo),,0130 p,01300 p
+012.15,Cría de ganado caprino -excepto en cabañas y para la producción de leche-,1110 p,0121 p,01200 p
+"",,,0130 p,01300 p
+012.16,Cría de ganado en cabañas y haras,1110 p,0121 p,01200p
+"",( Incluye la producción de semen),,0130 p,01300 p
+012.17,Producción de leche,1110 p,0121 p,01200 p
+"","(Incluyelacríadeganadoparalaproduccióndeleche,laproduccióndelechedevaca,búfala,cabra, etc.)",,0130 p,01300 p
+012.18,Producción de lana y pelos de ganado,1110 p,0122 p,01200 p
+"",,,0130 p,01300 p
+012.19,Cría de ganado n.c.p.,1110 p,0122 p,01200 p
+"","( Incluye la cría de alpaca, asno, búfalo, guanaco, llama, mula, vicuña, etc. )",,0130 p,01300 p
+012.2,"Producción de granja y cría de animales, excepto ganado",,,
+012.21,Cría de aves  de corral,1110 p,0122 p,01200 p
+"",( Incluye pollitos BB para postura),,0130 p,01300 p
+012.22,Producción de huevos,1110 p,0122 p,01200 p
+"",,,0130 p,01300 p
+012.23,Apicultura,1110 p,0122 p,01200 p
+"","( Incluye la producción de miel, jalea real, polen, propóleo, etc.)",,0130 p,01300 p
+012.24,"Cría de animales pelíferos, pilíferos y plumíferos",1110 p,0122 p,01200 p
+"","(Incluye visón, nutria, chinchilla, astracán, conejo, reptiles, etc.)",,0130 p,01300 p
+012.29,"Cría de animales y obtención de productos de origen animal, n.c.p.",1110 p,0122 p,01200p
+"","(Incluyeciervo,conejo-exceptoparapelos-,gato,gusanodeseda,lombriz, pájaro,perro, rana,animalesparaexperimentación,caracolesvivos,frescos,congeladosy secos-excepto marinos-,cera de insectos excepto la de abeja, etc.)",1302 p,0130 p,01300 p
+014,"Servicios agrícolas y pecuarios, excepto los veterinarios",,,
+014.1,Servicios agrícolas,,,
+014.11,"Servicios de maquinaria agrícola, excepto los de cosecha mecánica",1120 p,0140 p,01400 p
+"","(Incluyelosserviciosdelabranza,siembra,y cuidadosculturales,pulverizacióny desinfección,etc.)",,,
+014.12,Servicios de cosecha mecánica,1120 p,0140 p,01400 p
+"","(Incluye la cosecha mecánica de granos, caña de azúcar, algodón, forrajes, el enfardado, enrollado,etc.)",,,
+014.13,Servicios de contratistas de mano de obra agrícola,1120 p,0140 p,01400 p
+"","(Incluyelapodadeárboles,transplante,fumigacióny desinfecciónmanual,cosechamanualdecítricos, algodón, etc.)",,,
+014.19,Servicios agrícolas n.c.p,1120 p,0140p,01400 p
+"","(Incluyeplanificaciónydiseñopaisajista,plantaciónymantenimientodejardines,parquesycementerios, riego, polinización o alquiler de colmenas, control  acústico de plagas, etc.)",1110 p,,
+014.2,"Servicios pecuarios, excepto los veterinarios",,,
+014.21,"Inseminación artificial y servicios n.c.p. para mejorar la reproducción de los animales y el rendimiento desus productos",1120 p,0140p,01400 p
+014.22,Servicios de contratistas de mano de obra pecuaria,1120 p,0140p,01400 p
+"","( Incluye arreo, castración de aves, esquila de ovejas, etc. )",,,
+014.29,Servicios pecuarios n.c.p.,1120p,0140p,01400 p
+"",( Incluye la recolección de estiércol ),,,
+015,Caza  y repoblación  de animales de caza y servicios conexos,,,
+0150,Caza  y repoblación  de animales de caza y servicios conexos,,,
+0150.1,Caza  y repoblación  de animales de caza,1130 p,0150p,01500 p
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+"","(Incluye la caza de liebres y de otrosanimales paraobtener carne,pieles y cueros,lacaptura deanimales vivos para zoológicos, animales de compañía, para investigación, etc.)",1301 p,,
+"",,1302 p,,
+0150.2,Servicios para la caza,1130 p,0150p,01500 p
+02,"SILVICULTURA, EXTRACCION DE MADERA Y SERVICIOS CONEXOS",,02,02
+020,"Silvicultura, extracción de madera y servicios conexos",,,
+020.1,Silvicultura,,,
+020.11,Plantación de bosques,1210 p,0200p,02000 p
+020.12,Repoblación y conservación de bosques nativos y zonas forestadas,1210 p,0200p,02000 p
+020.13,Explotación de viveros forestales,1210 p,0200p,02000 p
+020.2,Extracción de productos forestales,,,
+020.21,Extracción de productos forestales de bosques cultivados,1220 p,0200p,02000 p
+"","(Incluye tala de árboles, desbaste de troncos y extracción de madera en bruto,  rollizos, leña, postes,carbón, durmientes y productos forestales n.c.p.)",,,
+020.22,Extracción de productos forestales de bosques nativos,1220 p,0200p,02000 p
+"","(Incluye tala de árboles, desbaste de troncos y extracción de madera en bruto, leña, postes, carbón,laextracciónderodrigones,varasyvarillas,gomasnaturales,líquenes,musgos,resinas,rosamosqueta, etc.)",,,
+020.3,Servicios forestales,,,
+020.31,Servicios forestales de extracción de madera,1210 p,0200p,02000 p
+"","(Incluyetaladeárboles,acarreoy transporteenelinteriordelbosque,serviciosrealizadosporterceros, etc.)",,,
+020.39,Servicios forestales excepto los relacionados con la extracción de madera,1210 p,0200p,02000 p
+"","(Incluye protección contra incendios, evaluación de masas forestales en pie, estimación del valor dela madera, etc.)",,,
+B,PESCA Y SERVICIOS CONEXOS,1 p,B,B
+05,"PESCA, EXPLOTACION DE CRIADEROS DE PECES, GRANJAS PISCICOLAS Y SERVICIOS CONEXOS",,05,05
+050,Pesca y servicios conexos,,,
+050.1,Pesca y recolección de productos marinos,,,
+050.11,"Pesca marítima, costera y de altura",1301 p,0500p,05000 p
+"","(Incluye peces, crustáceos, moluscos y otros animales acuáticos, etc.)",,,
+050.12,Pesca continental : fluvial y lacustre,1302 p,0500p,05000 p
+050.13,Recolección de productos marinos,1301 p,0500p,05000 p
+"","(Incluye la recolección de algas marinas y otras plantas acuáticas, corales,  esponjas, etc.)",,,
+050.2,"Explotación de criaderos de peces, granjas piscícolas y otros frutos acuáticos (acuicultura)",,,
+050.20,"Explotación de criaderos de peces, granjas piscícolas y otros frutos acuáticos (acuicultura)",1302 p,0500p,05000 p
+050.3,Servicios para la pesca,,,
+050.30,Servicios para la pesca,1301 p,0500p,05000 p
+"",,1302 p,,
+C,EXPLOTACION  DE  MINAS  Y  CANTERAS,2,C,C
+10,EXTRACCION DE CARBON Y LIGNITO; EXTRACCION DE TURBA,,10,10
+101,Extracción y aglomeración de carbón,,,
+1010,Extracción y aglomeración de carbón,,,
+1010.0,Extracción y aglomeración de carbón,2100 p,1010,10000p
+"","(Incluyelaproduccióndehullanoaglomerada,antracita,carbónbituminosonoaglomerado,briquetas, ovoides y combustibles sólidos análogos a base de hulla, etc.)",2200 p,,
+"",,3540 p,,
+102,Extracción y aglomeración de lignito,,,
+1020,Extracción y aglomeración de lignito,,,
+1020.0,Extracción y aglomeración de lignito,2100 p,1020,10000p
+"",(Incluye la producción de lignito aglomerado y no aglomerado),3540 p,,
+103,Extracción y aglomeración de turba,,,
+1030,Extracción y aglomeración de turba,,,
+1030.0,Extracción y aglomeración de turba,2909 p,1030,10000p
+"",(Incluye la producción de turba utilizada como corrector de suelos),36999 p,,
+11,"EXTRACCIONDEPETROLEOCRUDOYGASNATURAL;ACTIVIDADESDESERVICIOSRELACIONADAS",,11,11
+"","CON LA EXTRACCION DE PETROLEO Y GAS, EXCEPTO LAS ACTIVIDADES DE PROSPECCION",,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+111,Extracción de petróleo crudo y gas natural,,,
+1110,Extracción de petróleo crudo y gas natural,,,
+1110.0,Extracción de petróleo crudo y gas natural,2200 p,1110,11100
+"","(Incluyegasnaturallicuadoygaseoso,arenasalquitraníferas,esquistosbituminososolutitas,aceites de petróleo y de minerales bituminosos, petróleo, coque de petróleo, etc.)",,,
+112,"Actividadesde servicios relacionadas con la extracción de petróleo y gas, excepto las actividades deprospección",,,
+1120,"Actividadesde servicios relacionadas con la extracción de petróleo y gas, excepto las actividades deprospección",,,
+1120.0,"Actividadesde servicios relacionadas con la extracción de petróleo y gas, excepto las actividades deprospección",2200 p,1120,11200
+"",,5000 p,,
+12,EXTRACCION DE MINERALES DE URANIO Y TORIO,,12,12
+120,Extracción de minerales y concentrados de uranio y torio,,,
+1200,Extracción de minerales y concentrados de uranio y torio,,,
+1200.0,Extracción de minerales y concentrados de uranio y torio,2302 p,1200,12000
+13,EXTRACCION DE MINERALES METALIFEROS,,13,13
+131,Extracción de minerales de hierro,,,
+1310,Extracción de minerales de hierro,,,
+1310.0,Extracción de minerales de hierro,2301,1310,13100
+"","(Incluye hematitas, limonitas, magnetitas, siderita, etc.)",,,
+132,"Extracción de minerales metalíferos no ferrosos, excepto minerales de uranio y torio",,,
+1320,"Extracción de minerales metalíferos no ferrosos,  excepto minerales de uranio y torio",,,
+1320.0,"Extracción de minerales metalíferos no ferrosos, excepto minerales de uranio y torio",2302 p,1320,13200
+"","(Incluye aluminio, cobre, estaño, manganeso, níquel, oro, plata, plomo, volframio, antimonio, bismuto,cinc, molibdeno, titanio, circonio, niobio, vanadio, cromo, cobalto)",,,
+14,EXPLOTACION DE  MINAS Y CANTERAS N.C.P.,,14,14
+141,"Extracción de piedra, arena y arcillas",,,
+141.1,Extracción de rocas ornamentales,,,
+141.10,Extracción de rocas ornamentales,2901 p,1410p,14100 p
+"","(Incluye areniscas, cuarcita, dolomita, granito, mármol, piedra laja, pizarra, serpentina , etc.)",,,
+141.2,Extracción de piedra caliza y yeso,,,
+141.20,Extracción de piedra caliza y yeso,2901 p,1410p,14100 p
+"","(Incluye caliza, castina, conchilla, riolita, yeso natural, anhidrita, etc.)",,,
+141.3,"Extracción de arenas, canto rodado y triturados pétreos",,,
+141.30,"Extracción de arenas, canto rodado y triturados pétreos",2901 p,1410p,14100 p
+"","(Incluyearenaparaconstrucción,arenasilícea,otrasarenasnaturales,cantorodado,dolomitatriturada, granito triturado, basalto triturado, piedra partida  y  otros triturados pétreos, etc.)",,,
+141.4,Extracción de arcilla y caolín,,,
+141.40,Extracción de arcilla y caolín,2901 p,1410p,14100 p
+"","(Incluyeandalucita,arcillas,bentonita,caolín,pirofilita,silimanita,mullita,tierrade chamotao dedinas, etc.)",,,
+142,Explotación de minas y canteras n.c.p.,,,
+1421,"Extracción de minerales para la fabricación de abonos y productos químicos, excepto turba",,,
+1421.1,Extracción de minerales para la fabricación de abonos excepto turba,2902 p,1421p,14210p
+"","( Incluye guano, silvita, silvinita y otras sales de potasio naturales, etc.)",,,
+1421.2,Extracción de minerales para la fabricación de productos químicos,2902 p,1421p,14210 p
+"","(Incluye azufre, boracita e hidroboracita, calcita, celestina, colemanita, fluorita,litio y salesde litionaturales, sulfato de aluminio, sulfato de hierro, sulfato de magnesio, sulfato de sodio, tinkal, ulexita,asfaltita, ocres, laterita )",,,
+1422,Extracción de sal en salinas y de roca,,,
+1422.0,Extracción de sal en salinas y de roca,2903,1422,14220
+1429,Explotación de minas y canteras n.c.p.,,,
+1429.0,Explotación de minas y canteras n.c.p.,2901 p,1429,14290
+"","(Incluye amianto, baritina, cuarzo, diatomita, piedra pómez, ágata, agua marina, amatista, cristal deroca, rodocrosita, topacio, corindón, feldespato, mica, zeolita, perlita, granulado volcánico, puzolana,toba, talco, vermiculita, tosca, grafito, etc.)",2909 p,,
+D,INDUSTRIA MANUFACTURERA,3,D,D
+15,ELABORACION DE PRODUCTOS ALIMENTICIOS Y BEBIDAS,,15,15
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+151,"Producción y procesamiento de carne, pescado, frutas, legumbres, hortalizas, aceites y grasas",,,
+151.1,Producción y procesamiento de carne y productos cárnicos,,,
+151.11,Matanza de ganado bovino y procesamiento de su carne,31111 p,1511p,15111p
+"",(Incluye los mataderos y frigoríficos que  sacrifican principalmente ganado bovino),32311p,,
+151.12,Producción y procesamiento de carne de aves,31111 p,1511p,15112
+151.13,Elaboración de fiambres y embutidos,31113,1511p,15113
+151.14,Matanza  de ganado excepto el bovino y procesamiento de su carne,31111 p,1511p,15111p
+"","(Incluyelamatanzay /ofaenadeprincipalmenteganado-exceptoelbovino-comoporejemplo:ovino, porcino, caprino, etc)",32311p,1514 p,
+151.19,Matanza de animales n.c.p. y procesamiento de su carne; elaboración de subproductos cárnicos n.c.p.,31111 p,1511p,15111 p
+"","(Incluyelaproduccióndecarnefresca,refrigeradaocongeleadadeliebre,conejo,animalesdecaza, etc. )",31152 p,1514p,
+"","(También incluye la producción de aceites, sebo, harinas , jugos, extractos, cueros salados y otrossubproductosdelprocesamientodecarneelaboradosenestablecimientosdiferentesalosquesacrifican y/o procesan carne -sublcases 151.11 ó 151.14)",32311 p,,
+1512,Elaboración de pescado y productos de pescado,,,
+1512.0,Elaboración de pescado y productos de pescado,31140,1512,15120
+"",,31152 p,,
+1513,"Preparación de frutas, hortalizas y legumbres",,,
+1513.1,"Preparación de conservas de frutas, hortalizas y legumbres",31132 p,1513p,15130 p
+"","(Incluye la producción integrada de conservas, jaleas, dulces y mermeladas)",,,
+1513.2,"Elaboración de jugos naturales y sus concentrados, de frutas, hortalizas y legumbres",31340 p,1513p,15130 p
+"","(Enestasubclaseseincluyenlosjugosobtenidosapartirdela moliendade frutas,hortalizas ylegumbres, los restantes se incluyen en la subclase 1554.9)",,,
+1513.3,"Elaboración de pulpas, jaleas, dulces y mermeladas",31131,1513p,15130 p
+"","(No incluye la producción integrada de conservas, jaleas, dulces y mermeladas -subclase 1513.1)",,,
+1513.4,"Elaboración de frutas, hortalizas y legumbres congeladas",31132 p,1513p,15130 p
+1513.9,"Elaboración de frutas, hortalizas y legumbres deshidratadas o desecadas; preparación n.c.p. de frutas,hortalizas y legumbres",31132 p,1513p,15130 p
+"","(Incluyelaelaboracióndeharinay escamasdepapa;sémoladehortalizasylegumbres;frutas,hortalizas y legumbres deshidratadas, etc.)",31162 p,,
+"",,31219 p,,
+151.4,Elaboración de aceites y grasas de origen vegetal,,,
+151.41,Elaboración de aceites y grasas vegetales sin refinar y sus subproductos; elaboración de aceite virgen,31151 p,1514p,15140 p
+"",(No incluye los aceites y grasas animales - clase 1511-  y aceites esenciales -subclase -2429.0-),,,
+151.42,Elaboración de aceites y grasas vegetales refinadas,31151 p,1514p,15140 p
+"","(No incluye los aceites y grasas animales - clase 1511-, y el aceite de maíz -subclase  1532.0-)",,,
+151.43,Elaboración de margarinas y grasas vegetales comestibles similares,31151 p,1514p,15140 p
+"",(No incluye los aceites y grasas animales - clase 1511),,,
+152,Elaboración de productos lácteos,,,
+1520,Elaboración de productos lácteos,,,
+1520.1,Elaboración de leches y productos lácteos deshidratados,31120 p,1520p,15200 p
+"","(Incluyelaestandarización,homogeneización,pasteurizaciónyesterilizacióndeleche,laelaboracióndelechechocolataday otras lechessaborizadas,lechecondensada, lecheen polvo,dulce de leche, etc.)",31219 p,,
+1520.2,Elaboración de quesos,31120 p,1520p,15200 p
+"",(Incluye la producción de suero),,,
+1520.3,Elaboración industrial de helados,31120 p,1520p,15200 p
+"",(Incluye la producción de helados con o sin leche y con o sin  cacao),,,
+"",(No incluye helados artesanales - subclase 552.12-),,,
+1520.9,Elaboración de productos lácteos n.c.p.,31120 p,1520p,15200 p
+"","(Incluye la producción de caseínas, caseinatos lácteos, cremas, manteca, postres, etc.)",,,
+153,"Elaboracióndeproductosdemolinería,almidones yproductos derivadosdel almidón;elaboración dealimentos preparados para animales",,,
+1531,Elaboración de productos de molinería,,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+1531.1,Molienda de trigo,31161,1531p,15311
+1531.2,Preparación de arroz,31163,1531p,15312
+1531.3,Preparación y molienda de legumbres y cereales -excepto arroz y trigo-,31162 p,1531p,15313
+"",(Incluye cebada perlada),,,
+1532,Elaboración de almidones y productos derivados del almidón,,,
+1532.0,Elaboración de almidones y productos derivados del almidón,31151 p,1532,15320
+"","(Incluye la elaboración de glucosa, aceite de maíz, gluten, etc.)",31162 p,,
+"",,31219 p,,
+1533,Elaboración de alimentos preparados para animales,,,
+1533.0,Elaboración de alimentos preparados para animales,31220,1533,15330
+154,Elaboración de productos alimenticios n.c.p.,,,
+1541,Elaboración de productos de panadería,,,
+1541.1,Elaboración de galletitas y bizcochos,31172,1541p,15411
+1541.2,"Elaboración industrial de productos de panadería, excluido galletitas y bizcochos",31171 p,1541p,15412
+"","(Incluyelaelaboracióndechurros,pre-pizzas,masasdehojaldre,masasfritas,etc.,enestablecimientos de más de 10 ocupados)",,,
+1541.9,Elaboración de productos de panadería n.c.p.,31171 p,1541p,15419
+"","(Incluyelaelaboracióndechurros,pre-pizzas,masasdehojaldre,masasfritas,etc.,enestablecimientos de hasta 10 ocupados inclusive))",,,
+1542,Elaboración de azúcar,,,
+1542.0,Elaboración de azúcar,31180,1542,15420
+1543,Elaboración de cacao y chocolate y de productos de confitería,,,
+1543.0,Elaboración de cacao y chocolate y de productos de confitería,31190,1543,15430
+"","(Incluye caramelos, frutas confitadas, pastillas, gomas de mascar, etc.)",,,
+1544,Elaboración de pastas alimenticias,,,
+1544.1,Elaboración de pastas alimenticias frescas,31173,1544p,15441
+1544.2,Elaboración de pastas alimenticias secas,31174,1544p,15442
+1549,Elaboración de productos alimenticios n.c.p.,,,
+1549.1,"Tostado, torrado y molienda de café; elaboración y  molienda de hierbas aromáticas y especias",31213,1549p,15491
+1549.2,Preparación de hojas de té,31212 p,1549p,15492
+"",,31214,,
+1549.3,Elaboración de yerba mate,31164,1549p,15493
+"",,31212 p,,
+1549.9,Elaboración de productos alimenticios n.c.p.,31112,1549p,15499
+"","(Incluyelafabricacióndeextractos,jarabesyconcentrados,productosparacopetín,levadura,polvosparalapreparacióndepostresy gelatinas,miely sussubproductos,vinagres,huevos enpolvo, sopas y concentrados, etc. Incluyela producciónde salrefinada, quehasta agostode 1998estaba incluida en la rama 24290)",31212p,,
+"","(No incluye a losjugos naturales y sus concentrados, de frutas, hortalizas y legumbres - subclase1513.2-)",31219 p,,
+155,Elaboración de bebidas,,,
+1551,"Destilación, rectificación y mezcla de bebidas alcohólicas; producción de alcohol etílico",,,
+1551.1,Destilación de alcohol etílico,31311,1551p,15511
+1551.2,"Destilación, rectificación y mezcla de bebidas espiritosas",31312,1551p,15512
+1552,Elaboración de vinos y otras bebidas fermentadas a partir de frutas,,,
+1552.1,Elaboración de vinos,31321,1552p,15521
+"",(Incluye el fraccionamiento),,,
+1552.9,Elaboración de sidra y otras bebidas alcohólicas fermentadas a partir de frutas,31322,1552p,15529
+1553,"Elaboración de cerveza, bebidas malteadas y de malta",,,
+1553.0,"Elaboración de cerveza, bebidas malteadas y de malta",31330,1553,15530
+1554,Elaboración de bebidas no alcohólicas; producción de aguas minerales,,,
+1554.1,Elaboración de soda y aguas,31340 p,1554p,15541
+1554.2,"Elaboración de bebidas gaseosas, excepto soda",31340 p,1554p,15542
+1554.9,"Elaboración de hielo, jugos envasados para diluir y otras bebidas no alcohólicas",31211,1554p,15549
+"","(Incluye losjugos para diluir o en polvo llamados ""sintéticos"" o de un contenido en jugos naturalesinferior al 50%)",31219 p,,
+"","(No incluye a losjugos naturales y sus concentrados, de frutas, hortalizas y legumbres - subclase1513.2-)",31340 p,,
+16,ELABORACION DE PRODUCTOS DE TABACO,,16,16
+160,Elaboración de productos de tabaco,,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+1600,Elaboración de productos de tabaco,,,
+1600.1,Preparación de hojas de tabaco,31401,1600p,16001
+1600.9,Elaboración de cigarrillos y  productos de tabaco n.c.p.,31402,1600p,16009
+"",,31403,,
+17,FABRICACION DE PRODUCTOS TEXTILES,,17,17
+171,Fabricación de hilados y tejidos; acabado de productos textiles,,,
+1711,Preparación e hilandería de fibras textiles; tejeduría de productos textiles,,,
+1711.1,Preparación de fibras textiles vegetales; desmotado de algodón,32111,0140 p,17111
+"",,32112,1711p,
+1711.2,Preparación de fibras animales de uso textil; lavado de lana,32113,1711p,17112
+1711.3,Fabricación de hilados de fibras textiles,32114,1711p,17113
+1711.4,"Fabricación de tejidos textiles, incluso en hilanderías y tejedurías integradas",32116,1711p,17114
+"",,32119 p,,
+1712,Acabado de productos textiles,,,
+1712.0,Acabado de productos textiles,32115,1712,17120
+172,Fabricación de productos textiles n.c.p.,,,
+1721,"Fabricación de artículos confeccionados de materiales textiles, excepto prendas de vestir",,,
+1721.0,"Fabricación de artículos confeccionados de materiales textiles, excepto prendas de vestir",32119 p,1721,17210
+"",,32121,,
+"",,32122,,
+"",,32123,,
+"",,32124,,
+"",,32129,,
+1722,Fabricación de tapices y alfombras,,,
+1722.0,Fabricación de tapices y alfombras,32140,1722,17220
+1723,"Fabricación de cuerdas, cordeles, bramantes y redes",,,
+1723.0,"Fabricación de cuerdas, cordeles, bramantes y redes",32150,1723,17230
+1729,Fabricación de productos textiles n.c.p.,,,
+1729.0,Fabricación de productos textiles n.c.p.,32119 p,1729,17290
+"",,32190 p,,
+173,Fabricación de tejidos de punto y artículos de punto y ganchillo,,,
+1730,Fabricación de tejidos de punto y artículos de punto y ganchillo,,,
+1730.1,Fabricación de medias,32131,1730p,17301
+1730.2,Fabricación de suéteres y artículos similares de punto,32133 p,1730p,17302
+1730.9,Fabricación de tejidos y artículos de punto n.c.p.,32132,1730p,17309
+"",,32133 p,,
+18,CONFECCION DE PRENDAS DE VESTIR; TERMINACION Y TEÑIDO DE PIELES,,18,18
+181,"Confección de prendas de vestir, excepto prendas de piel",,,
+181.1,"Confección de prendas de vestir, excepto prendas de piel y cuero",,,
+181.11,"Confección de ropa interior, prendas para dormir y para la playa",32202 p,1810p,18101 p
+181.12,"Confección de indumentaria de trabajo, uniformes y guardapolvos",32209 p,1810p,18101 p
+181.13,Confección de indumentaria para bebés y niños,32202 p,1810p,18101 p
+181.19,"Confección de prendas de vestir n.c.p., excepto prendas de piel y de cuero",32201,1810p,18101 p
+"",,32202 p,,
+"",,32204,,
+"",,32209 p,,
+181.2,Confección de prendas y accesorios de vestir de cuero,,,
+181.20,Confección de prendas y accesorios de vestir de cuero,32209 p,1810p,18102
+182,Terminación y teñido de pieles; fabricación de artículos de piel,,,
+1820,Terminación y teñido de pieles; fabricación de artículos de piel,,,
+1820.0,Terminación y teñido de pieles; fabricación de artículos de piel,32190 p,1820,18200
+"",,32203,,
+"",,32320,,
+19,"CURTIDOYTERMINACIONDECUEROS;FABRICACIONDEARTICULOSDEMARROQUINERIA,TALABARTERIA Y CALZADO Y DE SUS PARTES",,19,19
+191,Curtido y terminación de cueros; fabricación de artículos de marroquinería y talabartería,,,
+1911,Curtido y terminación de cueros,,,
+1911.0,Curtido y terminación de cueros,32312,1911,19110
+1912,"Fabricación de maletas, bolsos de mano y similares, artículos de talabartería y  artículos de cuero n.c.p.",,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+1912.0,"Fabricación de maletas, bolsos de mano y similares, artículos de talabartería y artículos de cuero n.c.p.",32331,1912,19120
+"",,32332,,
+"",,32339,,
+192,Fabricación de calzado y de sus partes,,,
+1920,Fabricación de calzado y de sus partes,,,
+1920.1,"Fabricación de calzado de cuero, excepto el ortopédico",32401 p,1920p,19201
+1920.2,"Fabricación de calzado de tela, plástico, goma, caucho y otros materiales, excepto calzado ortopédico yde asbesto",32402 p,1920p,19202
+"",,33199 p,,
+"",,34190 p,,
+"",,35590 p,,
+"",,35600 p,,
+1920.3,Fabricación de partes de calzado,35600 p,1920p,19203
+"",,32401 p,,
+"",,32402 p,,
+20,"PRODUCCION DE MADERA YFABRICACION DE PRODUCTOS DE MADERA YCORCHO, EXCEPTOMUEBLES; FABRICACION DE ARTICULOS DE PAJA Y DE MATERIALES TRENZABLES",,20,20
+201,Aserrado y cepillado de madera,,,
+2010,Aserrado y cepillado de madera,,,
+2010.0,Aserrado y cepillado de madera,33111,2010,20100
+"",,33199 p,,
+202,"Fabricación de productos de madera, corcho, paja y materiales trenzables",,,
+2021,"Fabricacióndehojasdemaderaparaenchapado;fabricacióndetableroscontrachapados,tableroslaminados, tableros de partículas, y  tableros y paneles n.c.p.",,,
+2021.0,"Fabricacióndehojasdemaderaparaenchapado;fabricacióndetableroscontrachapados;tableroslaminados; tableros de partículas y tableros y paneles n.c.p.",33114,2021,20210
+"",(Incluye la fabricación de madera terciada y  machimbre),,,
+2022,Fabricación de partes y piezas de carpintería para edificios y construcciones,,,
+2022.0,Fabricación de partes y piezas de carpintería para edificios y construcciones,33112,2022,20220
+2023,Fabricación de recipientes de madera,,,
+2023.0,Fabricación de recipientes de madera,33120 p,2023,20230
+2029,"Fabricacióndeproductosdemaderan.c.p.;fabricacióndeartículosdecorcho,pajaymaterialestrenzables",,,
+2029.0,"Fabricacióndeproductosdemaderan.c.p.;fabricacióndeartículosdecorcho,pajaymaterialestrenzables",33120 p,2029,20290
+"",,33113,,
+"",,33191,,
+"",,33192,,
+"",,33199 p,,
+"",,33201 p,,
+21,FABRICACION DE PAPEL Y DE  PRODUCTOS DE PAPEL,,21,21
+210,Fabricación de papel y de productos de papel,,,
+2101,"Fabricación de pasta de madera, papel y cartón",,,
+2101.0,"Fabricación de pasta de madera, papel y cartón",34111,2101,21010
+"",,34112 p,,
+"",,34190 p,,
+"",,39099 p,,
+2102,Fabricación de papel y cartón ondulado y de envases de papel y cartón,,,
+2102.0,Fabricación de papel y cartón ondulado y de envases de papel y cartón,34120,2102,21020
+"",,34112 p,,
+2109,Fabricación de  artículos de papel y cartón,,,
+2109.1,Fabricación de artículos de papel y cartón de uso doméstico e higiénico sanitario,34190 p,2109p,21091
+2109.9,Fabricación de artículos de papel y cartón n.c.p.,34190 p,2109p,21099
+"",,34202 p,,
+"",,39099 p,,
+22,EDICION E IMPRESION; REPRODUCCION DE GRABACIONES,,22,22
+221,Edición,,,
+2211,"Edición de libros, folletos, partituras y otras publicaciones",,,
+2211.0,"Edición de libros, folletos, partituras y otras publicaciones",34202 p,2211,22110
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+2212,"Edición de periódicos, revistas y publicaciones periódicas",,,
+2212.0,"Edición de periódicos, revistas y publicaciones periódicas",34201 p,2212,22120
+2213,Edición de grabaciones,,,
+2213.0,Edición de grabaciones,38321 p,2213,22130
+2219,Edición n.c.p.,,,
+2219.0,Edición n.c.p.,34202 p,2219,22190
+222,Impresión y servicios conexos,,,
+2221,Impresión,,,
+2221.0,Impresión,34201 p,2221,22210
+"",,34202 p,,
+2222,Servicios relacionados con la impresión,,,
+2222.0,Servicios relacionados con la impresión,34203,2222,22220
+223,Reproducción de grabaciones,,,
+2230,Reproducción de grabaciones,,,
+2230.0,Reproducción de grabaciones,38321 p,2230,22300
+"",,94111 p,,
+"",,94112 p,,
+"",,94119 p,,
+23,"FABRICACIONDECOQUE,PRODUCTOSDELAREFINACIONDELPETROLEOYCOMBUSTIBLENUCLEAR",,23,23
+231,Fabricación de productos de hornos de coque,,,
+2310,Fabricación de productos de hornos de coque,,,
+2310.0,Fabricación de productos de hornos de coque,35400 p,2310,23100
+232,Fabricación de productos de la refinación del petróleo,,,
+2320,Fabricación de productos de la refinación del petróleo,,,
+2320.0,Fabricación de productos de la refinación del petróleo,35300,2320,23200
+"",,35400 p,,
+233,Elaboración de combustible nuclear,,,
+2330,Elaboración de combustible nuclear,,,
+2330.0,Fabricación de combustible nuclear,-----,2330,23300
+24,FABRICACION DE SUSTANCIAS Y PRODUCTOS QUIMICOS,,24,24
+241,Fabricación de sustancias químicas básicas,,,
+2411,"Fabricación de sustancias químicas básicas, excepto abonos y compuestos de nitrógeno",,,
+2411.1,Fabricación de gases comprimidos y licuados.,35112,2411p,24111
+2411.2,Fabricación de curtientes naturales y sintéticos.,35113,2411p,24112
+2411.3,"Fabricación de materias colorantes básicas, excepto pigmentos preparados.",35119 p,2411p,24113
+"",,35210 p,,
+2411.8,"Fabricación de materias químicas inorgánicas básicas, n.c.p.",35119 p,2411p,24119p
+2411.9,"Fabricación de materias químicas orgánicas básicas, n.c.p.",35119 p,2411p,24119p
+"",(incluye la fabricación de alcoholes excepto el etílico),35111,,
+2412,Fabricación de abonos y compuestos de nitrógeno,,,
+2412.0,Fabricación de abonos y compuestos de nitrógeno,35120 p,2412,24120
+2413,Fabricación de plásticos en formas primarias y de caucho sintético,,,
+2413.0,Fabricación de plásticos en formas primarias y de caucho sintético,35131 p,2413,24130
+242,Fabricación de productos químicos n.c.p.,,,
+2421,Fabricación de plaguicidas y otros productos químicos de uso agropecuario,,,
+2421.0,Fabricación de plaguicidas y otros productos químicos de uso agropecuario,35120 p,2421,24210
+2422,Fabricación de pinturas; barnices y productos de revestimiento similares; tintas de imprenta y masillas,,,
+2422.0,Fabricación de pinturas; barnices y productos de revestimiento similares; tintas de imprenta y masillas,35210 p,2422,24220
+"",,39099 p,,
+2423,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos",,,
+2423.1,Fabricación de medicamentos de uso humano y productos farmacéuticos,35221 p,2423p,24231
+2423.2,Fabricación de medicamentos de uso veterinario,35222,2423p,24232
+2423.9,"Fabricación de productos de laboratorio,  sustancias químicas medicinales y productos botánicos n.c.p.",35221 p,2423p,24239
+"",,38510 p,,
+"",,35291 p,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+2424,"Fabricacióndejabonesydetergentes,preparadosparalimpiarypulir,perfumesypreparadosdetocador",,,
+2424.1,Fabricación de jabones y preparados de limpieza para limpiar y pulir,35231,2424p,24241
+"",,35232 p,,
+2424.9,"Fabricación de cosméticos, perfumes y  productos de higiene y tocador",35232 p,2424p,24249
+"",,35299 p,,
+2429,Fabricación de productos químicos n.c.p.,,,
+2429.0,Fabricación de productos químicos n.c.p.,31219 p,2429,24290
+"","(Incluye la producción de aceites esenciales, tintas excepto para imprenta, etc. Hasta agosto de 1998esta rama incluyó la producción de sal refinada, ahora incorporada a la rama 1549.9)",35291 p,,
+"",,35293 p,,
+"",,35299 p,,
+"",,35400 p,,
+243,Fabricación de fibras manufacturadas,,,
+2430,Fabricación de fibras manufacturadas,,,
+2430.0,Fabricación de fibras manufacturadas,35132,2430,24300
+25,FABRICACION DE PRODUCTOS DE CAUCHO Y PLASTICO,,25,25
+251,Fabricación de productos de caucho,,,
+2511,Fabricación de cubiertas y cámaras de caucho; recauchutado y renovación de cubiertas de caucho,,,
+2511.1,Fabricación de cubiertas y cámaras,35511,2511p,25111
+2511.2,Recauchutado y renovación de cubiertas,35512,2511p,25112
+2519,Fabricación de productos de caucho n.c.p.,,,
+2519.0,Fabricación de  productos de caucho n.c.p.,35590 p,2519,25190
+252,Fabricación de productos de plástico,,,
+2520,Fabricación de productos de plástico,,,
+2520.1,Fabricación de envases plásticos,35600 p,2520p,25201
+2520.9,"Fabricación de productos plásticos en formas básicas y artículos de plástico n.c.p., excepto muebles",35600 p,2520p,25209
+"",,35131 p,,
+26,FABRICACION DE PRODUCTOS MINERALES NO METALICOS,,26,26
+261,Fabricación de vidrio y productos de vidrio,,,
+2610,Fabricación de vidrio y productos de vidrio,,,
+2610.1,Fabricación de envases de vidrio,36201 p,2610p,26101
+2610.2,Fabricación y elaboración de vidrio plano,36201 p,2610p,26102
+"",,36202,,
+2610.9,Fabricación de productos de vidrio n.c.p.,36201 p,2610p,26109
+"",,36999 p,,
+269,Fabricación de productos minerales no metálicos n.c.p.,,,
+2691,Fabricación de productos de cerámica no refractaria para uso no estructural,,,
+2691.1,Fabricación de artículos sanitarios de cerámica,36100 p,2691p,26911
+2691.9,Fabricación de artículos de cerámica no refractaria para uso no estructural n.c.p.,36100 p,2691p,26919
+2692,Fabricación de productos de cerámica refractaria,,,
+2692.0,Fabricación de productos de cerámica refractaria,36913,2692,26920
+2693,Fabricación de productos de arcilla y cerámica no refractaria para uso estructural,,,
+2693.0,Fabricación de productos de arcilla y cerámica no refractaria para uso estructural,36911,2693,26930
+"",,36912,,
+2694,"Elaboración de cemento, cal y yeso",,,
+"",,,,
+2694.1,Elaboración de cemento,36921,2694p,26941
+2694.2,Elaboración de cal y yeso,36922,2694p,26942
+"",,36923,,
+2695,"Fabricación de artículos de hormigón, cemento y yeso",,,
+2695.1,Fabricación de mosaicos,36992,2695p,26951
+2695.9,"Fabricación de artículos de cemento, fibrocemento y yeso excepto mosaicos",36991,2695p,26959
+"",(Incluye la fabricación de partes de  casas prefabricadas de homigón),36993 p,,
+"",,36999 p,,
+2696,"Corte, tallado y acabado de la piedra",,,
+2696.0,"Corte, tallado y acabado de la piedra",36993 p,2696,26960
+"","(incluye mármoles, granitos, etc.)",,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+2699,Fabricación de productos minerales no metálicos n.c.p.,,,
+2699.1,Elaboración primaria n.c.p. de minerales no metálicos,36999 p,2699p,26990p
+2699.9,Fabricación de productos minerales no metálicos n.c.p.,36999 p,2699p,26990p
+"",,35400 p,,
+27,FABRICACION DE METALES COMUNES,,27,27
+271,Industrias básicas de hierro y acero,,,
+2710,Industrias básicas de hierro y acero,,,
+2710.0,Industrias básicas de hierro y acero,37100p,2710,27100
+272,Fabricación de productos primarios de metales preciosos y metales no ferrosos,,,
+2720,Fabricación de productos primarios de metales preciosos y metales no ferrosos,,,
+2720.1,Elaboración de aluminio primario y semielaborados de aluminio,37200p,2720p,27201
+2720.9,Producción de metales no ferrosos n.c.p. y sus semielaborados,37200p,2720p,27209
+273,Fundición de metales,,,
+2731,Fundición de hierro y acero,,,
+2731.0,Fundición de hierro y acero,37100p,2731,27310
+2732,Fundición de metales no ferrosos,,,
+2732.0,Fundición de metales no ferrosos,37200p,2732,27320
+28,"FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO",,28,28
+281,"Fabricación de productos metálicos para uso estructural, tanques, depósitos y generadores de vapor",,,
+2811,Fabricación de productos metálicos para uso estructural y montaje estructural,,,
+2811.0,Fabricación de productos metálicos para uso estructural y montaje estructural,38132 p,2811,28110
+"",,38134,,
+2812,"Fabricación de tanques, depósitos y recipientes de metal",,,
+2812.0,"Fabricación de tanques, depósitos y recipientes de metal",38131,2812,28120
+2813,Fabricación de generadores de vapor,,,
+2813.0,Fabricación de generadores de vapor,38133,2813,28130
+289,Fabricación de productos elaborados de metal n.c.p.; servicios de trabajo de metales,,,
+2891,"Forjado, prensado, estampado y laminado de metales; pulvimetalurgia",,,
+2891.0,"Forjado, prensado, estampado y laminado de metales; pulvimetalurgia",37100p,2891,28910
+"",,37200p,,
+"",,38199 p,,
+2892,"Tratamiento y revestimiento de metales; obras de ingeniería mecánica en general realizadas a cambio deuna retribución o por contrata",,,
+2892.0,"Tratamiento y revestimiento de metales; obras de ingeniería mecánica en general realizadas a cambio deuna retribución o por contrata",37100p,2892,28920
+"",,37200 p,,
+"",,38199 p,,
+2893,"Fabricación de artículos de cuchillería, herramientas de mano y artículos de ferretería",,,
+2893.0,"Fabricación de artículos de cuchillería, herramientas de mano y artículos de ferretería",38110,2893,28930
+"",,38230 p,,
+2899,Fabricación de productos elaborados de metal  n.c.p.,,,
+2899.1,Fabricación de envases metálicos,38192,2899p,28991
+2899.9,Fabricación de productos metálicos n.c.p.,38191,2899p,28999
+"","(Incluye clavos, productos de bulonería, etc.)",38194,,
+"",,38199 p,,
+29,FABRICACION DE MAQUINARIA Y EQUIPO N.C.P.,,29,29
+291,Fabricación de maquinaria de uso general,,,
+2911,"Fabricacióndemotoresyturbinas,exceptomotoresparaaeronaves,vehículosautomotoresymotocicletas",,,
+2911.0,"Fabricacióndemotoresyturbinas,exceptomotoresparaaeronaves,vehículosautomotoresymotocicletas",38210,2911,29110
+"",(Incluye la construcción de motores para navíos y ferrocarriles),38410p,,
+2912,Fabricación de bombas; compresores; grifos y válvulas,,,
+2912.0,Fabricación de bombas; compresores; grifos y válvulas,38199p,2912,29120
+"",,38240p,,
+"",,38299p,,
+"",,38432p,,
+2913,Fabricación de cojinetes; engranajes; trenes de engranaje y piezas de transmisión,,,
+2913.0,Fabricación de cojinetes; engranajes; trenes de engranaje y piezas de transmisión,38299p,2913,29130
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+2914,Fabricación de hornos; hogares y quemadores,,,
+2914.0,Fabricación de hornos; hogares y quemadores,38193 p,2914,29140
+"",,38240p,,
+"",,38299p,,
+2915,Fabricación de equipo de elevación y manipulación,,,
+2915.0,Fabricación de equipo de elevación y manipulación,38240p,2915,29150
+"","(Incluye la fabricación de ascensores, escaleras mecánicas, montacargas, etc.)",38291,,
+"",,38299 p,,
+"",,38410p,,
+2919,Fabricación de  maquinaria de uso general n.c.p.,,,
+2919.0,Fabricación de  maquinaria de uso general n.c.p.,38240p,2919,29190
+"",,38252,,
+"",,38299 p,,
+292,Fabricación de maquinaria de uso especial,,,
+2921,Fabricación de maquinaria agropecuaria y forestal,,,
+2921.1,Fabricación de tractores,38435,2921p,29211
+"",,38436,,
+2921.9,"Fabricación de maquinaria agropecuaria y forestal, excepto tractores",38221,2921p,29219
+"",,38222,,
+2922,Fabricación de máquinas herramienta,,,
+2922.0,Fabricación de máquinas herramienta,38230 p,2922,29220
+"",,38240p,,
+"",,38311 p,,
+2923,Fabricación de maquinaria metalúrgica,,,
+2923.0,Fabricación de maquinaria metalúrgica,38230 p,2923,29230
+2924,Fabricación de maquinaria para la explotación de minas y canteras y para obras de construcción,,,
+2924.0,Fabricación de maquinaria para la explotación de minas y canteras y para obras de construcción,38240p,2924,29240
+"",(Incluye la fabricación de maquinaria y equipos viales),,,
+2925,"Fabricación de maquinaria para la elaboración de alimentos, bebidas y tabaco",,,
+2925.0,"Fabricación de maquinaria para la elaboración de alimentos, bebidas y tabaco",38240p,2925,29250
+2926,"Fabricación de maquinaria para la elaboración de productos textiles, prendas de vestir y cueros",,,
+2926.0,"Fabricación de maquinaria para la elaboración de productos textiles, prendas de vestir y cueros",33201p,2926,29260
+"",,38120p,,
+"",,38240p,,
+"",,38294p,,
+"",,39099 p,,
+2927,Fabricación de armas y municiones,,,
+2927.0,Fabricación de armas y municiones,35293 p,2927,29270
+"",,38293,,
+2929,Fabricación de otros tipos de maquinaria de uso especial n.c.p.,,,
+2929.0,Fabricación de otros tipos de maquinaria de uso especial n.c.p.,38230p,2929,29290
+"",,38240p,,
+"",,38299 p,,
+"",,38510p,,
+293,Fabricación de aparatos de uso doméstico n.c.p.,,,
+2930,Fabricación de aparatos de uso doméstico n.c.p.,,,
+2930.1,"Fabricación de cocinas, calefones, estufas y calefactores no eléctricos",38193 p,2930p,29300 p
+2930.2,"Fabricación de heladeras, ""freezers"", lavarropas y secarropas",38292,2930p,29300p
+2930.9,Fabricación de aparatos de uso doméstico n.c.p.,38330,2930p,29300p
+"",,38294p,,
+30,"FABRICACIÓN DE MAQUINARIA DE OFICINA, CONTABILIDAD E INFORMÁTICA",,30,30
+300,"Fabricación de maquinaria de oficina, contabilidad e informática",,,
+3000,"Fabricación de maquinaria de oficina, contabilidad e informática",,,
+3000.0,"Fabricación de maquinaria de oficina, contabilidad e informática",38251,3000,30000
+"",,38520 p,,
+"",,95192p,,
+31,FABRICACIÓN DE MAQUINARIA Y APARATOS ELÉCTRICOS  N.C.P.,,31,31
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+311,"Fabricación de motores, generadores y transformadores eléctricos",,,
+3110,"Fabricación de motores, generadores y transformadores eléctricos",,,
+3110.0,"Fabricación de motores, generadores y transformadores eléctricos",38311p,3110,31100
+"",,38312p,,
+"",,38321p,,
+312,Fabricación de aparatos de distribución y control de la energía eléctrica,,,
+3120,Fabricación de aparatos de distribución y control de la energía eléctrica,,,
+3120.0,Fabricación de aparatos de distribución y control de la energía eléctrica,38311p,3120,31200
+"",,38312p,,
+"",,38399 p,,
+313,Fabricación de hilos y cables aislados,,,
+3130,Fabricación de hilos y cables aislados,,,
+3130.0,Fabricación de hilos y cables aislados,38393,3130,31300
+314,"Fabricación de acumuladores, pilas y baterías primarias",,,
+3140,"Fabricación de acumuladores, pilas y baterías primarias",,,
+3140.0,"Fabricación de acumuladores, pilas y baterías primarias",38391,3140,31400
+315,Fabricación de lámparas eléctricas y equipo de iluminación,,,
+3150,Fabricación de lámparas eléctricas y equipo de iluminación,,,
+3150.0,Fabricación de lámparas eléctricas y equipo de iluminación,38120p,3150,31500
+"",(Incluye letreros luminosos),38199p,,
+"",,38392,,
+"",,38399 p,,
+319,Fabricación  de equipo eléctrico n.c.p.,,,
+3190,Fabricación  de equipo eléctrico n.c.p.,,,
+3190.0,Fabricación  de equipo eléctrico n.c.p.,36201p,3190,31900
+"",,36999p,,
+"",,38240p,,
+"",,38311p,,
+"",,38432p,,
+"",,38510p,,
+32,"FABRICACIÓN DE EQUIPOS Y APARATOS DE RADIO, TELEVISIÓN Y COMUNICACIONES",,32,32
+321,"Fabricación de tubos, válvulas  y otros  componentes electrónicos",,,
+3210,"Fabricación de tubos, válvulas  y otros  componentes electrónicos",,,
+3210.0,"Fabricación de tubos, válvulas  y otros  componentes electrónicos",38321p,3210,32100
+"",,38399p,,
+322,Fabricación de transmisores de radio y televisión y de aparatos para telefonía y telegrafía con hilos,,,
+3220,Fabricación de transmisores de radio y televisión y de aparatos para telefonía y telegrafía con hilos,,,
+3220.0,Fabricación de transmisores de radio y televisión y de aparatos para telefonía y telegrafía con hilos,38322,3220,32200
+323,"Fabricacióndereceptoresderadioytelevisión,aparatosdegrabaciónyreproducción desonido yvideo, y productos conexos",,,
+3230,"Fabricacióndereceptoresderadioytelevisión,aparatosdegrabaciónyreproducción desonido yvideo, y productos conexos",,,
+3230.0,"Fabricacióndereceptoresderadioytelevisión,aparatosdegrabaciónyreproducción desonido yvideo, y productos conexos",38321p,3230,32300
+33,"FABRICACIÓNDEINSTRUMENTOSMÉDICOS,ÓPTICOSYDEPRECISIÓN;FABRICACIÓNDERELOJES",,33,33
+331,"Fabricación de aparatos e instrumentos médicos y de aparatos para medir, verificar, ensayar, navegary otros fines, excepto instrumentos de óptica",,,
+3311,Fabricación de equipo médico y quirúrgico y de aparatos ortopédicos,,,
+3311.0,Fabricación de equipo médico y quirúrgico y de aparatos ortopédicos,38120p,3311,33110
+"",,38510p,,
+"",,93315p,,
+3312,"Fabricación de instrumentos y aparatos para medir, verificar, ensayar, navegar y otros fines, exceptoel equipo de control  de procesos industriales",,,
+3312.0,"Fabricación de instrumentos y aparatos para medir, verificar, ensayar, navegar y otros fines, exceptoel equipo de control  de procesos industriales",38510p,3312,33120
+3313,Fabricación de equipo de control de procesos industriales,,,
+3313.0,Fabricación de equipo de control de procesos industriales,38510p,3313,33130
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+332,Fabricación de instrumentos de óptica y equipo fotográfico,,,
+3320,Fabricación de instrumentos de óptica y equipo fotográfico,,,
+3320.0,Fabricación de instrumentos de óptica y equipo fotográfico,38520p,3320,33200
+333,Fabricación de relojes,,,
+3330,Fabricación de relojes,,,
+3330.0,Fabricación de relojes,38530,3330,33300
+"",,39010p,,
+34,"FABRICACIÓN DE VEHÍCULOS AUTOMOTORES, REMOLQUES Y SEMIREMOLQUES",,34,34
+341,Fabricación de vehículos automotores,,,
+3410,Fabricación de vehículos automotores,,,
+3410.0,Fabricación de vehículos automotores,38431,3410,34100
+"",(Incluye la fabricación de motores para automotores),,,
+342,Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques,,,
+3420,Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques,,,
+3420.0,Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques,38299p,3420,34200
+"",,38433,,
+343,Fabricación de partes; piezas y accesorios para vehículos automotores y sus motores,,,
+3430,Fabricación de partes; piezas y accesorios para vehículos automotores y sus motores,,,
+3430.0,Fabricación de partes; piezas y accesorios para vehículos automotores y sus motores,38432 p,3430,34300
+"",(Incluye rectificación de motores),38434,,
+35,FABRICACIÓN DE EQUIPO DE TRANSPORTE N.C.P.,,35,35
+351,Construcción y reparación de buques y embarcaciones n.c.p.,,,
+3511,Construcción y reparación de buques,,,
+3511.0,Construcción y reparación de buques,35590p,3511,35110
+"",(Incluye construcción de navíos),38132p,,
+"",,38240p,,
+"",,38410p,,
+3512,Construcción y reparación de embarcaciones de recreo y deporte,,,
+3512.0,Construcción y reparación de embarcaciones de recreo y deporte,35590p,3512,35120
+"",,38410p,,
+352,Fabricación de locomotoras y de material rodante para ferrocarriles y tranvías,,,
+3520,Fabricación de locomotoras y de material rodante para ferrocarriles y tranvías,,,
+3520.0,Fabricación de locomotoras y de material rodante para ferrocarriles y tranvías,38420,3520,35200
+353,Fabricación y reparación de aeronaves,,,
+3530,Fabricación y reparación de aeronaves,,,
+3530.0,Fabricación y reparación de aeronaves,38450,3530,35300
+359,Fabricación de equipo de transporte n.c.p.,,,
+3591,Fabricación de motocicletas,,,
+3591.0,Fabricación de motocicletas,38440p,3591,35910
+3592,Fabricación de bicicletas y de sillones de ruedas ortopédicos,,,
+3592.0,Fabricación de bicicletas y de sillones de ruedas ortopédicos,38440p,3592,35920
+"",,38490p,,
+"",,39099p,,
+3599,Fabricación de equipo de transporte n.c.p.,,,
+3599.0,Fabricación de equipo de transporte n.c.p.,38299p,3599,35990
+"",,38490p,,
+36,FABRICACIÓN DE MUEBLES Y COLCHONES; INDUSTRIAS MANUFACTURERAS N.C.P.,,36,36
+361,Fabricación de muebles y colchones,,,
+3610,Fabricación de muebles y colchones,,,
+3610.1,"Fabricación de muebles y partes de muebles, principalmente de madera",33201 p,3610p,36101
+3610.2,"Fabricación de muebles y partes de muebles, excepto los que son principalmente de madera",35600 p,3610p,36102
+"",,38120 p,,
+3610.3,Fabricación de somieres y colchones,33202,3610p,36103
+369,Industrias manufactureras n.c.p.,,,
+3691,Fabricación de joyas y artículos conexos,,,
+3691.0,Fabricación de joyas y artículos conexos,39010 p,3691,36910
+3692,Fabricación de instrumentos de música,,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+3692.0,Fabricación de instrumentos de música,39020,3692,36920
+"",,39030p,,
+3693,Fabricación de artículos de deporte,,,
+3693.0,Fabricación de artículos de deporte,39030p,3693,36930
+"","( Incluye equipos de deporte, para gimnasios y campos de juegos, equipos de pesca y camping, etc.,excepto indumentaria deportiva)",,,
+3694,Fabricación de juegos y juguetes,,,
+3694.0,Fabricación de juegos y juguetes,35600 p,3694,36940
+"",,38299p,,
+"",,39099p,,
+3699,Industrias manufactureras n.c.p.,,,
+3699.1,"Fabricación de lápices, lapiceras,  bolígrafos, sellos y artículos similares para oficinas y artistas",35292 p,3699p,36990 p
+"",,35600 p,,
+"",,39091,,
+3699.2,Fabricación de cepillos y pinceles,39092,3699p,36990 p
+3699.9,Industrias manufactureras n.c.p.,35292 p,3699p,36990 p
+"","(Incluye la fabricación de cochecitos para bebé, termos, velas, fósforos, pelucas, etc.)",38490p,,
+"",,39093,,
+"",,39099p,,
+37,RECICLAMIENTO,,37,37
+371,Reciclamiento de desperdicios y desechos metálicos,,,
+3710,Reciclamiento de desperdicios y desechos metálicos,,,
+3710.0,Reciclamiento de desperdicios y desechos metálicos,_,3710,37100
+372,Reciclamiento de desperdicios y desechos no metálicos,,,
+3720,Reciclamiento de desperdicios y desechos no metálicos,,,
+3720.0,Reciclamiento de desperdicios y desechos no metálicos,_,3720,37200
+E,"ELECTRICIDAD, GAS Y AGUA",4,E,E
+40,"ELECTRICIDAD, GAS, VAPOR Y AGUA CALIENTE",,40,40
+401,"Generación, transporte y distribución de energía eléctrica",,,
+401.1,Generación de energía eléctrica,,,
+"","(Incluyelaproduccióndeenergíaeléctricarealizadaporautogeneradores,cogeneradoresyproductores incluso los pequeños que efectúan también el transporte y la distribución)",,,
+401.11,Generación de energía térmica convencional,4101 P,4010 P,40100 P
+"","(Incluyelaproduccióndeenergíaeléctricamediantemáquinasturbo-gas,turbovapor,ciclocombinado y turbo diesel)",,,
+401.12,Generación de energía térmica nuclear,4101 P,4010 P,40100 P
+"",(Incluye la producción de energía eléctrica mediante combustible nuclear),,,
+401.13,Generación de energía hidráulica,4101 P,4010 P,40100 P
+"",(Incluye la producción de energía eléctrica mediante centrales de bombeo),,,
+401.19,Generación de energía n.c.p.,4101 P,4010 P,40100 P
+"","(Incluyelaproduccióndeenergíaeléctricamediantefuentesdeenergíasolar,biomasa,eólica,geotérmica, mareomotriz, etc.)",,,
+401.2,Transporte de energía eléctrica,,,
+401.20,Transporte de energía eléctrica,4101 P,4010 P,40100 P
+401.3,Distribución y administración de energía eléctrica,,,
+401.30,Distribución y administración de energía eléctrica,4101 P,4010 P,40100 P
+402,Fabricación de gas y distribución de combustibles gaseosos por tuberías,,,
+4020,Fabricación de gas y distribución de combustibles gaseosos por tuberías,,,
+4020.0,Fabricación de gas y distribución de combustibles gaseosos por tuberías,4102,4020,40200
+"",(No incluye el transporte por gasoductos -subclase 603.10),,,
+403,Suministro de vapor y agua caliente,,,
+4030,Suministro de vapor y agua caliente,,,
+4030.0,Suministro de vapor y agua caliente,4103,4030,-
+41,"CAPTACION, DEPURACION Y DISTRIBUCION DE AGUA",,41,41
+410,"Captación, depuración y distribución de agua",,,
+4100,"Captación, depuración y distribución de agua",,,
+4100.1,"Captación, depuración y distribución de agua de fuentes subterráneas",4200 P,4100 P,41000 P
+4100.2,"Captación, depuración y distribución de agua de fuentes superficiales",4200 P,4100 P,41000 P
+F,CONSTRUCCION,5,F,F
+45,CONSTRUCCION,,45,45
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+451,Preparación de terrenos para obras,,,
+451.1,Demolición y voladura de edificios y de sus partes,,,
+451.10,Demolición y voladura de edificios y de sus partes,5000p,4510p,45100 p
+"","(Incluyelostrabajosdelimpiezadeescombrosasociadosalademoliciónyvoladura,lasperforaciones asociadas a la preparación del terreno para la construcción de obras, lalimpieza delterreno de malezas y la estabilización del suelo, etc.)",,,
+451.2,"Perforación ysondeo, excepto:perforación depozos depetróleo, degas, deminas ehidráulicosyprospección de yacimientos de petróleo",,,
+451.20,"Perforaciónysondeo,excepto:perforacióndepozos depetróleo, degas, deminas ehidráulicos yprospección de yacimientos de petróleo",5000p,4510p,45100 p
+"","(Incluye los trabajos de perforación, sondeo y muestreo confines deconstrucción opara estudiosgeofísicos,geológicosuotrossimilares,lasperforaciones horizontalespara elpaso decables ocañerías de drenaje, etc.)",,,
+"","(No incluye los servicios de perforación relacionados con la extracción de petróleo y gas - subclase1120.0-; ni los trabajos de perforación de pozos hidráulicos -subclase 452.51)",,,
+451.9,Movimiento de suelos y preparación de terrenos para obras n.c.p.,,,
+451.90,Movimiento de suelos y preparación de terrenos para obras n.c.p.,5000p,4510p,45100 p
+"","(Incluyedrenaje,remociónderocas,excavacióndezanjasparaserviciospúblicos,paraalcantarillado urbano y para construcciones diversas,",,,
+"","movimientosdetierrasparahacerterraplenesodesmontespreviosalaconstruccióndevías,carreteras, autopistas, ferrocarriles, etc.)",,,
+452,Construcción de edificios y sus partes y obras de ingeniería civil,,,
+452.1,"Construcción, reforma y reparación de edificios residenciales",,,
+452.10,"Construcción, reforma y reparación de edificios residenciales",5000p,4520p,45100 p
+"","(Incluyelaconstrucción,reformayreparacióndeviviendasunifamiliaresymultifamiliares;bungalows, cabañas, casas de campo, departamentos, albergues para ancianos, niños, estudiantes,etc.)",,,
+452.2,"Construcción, reforma y reparación de edificios no residenciales",,,
+452.20,"Construcción, reforma y reparación de edificios no residenciales",5000p,4520p,45100 p
+"","(Incluye construcción, reforma y reparación de restaurantes, bares, campamentos, bancos, oficinas,galeríascomerciales,estacionesdeservicio,edificiosparatráficoycomunicaciones,garajes,edificios industriales y depósitos, escuelas, etc.)",,,
+452.3,"Construcción,reformayreparacióndeobrasdeinfraestructuradetransporteexceptolosedificiospara tráfico y comunicaciones, estaciones, terminales y edificios asociados",,,
+452.31,"Construcción, reforma y reparación de obras hidráulicas",5000p,4520p,45100 p
+"","( Incluye obras fluviales y canales, acueductos, diques, etc.)",,,
+452.39,"Construcción,reformayreparacióndeobrasdeinfraestructuradetransporten.c.p.exceptolosedificios para tráfico y comunicaciones, estaciones, terminales y edificios asociados",5000p,4520p,45100 p
+"","(Incluyelaconstrucción,reformay reparacióndecalles,autopistas,carreteras,puentes,túneles,vías férreas y pistas de aterrizaje, la señalización mediante pintura, etc.)",,,
+452.4,"Construcción, reforma y reparación de redes de electricidad, de gas, de agua, de telecomunicaciones yde otros servicios",,,
+452.40,"Construcción, reforma y reparación de redes de electricidad, de gas, de agua, de telecomunicaciones yde otros servicios",5000p,4520p,45100 p
+"","(Incluyelaconstrucción,reformayreparaciónderedesdeelectricidad,degas,deagua,detelecomunicaciones, etc.)",,,
+452.5,Actividades especializadas de construcción,,,
+452.51,Perforación de pozos de agua,5000p,4520p,45100 p
+452.52,"Actividades de hincado de pilotes, cimentación y otros trabajos de hormigón armado",5000p,4520p,45100 p
+452.59,Actividades especializadas de construcción n.c.p.,5000p,4520p,45100 p
+"","(Incluyeelalquiler,montajeydesmantelamientodeandamios,laconstruccióndechimeneasyhornos industriales, el acorazamiento de cajas fuertes y cámaras frigoríficas,  etc.)",,,
+"",(No incluye el alquiler de andamios sin montaje ni desmantelamiento - subclase 7122.0),,,
+452.9,Obras de ingeniería civil n.c.p.,,,
+452.90,Obras de ingeniería civil n.c.p.,5000p,4520p,45100 p
+"","(Incluye los trabajos generales de construcción para la minería y la industria,  de centrales eléctricasy nucleares, excavaciones de sepulturas, etc.)",,,
+453,Instalaciones para edificios y obras de ingeniería civil,,,
+453.1,"Ejecución y mantenimiento de instalaciones eléctricas, electromecánicas y electrónicas",,,
+453.11,"Instalación de ascensores, montacargas y  escaleras mecánicas",5000p,4530p,45200 p
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+"",,95129p,,
+453.12,"Instalación de sistemas de iluminación, control y señalización eléctrica para el transporte",5000p,4530p,45200 p
+"",,95129p,,
+453.19,Ejecución y mantenimiento de instalaciones eléctricas y electrónicas n.c.p.,5000p,4530p,45200 p
+"","(Incluyelainstalacióndeantenas,pararrayos,sistemasdealarmascontraincendiosyrobos,sistemas de telecomunicación, etc.)",95129p,,
+453.2,"Aislamiento térmico, acústico, hídrico y antivibratorio",,,
+453.20,"Aislamiento térmico, acústico, hídrico y antivibratorio",5000p,4530p,45200 p
+453.3,"Instalaciones de gas, agua, sanitarios y de climatización, con sus artefactos conexos",,,
+453.30,"Instalaciones de gas, agua, sanitarios y de climatización, con sus artefactos conexos",5000p,4530p,45200 p
+"","(Incluye la instalación de compactadores, calderas, sistemas de calefacción central, etc.)",,,
+453.9,Instalaciones para edificios y obras de ingeniería civil n.c.p.,,,
+453.90,Instalaciones para edificios y obras de ingeniería civil n.c.p.,5000p,4530p,45200 p
+454,Terminación de edificios y obras de ingeniería civil,,,
+454.1,"Instalaciones de carpintería, herrería de obra y artística",,,
+454.10,"Instalaciones de carpintería, herrería de obra y artística",5000p,4540p,45200 p
+"","(Incluye instalación de puertas y ventanas, carpintería metálica y no metálica, etc.)",,,
+454.2,Terminación y revestimiento de paredes y pisos,,,
+454.20,Terminación y revestimiento de paredes y pisos,5000p,4540p,45200 p
+"","(Incluye los trabajos de yesería, el salpicré, el pulido de pisos y la colocación de revestimientos decerámicas, de piedra tallada, de suelos flexibles, parquet, baldosas, empapelados, etc.)",,,
+454.3,Colocación de cristales en obra,,,
+454.30,Colocación de cristales en obra,5000p,4540p,45200 p
+"","(Incluye la instalación y revestimiento de vidrio, espejos y otros artículos de vidrio, etc.)",,,
+454.4,Pintura y trabajos de decoración,,,
+454.40,Pintura y trabajos de decoración,5000p,4540p,45200 p
+454.9,Terminación de edificios y obras de ingeniería civil n.c.p.,,,
+454.90,Terminación de edificios y obras de ingeniería civil n.c.p.,5000p,4540p,45200 p
+"","(Incluye trabajos de ornamentación, limpieza exterior de edificios con vapor, chorro de arena u otrosmétodos, etc.)",,,
+455,Alquiler de equipo de construcción o demolición dotado de operarios,,,
+4550,Alquiler de equipo de construcción o demolición dotado de operarios,,,
+4550.0,Alquiler de equipo de construcción o demolición dotado de operarios,5000p,4550,45200p
+G,"COMERCIOALPOR MAYORYALPOR MENOR; REPARACION DE VEHICULOS AUTOMOTORES,MOTOCICLETAS, EFECTOS PERSONALES Y ENSERES DOMESTICOS",6 p,G,G
+50,"VENTA,MANTENIMIENTOYREPARACION DEVEHICULOSAUTOMOTORESYMOTOCICLETAS;VENTA AL POR MENOR DE COMBUSTIBLE PARA VEHÍCULOS AUTOMOTORES",,50,50
+501,"Venta de vehículos automotores, excepto motocicletas",,,
+501.1,"Venta de vehículos automotores nuevos, excepto motocicletas",,,
+501.11,"Venta de autos, camionetas y utilitarios, nuevos",61811p,5010p,50100 p
+"","(Incluye taxis, jeeps, 4x4 y vehículos similares)",62711p,,
+501.19,"Venta de vehículos automotores, nuevos n.c.p.",61811p,5010p,50100 p
+"","(Incluyecasasrodantes,trailers,camiones,remolques,ambulancias,ómnibus,microbusesysimilares, cabezas tractoras, etc..)",62711p,,
+501.2,"Venta de vehículos automotores usados, excepto motocicletas",,,
+501.21,"Venta de autos, camionetas y utilitarios usados",61811p,5010p,50100 p
+"","(Incluye taxis, jeeps, 4x4 y vehículos similares)",62711p,,
+501.29,Venta de vehículos automotores usados n.c.p.,61811p,5010p,50100 p
+"","(Incluye,casasrodantes,trailers,camiones,remolques,ambulancias,ómnibus,microbusesysimilares, cabezas tractoras, etc..)",62711p,,
+502,"Mantenimiento y reparación de vehículos automotores, excepto motocicletas",,,
+502.1,Lavado automático y manual,,,
+502.10,Lavado automático y manual,95195,5020p,50201
+502.2,"Reparación de cámaras y cubiertas, amortiguación,  alineación de dirección y balanceo de ruedas",,,
+502.21,Reparación de cámaras y cubiertas,95135,5020p,50202 p
+"",(Incluye reparación de llantas),,,
+502.22,"Reparación de amortiguadores,  alineación de dirección y balanceo de ruedas",95132p,5020p,50202 p
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+502.3,"Instalación y reparación de lunetas y ventanillas,  alarmas, cerraduras, radios, sistemas de climatizaciónautomotor y grabado de cristales",,,
+502.30,"Instalación y reparación de lunetas y ventanillas,  alarmas, cerraduras, radios, sistemas de climatizaciónautomotor y grabado de cristales",95132p,5020p,50203
+"",,95134p,,50209p
+502.4,Tapizado y retapizado,,,
+502.40,Tapizado y retapizado,95134p,5020p,50205
+502.5,"Reparaciones eléctricas, del tablero e instrumental; reparación y recarga de baterías",,,
+502.50,"Reparaciones eléctricas, del tablero e instrumental; reparación y recarga de baterías",95132p,5020p,50206
+502.6,"Reparaciónypinturadecarrocerías;colocaciónyreparacióndeguardabarrosyproteccionesexteriores",,,
+502.60,"Reparaciónypinturadecarrocerías;colocaciónyreparacióndeguardabarrosyproteccionesexteriores",95133,5020p,50207
+502.9,Mantenimiento y reparación del motor n.c.p.; mecánica integral,,,
+"",,,,
+502.91,Instalación y reparación de caños de escape,95132p,5020p,50204
+502.92,Mantenimiento y reparación de frenos,95132p,5020p,50209 p
+502.99,Mantenimiento y reparación del motor n.c.p.; mecánica integral,95132p,5020p,50209 p
+"",(Incluye auxilio y servicios de grúa para automotores; instalación y reparación de equipos de GNC),,,
+503,"Venta de partes, piezas y accesorios de vehículos automotores",,,
+503.1,"Venta al por mayor de partes, piezas y accesorios de vehículos automotores",,,
+503.10,"Venta al por mayor de partes, piezas y accesorios de vehículos automotores",61531,5030p,50300p
+"",,61811p,,
+503.2,"Venta al por menor de partes, piezas y accesorios de vehículos automotores",,,
+503.21,Venta al por menor de cámaras y cubiertas,62712p,5030p,50300p
+"",,62713p,,
+503.22,Venta al por menor de baterías,62713p,5030p,50300p
+503.29,"Venta al por menor de partes, piezas y accesorios excepto cámaras y cubiertas y baterías",62712p,5030p,50300p
+"",,62713p,,
+504,"Venta, mantenimiento y reparación de motocicletas y de sus partes, piezas y accesorios",,,
+5040,"Venta, mantenimiento y reparación de motocicletas y de sus partes, piezas y accesorios",,,
+5040.1,"Venta de motocicletas y de sus partes, piezas y accesorios",61811p,5040p,50402
+"",,62720p,,
+5040.2,Mantenimiento y reparación de motocicletas,95131,5040p,50401
+505,Venta al por menor de combustible para vehículos automotores y motocicletas,,,
+5050,Venta al por menor de combustible para vehículos automotores y motocicletas,,,
+5050.0,Venta al por menor de combustible para vehículos automotores y motocicletas,62931p,5050,50500
+"","(Incluye estaciones de servicios y la venta al por menor de productos lubricantes y refrigerantes paraautomotores y motocicletas)",,,
+51,"COMERCIOALPOR MAYORY/OEN COMISIONO CONSIGNACIÓN,EXCEPTO EL COMERCIO DEVEHICULOS AUTOMOTORES Y MOTOCICLETAS",,51,51
+511,Venta al por mayor en comisión o consignación,,,
+511.1,Venta al por mayor en comisión o consignación de productos agrícolas y pecuarios,,,
+511.11,Venta al por mayor en comisión o consignación de productos agrícolas,61111p,5110p,51101
+"",,61113p,,
+"",,61114p,,
+"",,61117p,,
+"",,61119p,,
+511.12,Venta al por mayor en comisión o consignación de productos pecuarios,61115p,5110p,51102
+"",,61117p,,
+"",,61119p,,
+511.9,Venta al por mayor en comisión o consignación de mercancías n.c.p.,,,
+511.91,"Venta al por mayor en comisión o consignación de alimentos, bebidas y tabaco",61211p,5110p,51109p
+"","(Incluye consignatarios y abastecedores de carnes, )",61212p,,
+"",,61213p,,
+"",,61221p,,
+"",,61222p,,
+"",,61231p,,
+"",,61232p,,
+"",,61233p,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+"",,61240p,,
+"",,61251p,,
+"",,61252p,,
+"",,61260p,,
+"",,61270p,,
+"",,61280p,,
+"",,61290p,,
+511.92,"Ventaalpormayorencomisiónoconsignacióndeproductostextiles,prendasdevestir,calzadoexcepto el ortopédico,  artículos de marroquinería, paraguas y similares y productos de cuero n.c.p.",61311p,5110p,51109p
+"",,61312p,,
+"",,61321p,,
+"",,61322p,,
+"",,61323p,,
+"",,61324p,,
+"",,61325p,,
+"",,61326p,,
+"",,61331p,,
+"",,61332p,,
+"",,61333p,,
+"",,61999p,,
+511.93,Venta al por mayor en comisión o consignación de  madera y materiales para la construcción,61421p,5110p,51109p
+"",,61429p,,
+511.94,"Venta al por mayor en comisión o consignación de energía eléctrica, gas y combustibles",61521p,5110p,51109p
+"",,61522p,,
+511.95,"Venta al por mayor en comisión o consignación de minerales, metales y productos químicos industriales",61513p,5110p,51109p
+511.96,"Ventaalpormayorencomisiónoconsignacióndemaquinaria,equipoprofesionalindustrialycomercial, embarcaciones y aeronaves",61813p,5110p,51109p
+"",,61821p,,
+"",,61822p,,
+"",,61823p,,
+"",,61824p,,
+"",,61825p,,
+"",,61826p,,
+"",,62912p,,
+511.97,"Venta al por mayor en comisión o consignación de papel, cartón, libros, revistas, diarios, materiales deembalaje y artículos de librería",61411p,5110p,51109p
+"",,61412p,,
+"",,61419p,,
+"",,61431p,,
+"",,61432p,,
+"",,61993p,,
+511.99,Venta al por mayor en comisión o consignación de  mercaderías n.c.p.,61515p,5110p,51109p
+"",(Incluye galerías de arte),61825p,,
+"",,61930,,
+"",,61999p,,
+512,"Venta al por mayor de materias primas agropecuarias, de animales vivos, alimentos, bebidas y tabaco,excepto en comisión o consignación",,,
+5121,Venta al por mayor de materias primas agropecuarias y de animales vivos,,,
+5121.1,Venta al por mayor de materias primas agrícolas y de la silvicultura,61111p,5121p,51210p
+"","(Incluye el acopio  y venta al por mayor de flores y plantas, tabaco en rama, granos, etc.)",61113p,,
+"",,61114p,,
+"",,61117p,,
+"",,61121,,
+"",,61122p,,
+"",,61129,,
+5121.2,Venta al por mayor de materias primas pecuarias incluso animales vivos,61112,5121p,51210p
+"","(Incluye pieles, cueros, animales vivos, etc.)",61115p,,
+"",,61117p,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+512.2,Venta al por mayor de alimentos,,,
+512.21,"Venta al por mayor de fiambres, quesos y productos lácteos",61222p,5122p,51221p
+"",,61240p,,
+512.22,"Venta al por mayor de carnes rojas, menudencias y chacinados frescos; productos de granja y de lacaza",61221p,5122p,51222
+"",(Incluye huevos),61222p,,
+512.23,Venta al por mayor de pescado,61116,5122p,51223
+512.24,"Venta al por mayor y empaque de frutas, de legumbres y hortalizas frescas",61114p,5122p,51224
+"",(Incluye la conservación en cámaras frigoríficas de los empaquetadores),,,
+512.25,"Venta al por mayor de pan, productos de confitería y pastas frescas",61252p,5122p,51225
+512.26,"Ventaalpormayor dechocolates, golosinasy productospara kioscosy polirrubrosn.c.p., exceptocigarrillos",61270p,5122p,51226p
+512.27,"Ventaalpormayordeaceites,azúcar,café,té,yerbamateyotrasinfusionesyespeciasycondimentos y productos de molinería",61211p,5122p,51221p
+"","(Incluye la venta de sal,  etc.)",61212p,,
+"",,61213p,,
+512.29,Venta al por mayor de productos alimenticios n.c.p.,61251p,5122p,51221p
+"","(Incluye la venta de miel y derivados, productos congelados,  etc.)",61260p,,
+"",,61280p,,
+512.3,Venta al por mayor de bebidas,,,
+512.31,Venta al por mayor de bebidas alcohólicas,61231p,5122p,51226p
+"","(Incluye la venta de aperitivos con alcohol, cerveza, sidra, el fraccionamiento de alcohol, etc.)",61232p,,
+"",,61233p,,
+512.32,Venta al por mayor de bebidas no alcohólicas,61233p,5122p,51226p
+"","(Incluyelaventadeaguas,sodas,bebidasrefrescantes,jarabes,extractos,concentrados,gaseosas, jugos, etc.)",,,
+512.4,Venta al por mayor de cigarrillos y productos de tabaco,,,
+512.40,Venta al por mayor de cigarrillos y productos de tabaco,61290p,5122p,51226p
+513,Venta al por mayor de artículos de uso doméstico y/o personal,,,
+5131,"Ventaal pormayor deproductos textiles,prendas devestir, calzadoexcepto elortopédico, cueros,pieles, artículos de marroquinería,  paraguas y similares",,,
+5131.1,Venta al por mayor de productos textiles excepto prendas y accesorios de vestir,61311p,5131p,51310p
+"","(Incluye la venta de puntillas, galones, hombreras, agujas, botones, tapices, alfombras, etc.)",61312p,,
+"",,61323p,,
+"",,61324p,,
+"",,61326p,,
+5131.2,Venta al por mayor de prendas y accesorios de vestir,61321p,5131p,51310p
+"",,61322p,,
+"",,61325p,,
+5131.3,Venta al por mayor de calzado excepto el ortopédico,61539p,5131p,51310p
+"","(Incluye venta de calzado de cuero, tela, plástico, goma, etc.)",61999p,,
+5131.4,"Venta al por mayor de artículos de cueros, pieles, marroquinería y talabartería,  paraguas y similares",61331p,5131p,51310p
+"","(Incluye talabarterías, artículos regionales de cuero, almacenes de suelas, etc.)",61332p,,51393
+"",,61333p,,
+513.2,"Ventaalpormayordelibros,revistas,diarios,papel,cartón,materialesdeembalajeyartículosdelibrería",,,
+513.21,"Venta al por mayor de libros, revistas y diarios",61411p,5139p,51398p
+"",,61993p,,
+513.22,"Venta al por mayor de papel, cartón, materiales de embalaje y artículos de librería",61412p,5139p,51398p
+"",,61419p,,
+"",,61431p,,
+"",,61432p,,
+513.3,"Venta al por mayor de productos farmacéuticos, veterinarios, cosméticos y de perfumería, instrumentalmédico y odontológico y artículos ortopédicos",,,
+513.31,Venta al por mayor de productos farmacéuticos y  veterinarios,61512,5139p,51392p
+"","(Incluyeventademedicamentosykitsdediagnósticocomotestdeembarazo,hemoglucotest,vacunas, etc.)",61514,,
+513.32,"Venta al por mayor de productos cosméticos, de tocador y de perfumería",61515p,5139p,51392p
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+513.33,Venta al por mayor de instrumental médico y odontológico y artículos ortopédicos,61825p,5139p,51392p
+"","(Incluyeventadevaporizadores,nebulizadores,masajeadores,termómetros,prótesis,muletas,plantillas, calzado ortopédico y otros artículos similares de uso personal o doméstico)",,,
+513.4,"Venta al por mayor de artículos de óptica, fotografía, relojería, joyería y fantasías",,,
+513.41,Venta al por mayor de artículos de óptica y de fotografía,61960,5139p,51395 p
+"","(Incluye venta de lentes de contacto, líquidos oftalmológicos, armazones, cristales ópticos, películasfotográficas, cámaras y accesorios para fotografía, etc.)",,,
+513.42,"Venta al por mayor de artículos de relojería, joyería y fantasías",61911,5139p,51395 p
+"",,61912,,
+513.5,"Venta al por mayor de muebles, artículos de iluminación y  demás artefactos para el hogar",,,
+513.51,Venta al por mayor de muebles excepto de oficina; artículos de mimbre y corcho; colchones y somieres,61613p,5139p,51396 p
+513.52,Venta al por mayor de artículos de iluminación,61612p,5139p,51396p
+"",,,,51399p
+513.53,Venta al por mayor de artículos de bazar y menaje,61540p,5139p,51396 p
+"",,61611,,51399p
+"",,61720p,,
+513.54,"Venta al por mayor de artefactos para el hogar, eléctricos, a gas, kerosene u otros combustibles",61612p,5139p,51396 p
+"","(Incluye electrodomésticos, cocinas, estufas y salamandras, hornos, etc.)",,,
+"","(No incluye quipos de sonido, televisión y video)",,,
+513.55,"Venta al por mayor de instrumentos musicales, equipos de sonido, casetes de audio y video, y discosde audio y video",61612p,5139p,51396p
+5139,Venta al por mayor de artículos de uso doméstico y/o personal n.c.p.,,,
+5139.1,Venta al por mayor de materiales y productos de limpieza,61516,5139p,51391
+5139.2,Venta al por mayor de juguetes,61950,5139p,51394p
+"",(Incluye artículos de cotillón),,,
+5139.3,Venta al por mayor de bicicletas y rodados similares,61812,5139p,51394p
+"","(Incluye cochecitos y sillas de paseo para bebés, andadores, triciclos, etc.)",,,51900p
+5139.4,Venta al por mayor de artículos de esparcimiento y deportes,61991,5139p,51394p
+"","(Incluye embarcaciones deportivas, armas y municiones, equiposde pesca,piletas denatación delona o plástico, etc.)",61999p,,
+5139.5,"Ventaalpormayordepapeles parapared, revestimientopara pisosde goma,plástico ytextiles,yartículos similares para la decoración",61419p,5139p,51397
+"",,61625,,
+5139.9,Venta al por mayor artículos de uso doméstico y/o personal n.c.p,61519p,5139p,51399 p
+"","(Incluye artículos de platería -excepto losincluidos en talabartería -, cuadros y marcos que no seanobradearteodecolección,sahumeriosy art.desantería,parrillasyhogares,floresy plantasnaturales y artificiales, etc.)",61539p,,
+"",,61540p,,
+"",,61619p,,
+"",,61720p,,
+514,"Venta al por mayor de productos intermedios, desperdicios y desechos no agropecuarios",,,
+5141,"Venta al por mayor de combustibles, incluso gaseosos y productos conexos",,,
+5141.1,Venta al por mayor de combustibles y lubricantes para automotores,61521p,5141p,51411
+5141.9,"Venta al por mayor de combustibles y lubricantes -excepto para automotores-, gas en garrafas,leña ycarbón",61122p,5141p,51419
+"",,61131,,
+"",,61521p,,
+"",,61522p,,
+5142,Venta al por mayor de metales y minerales metalíferos,,,
+5142.0,Venta al por mayor de metales y minerales metalíferos,61133,5142,51420
+"",,61711,,
+"",,61712p,,
+5143,"Ventaal pormayor demadera,materialesde construcción,artículos deferretería ymateriales paraplomería e instalaciones de  gas",,,
+5143.1,Venta al por mayor de aberturas,61623,5143p,51430 p
+"","(Incluyepuertas,ventanas,cortinasdeenrollardePVC,madera,aluminio,puertascorredizas,frentes de placards, etc.)",,,
+5143.2,Venta al por mayor de productos de madera excepto muebles,61421p,5143p,51430 p
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+"","(Incluye placas, varillas, parqué, machimbre, etc.)",61429p,,
+5143.3,Venta al por mayor de artículos de ferretería,61630p,5143p,51430 p
+5143.4,Venta al por mayor de pinturas y productos conexos,61511,5143p,51430 p
+5143.5,Venta al por mayor de cristales y espejos,61624,5143p,51430 p
+5143.9,Venta al por mayor de artículos para la construcción n.c.p.,61621,5143p,51430 p
+"","(Incluyesanitarios,grifería,arena,cantorodado,ladrillos,zinguería,revestimientosparatechos,membranas aislantes, etc.)",61134,,
+"",,61622,,
+"",,61720p,,
+"",,61822p,,
+5149,"Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos",,,
+5149.1,"Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos textiles",61992p,5149p,51490p
+5149.2,"Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos de papel y cartón",61992p,5149p,51490p
+5149.3,"Ventaalpormayordeproductosintermedios,desperdiciosydesechosdevidrio,deplástico,decaucho y goma, y químicos",61513p,5149p,51490p
+"",,61519p,,
+"",,61992p,,
+5149.4,"Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos metálicos",61712p,5149p,51490p
+"","(Incluye chatarra, viruta de metales diversos, etc.)",61992p,,
+5149.9,"Venta al por mayor de productos intermedios, desperdicios y desechos n.c.p.",61992p,5149p,51490 p
+"","(Incluye venta al por mayor de petróleo, minerales no metalíferos, etc.)",61132,,
+"",,61139,,
+515,"Venta al por mayor de máquinas, equipo y materiales conexos",,,
+515.1,"Venta al por mayor de máquinas, equipos e implementos de uso especial",,,
+515.11,"Ventaalpormayordemáquinas,equiposeimplementosdeusoenlossectoresagropecuario,jardinería, silvicultura, pesca y caza",61824p,5150p,51509 p
+"","(Incluye venta de tractores, cosechadoras, enfardadoras, remolques de carga y descarga automática,motosierras, cortadoras de césped autopropulsadas, etc.)",,,
+515.12,"Venta al por mayor de máquinas, equipos e implementos de uso en la elaboración de alimentos, bebidasy tabaco",61824p,5150p,51509 p
+"","(Incluye máquinas para moler, picar y cocer alimentos, fabricadora de pastas, bateas, enfriadoras yenvasadoras de bebidas, etc.)",,,
+515.13,"Venta al por mayor de máquinas, equipos e implementos de uso en la fabricación de textiles, prendas yaccesorios de vestir, calzado, artículos de cuero y marroquinería",61824p,5150p,51509 p
+"","(Incluyeventademáquinasdecoser, decortar tejidos,de tejer,extender telas,robots decorte yotros equipos dirigidos por computadora para la industria textil y confeccionista, etc.)",61619p,,
+515.14,"Ventaalpormayordemáquinas,equiposeimplementosdeusoenimprentas,artesgráficasyactividades conexas",61824p,5150p,51509 p
+"","(Incluyeventademáquinasfotocopiadoras-exceptolasdeusopersonal-copiadorasde planos,máquinas para imprimir, guillotinar, troquelar, encuadernar, etc.)",,,
+515.15,"Venta al por mayor de máquinas, equipos e implementos de uso médico y paramédico",61825p,5150p,51509 p
+"","(Incluye venta de equipos dediagnóstico y tratamiento, camillas,cajas decirugía,jeringasy otrosimplementos de material descartable, etc.)",62912p,,
+515.16,"Venta al por mayor de máquinas, equipos e implementos de uso en la industria del plástico y el caucho",61824p,5150p,51509 p
+"","(Incluye sopladora de envases, laminadora de plásticos, máquinas extrusoras y moldeadoras, etc.)",,,
+515.19,"Venta al por mayor de máquinas, equipos e implementos de uso especial n.c.p.",61824p,5150p,51509 p
+"","(Incluye motoniveladoras, excavadoras, palas mecánicas, perforadoras-percutoras, etc.)",,,
+515.2,Venta al por mayor de máquinas-herramienta,,,
+515.20,Venta al por mayor de máquinas-herramienta,61630p,5150p,51509 p
+515.3,"Ventaalpormayordevehículos,equiposymáquinasparaeltransporteferroviario,aéreoydenavegación",,,
+515.30,"Ventaalpormayordevehículos,equiposymáquinasparaeltransporteferroviario,aéreoydenavegación",61813p,5150p,51502
+515.4,"Venta al por mayor de muebles e instalaciones para la industria, el comercio y los servicios",,,
+515.41,Venta al por mayor de muebles e instalaciones para oficinas,61613p,5150p,51501 p
+"",,61826p,,
+"",,62322p,,
+"",,62324p,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+515.42,"Venta al por mayor de muebles e instalaciones para la industria, el comercio y los servicios n.c.p.",61824p,5150p,51501 p
+"",,62322p,,51900p
+"",,62324p,,
+515.9,"Venta al por mayor de máquinas, equipo y materiales conexos n.c.p.",,,
+515.91,Venta al por mayor de equipo profesional y científico e instrumentos de medida y de control,61825p,5150p,51509 p
+515.92,"Venta al por mayor de equipos informáticos y máquinas electrónicas de escribir y calcular ;venta al pormayor de máquinas y equipos de comunicaciones, control y seguridad",61826p,5150p,51501 p
+"","(Incluye la venta de computadoras incluso lasportátiles y sus periféricos,impresoras, suministrosparacomputación,software,máquinasdeescribiry calcular electrónicas,incluso lasde bolsillo,cajas registradoras y de contabilidad electrónicas, etc)",,,
+"","(Incluye también la venta de productos de telefonía, equipos de circuito cerrado, sistemas de alarmasy sirenas contra incendios, robos y otros sistemas de seguridad, equipos de facsímil, etc.)",,,
+515.99,"Venta al por mayor de máquinas, equipo y materiales conexos n.c.p.",61823p,5150p,51509 p
+"","(Incluyemáquinasregistradorasdeescribirydecalcularmecánicas,equiposparadestruirdocumentos, etc.)",61826p,,
+519,Venta al por mayor de mercancías n.c.p.,,,
+5190,Venta al por mayor de mercancías n.c.p.,,,
+5190.0,Venta al por mayor de mercancías n.c.p.,61539p,5190,51900 p
+"",,61540p,,
+"",,61720p,,
+"",,61921,,
+"",,61922,,
+"",,61940,,
+"",,61994,,
+"",,61999p,,
+52,"COMERCIOALPORMENOR,EXCEPTOELCOMERCIODEVEHICULOSAUTOMOTORESYMOTOCICLETAS; REPARACION DE EFECTOS PERSONALES Y ENSERES DOMESTICOS",,52,52
+521,Venta al por menor excepto la especializada,,,
+5211,Venta al por menor en comercios no especializados con predominio de productos alimenticios y bebidas,,,
+5211.1,Venta al por menor en hipermercados con predominio de productos alimenticios y bebidas,62820p,5211p,52110p
+5211.2,Venta al por menor en supermercados con predominio de productos alimenticios y bebidas,62820p,5211p,52110p
+5211.3,Venta al por menor en minimercados con predominio de productos alimenticios y bebidas,62113,5211p,52110p
+5211.9,"Venta al por menor en kioscos, polirrubros y comercios no especializados n.c.p.",62140,5211p,52207p
+"",,62811p,,
+"",,62812p,,
+"",,62830p,,
+521.2,"Venta al por menor excepto la especializada, sin predominio de productos alimenticios y bebidas",,,
+521.20,"Venta al por menor excepto la especializada, sin predominio de productos alimenticios y bebidas",62811p,5219,52190
+"",,62812p,,
+"",,62830p,,
+522,"Venta al por menor de productos alimenticios, bebidas y tabaco en comercios especializados",,,
+522.1,"Venta al por menor de productos de almacén, fiambrería y dietética",,,
+522.11,"Venta al por menor principalmente de fiambres, quesos y productos lácteos",62111p,5220p,52202p
+"",,62114p,,
+"",,62135p,,
+522.12,Venta al por menor de productos de almacén y dietética,62111p,5220p,52202p
+"",,62112p,,
+"",,62190p,,
+522.2,Venta al por menor de carnes rojas y productos de granja y de la caza,,,
+522.21,"Venta al por menor de carnes rojas, menudencias y chacinados frescos",62131,5220p,52203 p
+"",,,,52522p
+522.22,"Venta al por menor de huevos, carne de aves y  productos de granja y de la caza n.c.p.",62135p,5220p,52203p
+"",,,,52201
+"",,,,52522p
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+522.3,"Venta al por menor de frutas, legumbres y hortalizas frescas",,,
+522.30,"Venta al por menor de frutas, legumbres y hortalizas frescas",62132,5220p,52205
+"",,,,52521p
+"",,,,52524
+522.4,Venta al por menor de pan y productos de panadería y confitería,,,
+522.41,Venta al por menor de pan y productos de panadería,62123,5220p,52206p
+"",,62124,,
+522.42,"Venta al por menor de bombones, golosinas y demás productos de confitería",62122,5220p,52206p
+"",,,,52207p
+"",,,,52525p
+522.5,Venta al por menor de bebidas,,,
+522.50,Venta al por menor de bebidas,62112p,5220p,52207p
+"",(No incluye la venta de bebidas en kioscos y polirrubros- subclase 5211.9),62115p,,52525p
+522.9,"Venta al por menor de productos  alimenticios n.c.p. y tabaco, en comercios especializados",,,
+522.91,Venta al por menor de pescados y productos de la pesca,62134,5220p,52204
+"",,,,52523
+522.99,"Venta al por menor de productos alimenticios n.c.p. y tabaco, en comercios especializados",62115p,5220p,52207p
+"",,62121,,
+"",,62133,,52525p
+"",,62190p,,52526p
+"",,62950 p,,
+523,"Venta al por menor de productos n.c.p. excepto los usados, en comercios especializados",,,
+5231,"Ventaalpormenordeproductosfarmacéuticos,cosméticos,deperfumería,instrumentalmédicoyodontológico y artículos ortopédicos",,,
+5231.1,Venta al por menor de productos farmacéuticos y de herboristería,62510,5231p,52310p
+"",,62590p,,
+5231.2,"Venta al por menor de productos cosméticos, de tocador y de perfumería",62520,5231p,52310p
+5231.3,Venta al por menor de instrumental médico y odontológico y artículos ortopédicos,62912p,5231p,52310p
+"","(Incluyeventadevaporizadores,nebulizadores,masajeadores,termómetros,prótesis,muletas,plantillas, calzado ortopédico y otros artículos similares de uso personal o doméstico)",62913,,
+523.2,"Venta al por menor de productos textiles, excepto prendas de vestir",,,
+523.21,"Venta al por menor de hilados, tejidos y artículos de mercería",62241,5232p,52320p
+"","(Incluye mercerías, sederías, comercios de venta de lanas y otros hilados, etc.)",62242p,,
+523.22,Venta al por menor de confecciones para el hogar,62243,5232p,52320p
+"","(Incluyelaventaalpormenordesábanas,toallas,mantelería, cortinasconfeccionadas, colchas,cubrecamas, etc.)",,,
+523.29,Venta al por menor de artículos textiles n.c.p. excepto prendas de vestir,62321,5232p,52320p
+"","(Incluye venta al por menor de tapices, alfombras,  etc.)",,,
+523.3,"Ventaalpormenordeprendasyaccesorios devestir exceptocalzado, artículosde marroquinería,paraguas y similares",,,
+523.31,"Venta al por menor de ropa interior, medias, prendas para dormir y para la playa",62212p,5232p,52320p
+"","(Incluye corsetería,lencería, camisetas, medias -excepto ortopédicas-, pijamas, camisones y saltosde cama, salidas de baño, trajes de baño, etc.)",62213p,,
+"",,62232,,
+"",,62242p,,
+523.32,"Venta al por menor de indumentaria de trabajo, uniformes y guardapolvos",62212p,5232p,52320p
+"",,62213p,,
+523.33,Venta al por menor de indumentaria para bebés y niños,62211,5232p,52320p
+523.39,"Ventaalpormenordeprendasyaccesoriosdevestirn.c.p.-exceptocalzado-,artículosdemarroquinería, paraguas y similares",62212p,5232p,52320p
+"",,62213p,,
+"",,62214,,
+"",,62215,,
+"",,62216,,
+"",,62222,,
+"",,62233p,,
+523.4,"Venta al por menor de calzado excepto el ortopédico, artículos de marroquinería, paraguas y similares",,,
+523.41,Venta al por menor de artículos regionales y de talabartería,62253p,5232p,52320p
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+"","(Incluye venta de artículos de  talabartería y regionales de cuero, plata, alpaca y similares, etc.)",62259p,,52399p
+523.42,Venta al por menor de calzado excepto el ortopédico,62231,5232p,52320p
+"",(Incluye almacenes de suelas),62253p,,
+"",,62251,,
+523.49,"Venta al por menor de artículos de marroquinería, paraguas y similares n.c.p.",62221p,5232p,52320p
+"",,62252p,,52399p
+"",,62259p,,
+523.5,"Ventaalpormenordemuebles,artículosdemimbre ycorcho,colchonesysomieres,artículosdeiluminación y artefactos para el hogar",,,
+523.51,"Venta al por menor de muebles excepto para la oficina, la industria, el comercio y los servicios; artículosde mimbre y corcho",62322p,5233p,52330p
+"",,62324p,,
+"",,62329p,,
+523.52,Venta al por menor de colchones y somieres,62323,5233p,52330p
+523.53,Venta al por menor de artículos de iluminación,62391,5233p,52330p
+523.54,Venta al por menor de artículos de bazar y menaje,62310,5233p,52330p
+"",,62395p,,
+523.55,"Venta al por menor de artefactos  para el hogar, eléctricos, a gas, a kerosene u otros combustibles",62392,5233p,52330p
+"","(Incluye electrodomésticos, cocinas, estufas, hornos, etc. No incluye equipos de sonido, televisión yvideo)",62394,,
+523.56,"Venta al por menor de instrumentos musicales, equipos de sonido, casetes de audio y video, discos deaudio y video",62393,5233p,52330p
+"",,62396p,,
+"",,62397,,
+523.59,Venta al por menor de artículos para el hogar n.c.p.,62329p,5233p,52330 p
+"",,62395p,,52399p
+523.6,"Venta al por menor de materiales de construcción, artículos de ferretería, pinturas, cristales y espejos,y artículos para la decoración",,,
+523.61,Venta al por menor de aberturas,62621p,5234p,52340p
+"","(Incluyepuertas,ventanas,cortinasdeenrollardePVC,madera,aluminio,puertascorredizas,frentes de placards, etc.)",,,
+523.62,Venta al por menor de maderas y artículos de madera  y corcho excepto muebles,62621p,5234p,52340 p
+523.63,Venta al por menor de artículos de ferretería,62611,5234p,52340p
+523.64,Venta al por menor de pinturas y productos conexos,62612,5234p,52340p
+523.65,Venta al por menor de artículos para plomería e instalación de gas,62621p,5234p,52340 p
+"",,62622p,,
+523.66,"Venta al por menor de cristales, espejos, mamparas y cerramientos",62623,5234p,52340p
+523.67,"Ventaalpormenordepapelesparapared,revestimientosparapisosyartículossimilaresparaladecoración",62624,5234p,52395
+523.69,Venta al por menor de materiales de construcción n.c.p.,62622p,5234p,52340 p
+"",,62621p,,
+523.7,"Venta al por menor de artículos de óptica, fotografía, relojería, joyería y fantasía",,,
+523.71,Venta al por menor de artículos de óptica y fotografía,62911,5239p,52394p
+523.72,"Venta al por menor de artículos de relojería, joyería y fantasía",62921,5239p,52394 p
+"",,62922,,
+523.8,"Ventaalpormenordelibros,revistas,diarios,papel,cartón,materialesdeembalajeyartículosdelibrería",,,
+523.81,Venta al por menor de libros y publicaciones,62396p,5239p,52396 p
+"",,62411p,,52527p
+523.82,Venta al por menor de diarios y revistas,62420,5239p,52396 p
+"",,,,52527p
+523.83,"Venta al por menor de papel, cartón, materiales de embalaje y artículos de librería",62412p,5239p,52396 p
+"",,,,52527p
+5239,Venta al por menor en comercios especializados n.c.p.,,,
+5239.1,"Venta al por menor de flores, plantas, semillas, abonos, fertilizantes y otros productos de vivero",62942,5239p,52391 p
+"",(Incluye flores y plantas naturales y artificiales),62960,,52521p
+5239.2,Venta al por menor de materiales y productos de limpieza,62994,5239p,52392
+"",,,,52526p
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+5239.3,Venta al por menor de juguetes y artículos de cotillón,62970,5239p,52393 p
+5239.4,Venta al por menor de artículos de deportes y esparcimiento,62720p,5239p,52393 p
+"","(Incluye equipo e indumentaria deportiva, armas y cuchillería, etc.)",62993,,
+"",,62233p,,
+"",,62992,,
+5239.5,Venta al por menor de máquinas y equipos para oficina y sus componentes y repuestos,62412p,5239p,52397
+"",,62912p,,
+"",,62999p,,
+5239.6,"Venta al por menor de fuel oil, gas en garrafas, carbón y leña",62931p,5239p,52398
+"",(No incluye las estaciones de servicios -subclase 5050.0-),62932,,
+"",,62991,,
+5239.7,Venta al por menor de productos veterinarios y animales domésticos,62941,5239p,52310 p
+"",,,,52391 p
+"",,,,52399 p
+5239.9,"Venta al por menor de artículos de colección, obras de arte, y artículos nuevos n.c.p.",62331,5239p,52399 p
+"","(Incluyelaventarealizadaencasasderegalos,deartesaníasyartículosregionales-exceptoartículos de talabartería-; pelucas, de artículos religiosos, de monedas y sellos, cuadros,obras dearte, etc.)",62332p,,52528
+"",,62590p,,
+"",,62221p,,
+"",,62999p,,
+524,Venta al por menor de artículos usados excluidos automotores y motocicletas,,,
+524.1,Venta al por menor de muebles usados,,,
+524.10,Venta al por menor de muebles usados,62325,5240p,52400 p
+524.2,"Venta al por menor de libros, revistas y similares usados",,,
+524.20,"Venta al por menor de libros, revistas y similares usados",62396p,5240p,52400 p
+524.9,Venta al por menor de artículos usados n.c.p.,,,
+524.91,Venta al por menor de antigüedades,62332p,5240p,52400 p
+"",(Incluye venta de antigüedades en remates),,,
+524.99,Venta al por menor de artículos usados n.c.p. excluidos automotores y motocicletas,62260,5240p,52400 p
+"",,62396p,,
+"",,62999p,,
+525,Venta al por menor no realizada en establecimientos,,,
+525.1,"Venta al por menor  por correo, televisión, internet y otros medios de comunicación",,,
+525.10,"Venta al por menor por correo, televisión, internet y otros medios de comunicación",62999p,5251,52510
+525.2,Venta al por menor en puestos móviles,,,
+525.20,Venta al por menor en puestos móviles,62999p,5252,52590 p
+5259,Venta al por menor no realizada en establecimientos  n.c.p.,,,
+5259.0,Venta al por menor no realizada en establecimientos  n.c.p.,62999p,5259,52590 p
+"","(Incluye venta mediante máquinas expendedoras, vendedores ambulantes y vendedores a domicilio)",,,
+526,Reparación de efectos personales y enseres domésticos,,,
+526.1,Reparación de calzado y artículos de marroquinería,,,
+526.10,Reparación de calzado y artículos de marroquinería,95110,5260p,52600 p
+526.2,Reparación de artículos eléctricos de uso doméstico,,,
+526.20,Reparación de artículos eléctricos de uso doméstico,95121,5260p,52600 p
+"",,95122,,
+"",,95129p,,
+526.9,Reparación de efectos personales y enseres domésticos n.c.p.,,,
+526.90,Reparación de efectos personales y enseres domésticos n.c.p.,95129p,5260p,52600 p
+"",(Incluye el duplicado de llaves y la reparación de cerraduras),95199,,
+"",,95140,,
+"",,95191,,
+"",,95193,,
+"",,95194,,
+"",,95202,,
+H,SERVICIOS DE HOTELERIA Y RESTAURANTES,6 p,H,H
+55,SERVICIOS DE HOTELERIA Y RESTAURANTES,,55,55
+551,"Servicios de alojamiento en hoteles, campamentos y otros tipos de hospedaje temporal",,,
+551.1,Servicios de alojamiento en camping,,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+551.10,Servicios de alojamiento en camping,63240,5510p,55100 p
+"",(Incluye refugios de montaña),,,
+551.2,Servicios de alojamiento excepto en camping,,,
+551.21,Servicios de alojamiento por hora,63230,5510p,55100 p
+551.22,"Servicios de alojamiento en hoteles, pensiones y otras residencias de alojamiento temporal, excepto porhora",63211,5510p,55100 p
+"","(Incluye hospedaje en estancias, residencias para estudiantes y alberguesjuveniles, apartamentosturísticos,  etc.)",63212,,
+"",,63213,,
+"",,63220,,
+552,Servicios de expendio de comidas y bebidas,,,
+552.1,"Serviciosdeexpendiodecomidasybebidasenrestaurantes,baresyotrosestablecimientosconservicio de mesa y/o en mostrador",,,
+552.11,"Serviciosdeexpendiodecomidasybebidasenrestaurantes,baresyotrosestablecimientosconservicio de mesa y/o en mostrador excepto en heladerías",63110,5520p,55200 p
+"","(Incluye locales de expendio de bebidas con servicio de mesa y/o de mostrador para consumo en ellugar, salones de té, servicios de comedores escolares, cantinas deportivas, fábricas, expendio depizza, empanadas, hamburguesas, productos lácteos excepto",63120p,,
+"","helados, etc.)",63130,,
+"",,63140,,
+"",,63150p,,
+"",,63160p,,
+552.12,Servicios de expendio de helados,63150p,5520p,55200 p
+552.2,Preparación y venta de comidas para llevar,,,
+552.21,Provisión de comidas preparadas para empresas,71112p,5520p,55200 p
+"","(Incluyeelserviciodecatering,elsuministrodecomidasparabanquetes,bodas,fiestasy otrascelebraciones, etc.)",71320p,,
+552.29,Preparación y venta de comidas para llevar n.c.p.,62114p,5520p,55200 p
+"","(Incluye casas de comidas, rotiserías y demás lugares que no poseen espaciopara elconsumo insitu)",63120p,,
+"",,63160p,,
+I,"SERVICIO DE TRANSPORTE, DE ALMACENAMIENTO Y DE COMUNICACIONES",7,I,I
+60,SERVICIO DE TRANSPORTE TERRESTRE,,60,60
+601,Servicio de transporte ferroviario,,,
+601.1,Servicio de transporte ferroviario de cargas,,,
+601.10,Servicio de transporte ferroviario de cargas,71111p,6010p,60100 p
+"",,71112p,,
+601.2,Servicio de transporte ferroviario de pasajeros,,,
+601.21,Servicio de transporte ferroviario urbano y suburbano de pasajeros,71111p,6010p,60210 p
+"",(Incluye el servicio de subterráneo y de premetro),,,
+601.22,Servicio de transporte ferroviario interurbano de pasajeros,71111p,6010p,60210 p
+602,Servicio de transporte automotor,,,
+602.1,Servicio de transporte automotor de cargas,,,
+602.11,Servicios de mudanza,71142,6023p,60230 p
+"",(Incluye servicios de guardamuebles),,,
+602.12,"Servicios de transporte de mercaderías a granel, incluido el transporte por camión cisterna",71141p,6023p,60230 p
+602.13,Servicios de transporte de animales,71141p,6023p,60230 p
+602.18,Servicio de transporte urbano de carga n.c.p.,71141p,6023p,60230 p
+"",(Incluye el transporte realizado por fleteros y distribuidores dentro del égido urbano),,,
+602.19,Transporte automotor de cargas n.c.p.,71141p,6023p,60230 p
+"","(Incluyeserviciosdetransportedecargarefrigerada,transportepesadoydemercaderíaspeligrosas)",,,
+602.2,Servicio de transporte automotor de pasajeros,,,
+602.21,Servicio de transporte automotor urbano regular de pasajeros,71121p,6021p,60210 p
+"",(Incluye los servicios de transporte regular de menos de 50 km.),,,
+602.22,Servicio de transporte automotor  de pasajeros mediante taxis y remises; alquiler de autos con chofer,71121p,6022p,60220 p
+"",,71131,,
+602.23,Servicio de transporte escolar,71132p,6021p,60210 p
+"",(Incluye servicios de transporte para colonias de vacaciones y clubes),,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+602.24,"Servicio de transporte automotor urbano de oferta libre de pasajeros -excepto mediante taxis y remises,alquiler de autos con chofer y transporte escolar-",71121p,6022p,60220 p
+"","(Incluye servicios urbanos especiales comocharters, servicioscontratados, serviciospara ámbitoportuario o aeroportuario, servicio de hipódromos y espectáculos deportivos y culturales)",71132p,,
+602.25,Servicio de transporte automotor interurbano de pasajeros,71121p,6021p,60230 p
+"","(Incluyelosserviciosdetransporteregulardemásde50km.ylosllamadosserviciosdelargadistancia )",71132p,,
+602.26,Servicio de transporte automotor de pasajeros para el turismo,71121p,6021p,60220 p
+"",,71132p,,
+602.29,Servicio de transporte automotor de pasajeros n.c.p.,71121p,6022p,60220 p
+"",,71132p,,
+603,Servicio de transporte por tuberías,,,
+603.1,Servicio de transporte por oleoductos y poliductos,,,
+603.10,Servicio de transporte por oleoductos y poliductos,71150p,6030p,60300 p
+603.2,Servicio de transporte por gasoductos,,,
+603.20,Servicio de transporte por gasoductos,71150p,6030p,60300 p
+61,SERVICIO DE TRANSPORTE POR VIA ACUATICA,,61,61
+611,Servicio de transporte marítimo,,,
+611.1,Servicio de transporte marítimo de carga,,,
+611.10,Servicio de transporte marítimo de carga,71210p,6110p,61100 p
+611.2,Servicio de transporte marítimo de pasajeros,,,
+611.20,Servicio de transporte marítimo de pasajeros,71210p,6110p,61100 p
+612,Servicio de transporte fluvial,,,
+612.1,Servicio de transporte fluvial de cargas,,,
+612.10,Servicio de transporte fluvial de cargas,71220p,6120p,61200 p
+612.2,Servicio de transporte fluvial de pasajeros,,,
+612.20,Servicio de transporte fluvial de pasajeros,71220p,6120p,61200 p
+62,SERVICIO DE TRANSPORTE AEREO,,62,62
+62.1,Servicio de transporte aéreo de cargas,,,
+62.10,Servicio de transporte aéreo de cargas,,,
+62.100,Servicio de transporte aéreo de cargas,71310p,6210p,62100 p
+"",,,6220p,62200p
+62.2,Servicio de transporte aéreo de pasajeros,,,
+62.20,Servicio de transporte aéreo de pasajeros,,,
+62.200,Servicio de transporte aéreo de pasajeros,71310p,6210p,62100 p
+"",,,6220p,62200p
+63,SERVICIOS ANEXOS AL TRANSPORTE; SERVICIOS DE AGENCIAS DE VIAJE,,63,63
+63.1,Servicios de manipulación de carga,,,
+63.10,Servicios de manipulación de carga,,,
+63.100,Servicios de manipulación de carga,71112p,6301,63010
+"","(Incluye los servicios de carga y descarga de mercancías o equipajes de pasajeros, sin discriminarmedios de transporte, la estiba y desestiba, etc.)",71169p,,
+"",,71231 p,,
+"",,71320p,,
+63.2,Servicios de almacenamiento y depósito,,,
+63.20,Servicios de almacenamiento y depósito,,,
+63.200,Servicios de almacenamiento y depósito,71921,6302,63020
+"","(Incluyesilosdegranos,cámarasfrigoríficas,almacenesparamercancíasdiversas,inclusoproductos de zona franca, etc.)",71922,,
+63.3,Servicios complementarios para el transporte,,,
+63.31,Servicios complementarios para el transporte terrestre,,,
+63.311,Servicios de explotación de infraestructura; peajes y otros derechos,71919p,6303p,63030 p
+63.312,Servicios  prestados por playas de estacionamiento y garajes,71161,6303p,63030 p
+63.319,Servicios complementarios para el transporte terrestre n.c.p.,71112p,6303p,63030 p
+"","(Incluye servicios de mantenimiento de material ferroviario, terminales y estaciones)",71122,,
+"",,71169p,,
+63.32,Servicios complementarios para el transporte por agua,,,
+63.321,Servicios de explotación de infraestructura; derechos de puerto,71239p,6303p,63030 p
+63.322,Servicios de guarderías náuticas,71239p,6303p,63030 p
+63.323,Servicios para la navegación,71239p,6303p,63030 p
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+"","(Incluye servicios de practicaje y pilotaje, atraque y salvamento)",,,
+63.329,Servicios complementarios para el transporte por agua n.c.p.,71239p,6303p,63030 p
+"",(Incluye explotación de servicios de terminales como puertos y muelles),,,
+63.33,Servicios complementarios para el transporte aéreo,,,
+63.331,"Servicios de hangares, estacionamiento y remolque de aeronaves",71320p,6303p,63030 p
+63.332,Servicios para la aeronavegación,71320p,6303p,63030 p
+"","(Incluye servicios de terminales como aeropuertos, actividades de control de tráfico aéreo, etc.)",,,
+63.339,Servicios complementarios para el transporte aéreo n.c.p.,71320p,6303p,63030 p
+"",(Incluye servicios de prevención y extinción de incendios),,,
+63.4,Servicios de agencias de viaje y otras actividades complementarias de apoyo turístico,,,
+63.41,Servicios mayoristas de agencias de viajes,,,
+63.410,Servicios mayoristas de agencias de viajes,71911p,6304p,63040 p
+63.42,Servicios minoristas de agencias de viajes,,,
+63.420,Servicios minoristas de agencias de viajes,71911p,6304p,63040 p
+63.43,Servicios complementarios de apoyo turístico,,,
+63.430,Servicios complementarios de apoyo turístico,71919p,6304p,63040 p
+63.5,Servicios de gestión y logística para el transporte de mercaderías,,,
+63.50,Servicios de gestión y logística para el transporte de mercaderías,,,
+63.500,Servicios de gestión y logística para el transporte de mercaderías,71919p,6309,63090
+"","(Incluye las actividades de los agentes aduaneros, actividades de empresas empaquetadoras, etc.)",,,
+64,Servicios de correos y telecomunicaciones,,64,64
+641,Servicios de correos,,,
+641.0,Servicios de correos,,,
+641.00,Servicios de correos,72001p,6411,64100
+"",,71919p,6412,
+642,Servicios de  telecomunicaciones,,,
+6420,Servicios de telecomunicaciones,,,
+6420.1,Servicios de transmisión de radio y televisión,72002p,6420p,64200 p
+"",,94131p,,
+"",,94132p,,
+"",,94139p,,
+6420.2,"Servicios de comunicación por medio de teléfono, telégrafo y telex",72001p,6420p,64200 p
+"",,72002p,,
+"",,72003p,,
+6420.9,"Servicios de transmisión n.c.p. de sonido, imágenes, datos u otra información",72003p,6420p,64200 p
+J,INTERMEDIACION  FINANCIERA Y OTROS SERVICIOS FINANCIEROS,8 p,J,J
+65,"INTERMEDIACION FINANCIERA Y OTROS SERVICIOSFINANCIEROS EXCEPTO LOSDE SEGURO YDE ADMINISTRACION DE FONDOS DE JUBILACIONES Y PENSIONES",,65,65
+651,Intermediación monetaria y financiera de la banca central,,,
+6511,Servicios de la banca central,,,
+6511.0,Servicios de la banca central,81010p,6511,65110
+"",(Incluye las actividades del Banco Central de la República Argentina),,,
+65.2,Intermediación monetaria y financiera  de las entidades financieras bancarias y no bancarias,,,
+65.21,Servicios de las entidades financieras bancarias,,,
+"","(Incluyebancospúblicosnacionales,provincialesymunicipales,bancosprivadosnacionalesyextranjeros, sean sociedades anónimas o cooperativos y   Cajas de ahorro)",,,
+65.211,Servicios de la banca mayorista,81010p,6519p,65191 p
+"",,,6591p,
+65.212,Servicios de la banca de inversión,81010p,6519p,65191 p
+"",,,6591p,
+65.213,Servicios de la banca minorista,81010p,6519p,65191 p
+"",,,6591p,
+65.22,Servicios de las entidades financieras no bancarias,,,
+65.220,Servicios de las entidades financieras no bancarias,81020,6519p,65192
+"",,,6591p,
+659,Servicios financieros excepto los de la banca central y las entidades financieras,,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+659.8,Servicios de crédito n.c.p.,,,
+"","(Incluye el otorgamiento de préstamos por entidades que no reciben depósitos y que están fuera delsistema bancario, y cuyo destino es financiar otras actividades económicas, el consumo, la viviendau otros bienes)",,,
+659.81,Actividades de crédito para financiar otras actividades económicas,81030p,6592p,65900p
+659.89,Servicios de crédito n.c.p.,81030p,6592p,65900p
+6599,Servicios financieros n.c.p.,,,
+"","(Incluye actividades de inversión enfondos comunes de inversión,la actividad de las sociedades deinversión inmobiliarias y sociedades de cartera,arrendamiento financieroo leasing,securitización,etc.)",,,
+"",(No incluye actividades financieras relacionadas con el otorgamiento de créditos -clase  659.8-),,,
+6599.1,"Servicios de agentes de mercado abierto ""puros""",81030p,6599p,67191
+"",,,,67192p
+6599.2,Servicios de entidades de tarjeta de compra y/o crédito,81030p,6599p,65900p
+6599.9,Servicios de financiación y actividades financieras n.c.p.,81030p,6599p,65900p
+66,SERVICIOS DE SEGUROS Y DE ADMINISTRACIÓN DE FONDOS DE JUBILACIONES Y PENSIONES,,66,66
+66.1,Servicios de seguros,,,
+66.11,Servicios de seguros personales,,,
+66.111,Servicios de seguros de salud,82001p,6601p,662
+"",(Incluye medicina prepaga),,,
+66.112,Servicios de seguros de vida,82001p,6601p,66110p
+"","(Incluye los seguros de vida, retiro y sepelio)",,,66120p
+"",,,,66130p
+"",,,,66140p
+66.113,Servicios de seguros a las personas excepto los de salud y de vida,82001p,6603p,66110p
+"",(Incluye seguro de accidentes y otros seguros personales),,,66120p
+"",,,,66130p
+"",,,,66140p
+66.12,Servicios de seguros patrimoniales,,,
+66.121,Servicios de aseguradoras de riesgo de trabajo (ART),-,6603p,-
+66.122,Servicios de seguros patrimoniales excepto los de las aseguradoras de riesgo de trabajo,82001p,6603p,66110p
+"",,,,66120p
+"",,,,66130p
+"",,,,66140p
+66.13,Reaseguros,,,
+66.130,Reaseguros,82001p,6601 p,66110p
+"",,,,66120p
+"",,,,66130p
+"",,,,66140p
+"",,,6603p,
+66.2,Administración de fondos de jubilaciones y pensiones (AFJP),,,
+66.20,Administración de fondos de jubilaciones y pensiones (AFJP),,,
+66.200,Administración de fondos de jubilaciones y pensiones (AFJP),-,6602,-
+67,SERVICIOS AUXILIARES A LA ACTIVIDAD FINANCIERA,,67,67
+671,"Servicios auxiliares a la actividad financiera, excepto a los servicios de seguros y de administración defondos de jubilaciones y pensiones",,,
+6711,Servicios de administración de mercados financieros,,,
+6711.1,Servicios de mercados y cajas de valores,81030p,6711p,67111
+6711.2,Servicios de mercados a término,81030p,6711p,67112
+6711.3,Servicios de bolsas de Comercio,81030p,6711p,67113
+6712,Servicios bursátiles de mediación o por cuenta de terceros,,,
+"","(Incluye la actividad de agentes y sociedades de bolsa. Las actividades por cuenta propia van en laclase 6599)",,,
+6712.0,Servicios bursátiles de mediación o por cuenta de terceros,81030p,6712,67120
+6719,"Serviciosauxiliaresalaactividadfinancieran.c.p.,exceptoalosserviciosdesegurosydeadministración de fondos de jubilaciones y pensiones",,,
+6719.1,Servicios de casas y agencias de cambio,81030p,6719p,-
+6719.2,Servicios de sociedades calificadoras de riesgos,81030p,6719p,67193 p
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+6719.9,"Serviciosauxiliaresalaintermediaciónfinancieran.c.p.,exceptoalosserviciosdesegurosydeadministración de fondos de jubilaciones y pensiones",81030p,6719p,67193 p
+672,"Serviciosauxiliaresalosserviciosdesegurosydeadministracióndefondosdejubilacionesypensiones",,,
+672.1,Servicios auxiliares a los servicios de seguros,,,
+672.11,Servicios de productores y asesores de seguros,82002,6720p,67200 p
+672.19,Servicios auxiliares a los servicios de seguros n.c.p,82001p,6720p,67200p
+672.2,Servicios auxiliares a la administración de fondos de jubilaciones y pensiones,,,
+672.20,Servicios auxiliares a la administración de fondos de jubilaciones y pensiones,-,6720p,67200 p
+K,"SERVICIOS INMOBILIARIOS , EMPRESARIALES Y DE ALQUILER",8 p,K,K
+70,SERVICIOS INMOBILIARIOS,,70,70
+701,"Servicios inmobiliarios realizados por cuenta propia, con bienes propios o arrendados",,,
+7010,"Servicios inmobiliarios realizados por cuenta propia, con bienes propios o arrendados",,,
+7010.1,"Servicios de alquiler y explotación de inmuebles para fiestas, convenciones y otros eventos similares",83100p,7010p,70000 p
+7010.9,"Servicios inmobiliarios realizados por cuenta propia, con bienes propios o arrendados n.c.p.",83100p,7010p,70000p
+702,Servicios inmobiliarios realizados a cambio de un retribución o por contrata,,,
+7020,Servicios inmobiliarios realizados a cambio de un retribución o por contrata,,,
+7020.0,Servicios inmobiliarios realizados a cambio de una retribución o por contrata,83100p,7020,70000 p
+"","(Incluyecompra,venta,alquiler,remate,tasación,administracióndebienes,etc.,realizadasacambio de una retribución o por contrata, y la actividad de administradores, martilleros, rematadores,comisionistas, etc.)",,,
+71,"ALQUILER DE EQUIPO DE TRANSPORTE, MAQUINARIAS Y EQUIPOS SIN OPERARIOS; ALQUILER DEEFECTOS PERSONALES Y ENSERES DOMESTICOS",,71,71
+711,Alquiler de equipo de transporte,,,
+7111,"Alquiler de equipo de transporte para vía terrestre, sin operarios",,,
+7111.0,"Alquiler de equipo de transporte para vía terrestre, sin operarios",71162,7111,71100p
+7112,"Alquiler de equipo de transporte para vía acuática, sin operarios ni tripulación",,,
+7112.0,"Alquiler de equipo de transporte para vía acuática, sin operarios ni tripulación",71239p,7112,71100p
+7113,"Alquiler de equipo de transporte para vía aérea, sin operarios ni tripulación",,,
+7113.0,"Alquiler de equipo de transporte para vía aérea, sin operarios ni tripulación",71320p,7113,71100p
+712,Alquiler de maquinaria y equipo n.c.p.,,,
+7121,"Alquiler de maquinaria y equipo agropecuario, sin operarios",,,
+7121.0,"Alquiler de maquinaria y equipo agropecuario, sin operarios",83301,7121,71200p
+7122,"Alquiler de maquinaria y equipo de construcción e ingeniería civil, sin operarios",,,
+7122.0,"Alquiler de maquinaria y equipo de construcción e ingeniería civil, sin operarios",83303p,7122,71200p
+"","(Incluye el alquiler de andamios, sin montaje ni desmantelamiento)",,,
+7123,"Alquiler de maquinaria y equipo de oficina, incluso computadoras",,,
+7123.0,"Alquiler de maquinaria y equipo de oficina, incluso computadoras",83304,7123,71200p
+"",,83305,,
+"",,83306p,,
+7129,"Alquiler de maquinaria y equipo n.c.p., sin personal",,,
+7129.0,"Alquiler de maquinaria y equipo n.c.p., sin personal",83302,7129,71200p
+"",,83303p,,
+"",,83306p,,
+"",,83309,,
+"",,95203,,
+713,Alquiler de efectos personales y enseres domésticos n.c.p.,,,
+7130,Alquiler de efectos personales y enseres domésticos n.c.p.,,,
+7130.0,Alquiler de efectos personales y enseres domésticos n.c.p.,94121p,7130,71300
+"",,94142p,,
+"",,94905p,,
+"",,95401,,
+"",,95402,,
+72,SERVICIOS INFORMATICOS Y ACTIVIDADES CONEXAS,,72,72
+721,Servicios de consultores en equipo de informática,,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+7210,Servicios de consultores en equipo de informática,,,
+7210.0,Servicios de consultores en equipo de informática,83230p,7210,72000p
+722,Servicios de consultores en informática y suministros de programas de informática,,,
+7220,Servicios de consultores en informática y suministros de programas de informática,,,
+7220.0,Servicios de consultores en informática y suministros de programas de informática,83230p,7220,72000 p
+723,Procesamiento de datos,,,
+7230,Procesamiento de datos,,,
+7230.0,Procesamiento de datos,83230p,7230,72000p
+724,Servicios relacionados con base de datos,,,
+7240,Servicios relacionados con base de datos,,,
+7240.0,Servicios relacionados con base de datos,83230p,7240,72000p
+725,"Mantenimiento y reparación de maquinaria de oficina, contabilidad e informática",,,
+7250,"Mantenimiento y reparación de maquinaria de oficina, contabilidad e informática",,,
+7250.0,"Mantenimiento y reparación de maquinaria de oficina, contabilidad e informática",83230p,7250,72000p
+"",,95192p,,
+729,Actividades de informática n.c.p.,,,
+7290,Actividades de informática n.c.p.,,,
+7290.0,Actividades de informática n.c.p.,83230p,7290,72000p
+73,INVESTIGACIÓN Y DESARROLLO,,73,73
+731,"Investigaciónydesarrolloexperimentalenelcampodelaingeniería,ydelascienciasexactasynaturales",,,
+731.1,Investigación y desarrollo experimental en el campo de la ingeniería y la tecnología,,,
+731.10,Investigación  y desarrollo experimental en el campo de la ingeniería y la tecnología,93200p,7310p,73000p
+731.2,Investigación  y desarrollo experimental en el campo de las ciencias médicas,,,
+731.20,Investigación  y desarrollo experimental en el campo de las ciencias médicas,93200p,7310p,73000p
+731.3,Investigación  y desarrollo experimental en el campo de las ciencias agropecuarias,,,
+731.30,Investigación  y desarrollo experimental en el campo de las ciencias agropecuarias,93200p,7310p,73000p
+731.9,Investigación  y desarrollo experimental en el campo de las  ciencias exactas y naturales n.c.p.,,,
+731.90,Investigación y desarrollo experimental en el campo de las  ciencias exactas y naturales n.c.p.,93200p,7310p,73000p
+732,Investigación  y desarrollo experimental en el campo de las ciencias sociales y las humanidades,,,
+732.1,Investigación  y desarrollo experimental en el campo de las ciencias sociales,,,
+732.10,Investigación  y desarrollo experimental en el campo de las ciencias sociales,93200p,7320p,73000p
+732.2,Investigación  y desarrollo experimental en el campo de las ciencias humanas,,,
+732.20,Investigación  y desarrollo experimental en el campo de las ciencias humanas,93200p,7320p,73000p
+74,SERVICIOS EMPRESARIALES N.C.P.,,74,74
+741,"Serviciosjurídicosydecontabilidad,teneduríadelibrosyauditoría;asesoramientoenmateriadeimpuestos;estudiosdemercadosyrealizacióndeencuestasdeopiniónpública;asesoramientoempresarial y en materia de gestión",,,
+7411,Servicios jurídicos,,,
+7411.0,Servicios jurídicos,83210,7411,74110
+7412,"Servicios de contabilidad y teneduría de libros, auditoría y asesoría fiscal",,,
+7412.0,"Servicios de contabilidad y teneduría de libros, auditoría y asesoría fiscal",83220,7412,74120
+7413,"Estudio de mercado, realización de encuestas de opinión pública",,,
+7413.0,"Estudio de mercado, realización de encuestas de opinión pública",83299p,7413,74130
+7414,"Servicios de asesoramiento, dirección y gestión empresarial",,,
+7414.0,"Servicios de asesoramiento, dirección y gestión empresarial",83299p,7414,74140
+742,Servicios de arquitectura e ingeniería y servicios técnicos n.c.p.,,,
+7421,Servicios de arquitectura e ingeniería y servicios conexos de asesoramiento técnico,,,
+7421.0,Servicios de arquitectura e ingeniería y servicios conexos de asesoramiento técnico,83240,7421,74200p
+7422,Ensayos y análisis técnicos,,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+7422.0,Ensayos y análisis técnicos,83299p,7422,74200p
+743,Servicios de publicidad,,,
+7430,Servicios de publicidad,,,
+7430.0,Servicios de publicidad,83251,7430,74300
+"",,83252,,
+"",,83253,,
+749,Servicios empresariales n.c.p.,,,
+7491,Obtención y dotación de personal,,,
+7491.0,Obtención y dotación de personal,83299p,7491,74910
+7492,Servicios de investigación y seguridad,,,
+7492.1,Servicios de transporte de caudales y objetos de valor,83299p,7492p,74920p
+7492.9,Servicios de investigación y seguridad n.c.p.,83299p,7492p,74920p
+7493,Servicios de limpieza de edificios,,,
+7493.0,Servicios de limpieza de edificios,92002,7493,74930
+7494,Servicios de fotografía,,,
+7494.0,Servicios de fotografía,95921,7494,74940
+"",,95922,,
+7495,Servicios de envase y empaque,,,
+7495.0,Servicios de envase y empaque,83299p,7495,74950
+749.6,"Servicios de impresión heliográfica, fotocopia y otras formas de reproducciones",,,
+749.60,"Servicios de impresión heliográfica, fotocopia y otras formas de reproducciones",83291,7499p,74990p
+7499,Servicios empresariales n.c.p.,,,
+7499.0,Servicios empresariales n.c.p.,83299p,7499p,74990p
+"",,94141p,,
+"",,95993p,,
+L,"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",9 p,L,L
+75,"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",,75,75
+751,Servicios de la administración pública,,,
+7511,Servicios generales de la Administración Pública,,,
+7511.0,Servicios generales de la Administración Pública,91001p,7511,75000p
+"","(Incluyeeldesempeñodefuncionesejecutivasylegislativasdeadministraciónporpartedelasentidades de la administración central, regional y local; la administración y supervisión de asuntos",,,
+"","fiscales;la aplicación del presupuesto y la gestión de los fondos públicos y de la deuda pública; lagestión administrativa de servicios estadísticos y sociológicos y de planificación social y económicaglobal a distintos niveles de la administración )",,,
+7512,"Servicios para la regulación de las actividades sanitarias, educativas, culturales, yrestantes serviciossociales, excepto seguridad social obligatoria",,,
+7512.0,"Servicios para la regulación de las actividades sanitarias, educativas, culturales, yrestantes serviciossociales, excepto seguridad social obligatoria",91001p,7512,75000p
+"","(Incluyelagestiónadministrativadeprogramasdestinadosamejorarelbienestardelosciudadanos)",,,
+7513,Servicios para la regulación de la actividad económica,,,
+7513.0,Servicios para la regulación de la actividad económica,91001p,7513,75000p
+"","(Incluye la administración pública y laregulación devarios sectoreseconómicos;laaplicación depolíticas de desarrollo regional)",,,
+751.9,Servicios auxiliares para los servicios generales de la Administración Pública n.c.p.,,,
+751.90,Servicios auxiliares para los servicios generales de la Administración Pública n.c.p.,91001p,7514,75000p
+"","(Incluye las actividades de servicios generales y de personal; la administración, dirección y apoyo deservicios generales, compras y suministros, etc. )",,,
+752,Prestación pública de servicios a la comunidad en general,,,
+7521,Servicios de Asuntos exteriores,,,
+7521.0,Servicios de Asuntos exteriores,91001p,7521,75000p
+7522,Servicios de Defensa,,,
+7522.0,Servicios de Defensa,91002,7522,75000p
+7523,Servicios de Justicia,,,
+7523.0,Servicios de Justicia,91001p,7523p,75000p
+752.4,Servicios para el orden público y la seguridad,,,
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+752.40,Servicios para el orden público y la seguridad,91001p,7523p,75000p
+752.5,Servicios de protección civil,,,
+752.50,Servicios de protección civil,91001p,7523p,75000p
+753,Servicios de la seguridad social obligatoria,,,
+7530,Servicios de la seguridad social obligatoria,,,
+7530.0,Servicios de la seguridad social obligatoria,91001p,7530,75000p
+M,ENSEÑANZA,9 p,M,M
+80,ENSEÑANZA,,80,80
+801,Enseñanza inicial y primaria,,,
+8010,Enseñanza inicial y primaria,,,
+8010.0,Enseñanza inicial y primaria,93103p,8010,80100
+"",,93402p,,80900p
+802,Enseñanza secundaria,,,
+8021,Enseñanza secundaria de formación general,,,
+8021.0,Enseñanza secundaria de formación general,93102p,8021,80200p
+8022,Enseñanza secundaria de formación técnica y profesional,,,
+8022.0,Enseñanza secundaria de formación técnica y profesional,93102p,8022,80200p
+803,Enseñanza superior y formación de posgrado,,,
+803.1,Enseñanza  terciaria,,,
+803.10,Enseñanza  terciaria,93101p,8030p,80300 p
+803.2,Enseñanza universitaria excepto formación de posgrados,,,
+803.20,Enseñanza universitaria excepto formación de posgrados,93101p,8030p,80300 p
+8033,Formación de posgrado,,,
+8033.0,Formación de posgrado,93101p,8030p,80300 p
+809,Enseñanza para adultos y  servicios de enseñanza n.c.p.,,,
+8090,Enseñanza para adultos y  servicios de enseñanza n.c.p.,,,
+8090.0,Enseñanza para adultos y servicios de enseñanza n.c.p.,93101p,8090,80900 p
+"","(Incluyeinstrucciónimpartidamedianteprogramasderadio,televisión,correspondenciay otrosmediosdecomunicación,escuelasdemanejo,actividadesdeenseñanzaadomicilioy/oparticulares, etc.)",93102p,,
+"",,93103p,,
+"",,93104,,
+"",,93105,,
+"",,93106,,
+"",,93107,,
+"",,93109,,
+N,SERVICIOS SOCIALES Y DE SALUD,9 p,N,N
+85,SERVICIOS SOCIALES Y DE SALUD,,85,85
+851,Servicios relacionados con la salud humana,,,
+8511,Servicios de internación,,,
+8511.1,Servicios hospitalarios,93311p,8511p,85110p
+"",,93312p,,
+8511.2,Servicios de hospital de día,93311p,8511p,85110p
+"","(Incluyelasactividadesdetratamientoquenonecesitanhospitalizaciónatiempocompleto, talescomotratamientosoncológicos;infectológicos;dialíticos;atencióndelasaludmental;atenciónpediátrica; atención gerontológica; etc.)",93312p,,
+8511.9,Servicios de internación n.c.p.,93311p,8511p,85110 p
+"",,93312p,,
+851.2,Servicios de atención médica,,,
+851.21,Servicios de atención médica,93315p,8512p,85120p
+"","(Incluye las actividadesde consultoriosmédicos deestablecimientos sininternación, consultoriosde guardia para resolver urgencias médicas, vacunatorios, centros del primer nivel de atención etc.Los servicios de cirugía",,,
+"","ambulatoria,talescomolosdecirugíaplástica,oftalmológica,artroscopía,electrocoagulación,lipoaspiración, etc.)",,,
+851.22,Servicios de atención domiciliaria programada,93315p,8512p,85120p
+"","(Incluyelasactividadesllevadasa caboen establecimientosque ofrecenatención pormódulos adomicilioy actividadesdeagentessanitariosrelacionadosconla prevencióny educaciónpara lasalud)",,,
+851.3,Servicios odontológicos,,,
+851.30,Servicios odontológicos,93312p,8512p,85120p
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+"",,,,
+851.4,Servicios de diagnóstico,,,
+851.40,Servicios de diagnóstico,93313,8511 p,85120 p
+"",,,8512p,
+"","(Incluye las actividades de laboratorios de análisis clínicos y patológicos, centros de diagnóstico porimágenes, centros de endoscopía, de electrodiagnóstico, consultorios de hemodinamia, etc.)",,,
+851.5,Servicios de tratamiento,,,
+851.50,Servicios de tratamiento,93315p,8512p,85120 p
+"","(Incluyelasactividadesdecentrosdecobaltoterapia,deradiologíaconvencional,deaceleradorlineal de rehabilitación física, de psicoterapias, de hemoterapia, de rehabilitación psíquica, unidadesde hemodiálisis, centros de medicina nuclear, etc.)",,,
+851.6,Servicios de emergencias y traslados,,,
+851.60,Servicios de emergencias y traslados,93315p,8519p,85190 p
+8519,Servicios relacionados con la salud humana n.c.p.,,,
+8519.0,Servicios relacionados con la salud humana n.c.p.,93315p,8519p,85190 p
+852,Servicios veterinarios,,,
+8520,Servicios veterinarios,,,
+8520.0,Servicios veterinarios,93320,8520,85200
+853,Servicios sociales,,,
+8531,Servicios sociales con alojamiento,,,
+8531.1,Servicios de atención a ancianos con alojamiento,93314p,8531p,85310p
+"",,93401p,,
+8531.2,Servicios de atención a personas minusválidas con alojamiento,93401p,8531p,85310p
+8531.3,Servicios de atención a menores con alojamiento,93401p,8531p,85310p
+"",,93402p,,
+8531.4,Servicios de atención a mujeres con alojamiento,93401p,8531p,85310p
+8531.9,Servicios sociales con alojamiento n.c.p.,93314p,8531p,85310 p
+"",,93401p,,
+8532,Servicios sociales sin alojamiento,,,
+8532.0,Servicios sociales sin alojamiento,93401p,8532,85320
+"",,93402p,,
+O,"SERVICIOS COMUNITARIOS, SOCIALES Y PERSONALES N.C.P.",9 p,O,O
+90,"ELIMINACIÓN DE DESPERDICIOS Y AGUAS RESIDUALES, SANEAMIENTO Y SERVICIOS SIMILARES",,90,90
+900,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares",,,
+9000,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares",,,
+9000.1,"Recolección, reducción y eliminación de desperdicios",92001p,9000p,90000p
+9000.2,"Servicios de depuración de aguas residuales, alcantarillado y cloacas",92001p,9000p,90000p
+"",,92003p,,
+9000.9,Servicios de saneamiento público n.c.p.,92003p,9000p,90000p
+91,SERVICIOS DE ASOCIACIONES N.C.P.,,91,91
+911,"Servicios de organizaciones empresariales, profesionales y de empleadores",,,
+9111,Servicios de organizaciones empresariales y de empleadores,,,
+9111.0,"Servicios de federaciones de asociaciones, cámaras, gremios y organizaciones similares",93500p,9111,91000 p
+9112,Servicios de organizaciones profesionales,,,
+9112.0,"Servicios de asociaciones de especialistas en disciplinas científicas, prácticas profesionales y esferastécnicas",93500p,9112,91000p
+912,Servicios de sindicatos,,,
+9120,Servicios de sindicatos,,,
+9120.0,Servicios de sindicatos,93500p,9120,91000p
+919,Servicios de asociaciones n.c.p.,,,
+9191,Servicios de organizaciones religiosas,,,
+9191.0,Servicios de organizaciones religiosas,93910,9191,91000p
+9192,Servicios de organizaciones políticas,,,
+9192.0,Servicios de organizaciones políticas,93990p,9192,91000p
+9199,Servicios de asociaciones n.c.p.,,,
+9199.0,Servicios de asociaciones n.c.p.,93990p,9199,91000p
+92,SERVICIOS DE ESPARCIMIENTO Y SERVICIOS CULTURALES Y DEPORTIVOS,,92,92
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+921,"Serviciosdecinematografía,radioytelevisiónyserviciosdeespectáculosartísticos yde diversiónn.c.p.",,,
+9211,Producción y distribución de filmes y videocintas,,,
+9211.1,Producción de filmes y videocintas,94111p,9211p,92110p
+"",,94112p,,
+"",,94129p,,
+9211.2,Distribución de filmes y videocintas,94112p,9211p,92110p
+"",,94119p,,
+"",,94121p,,
+"",,94129p,,
+9212,Exhibición de filmes y videocintas,,,
+9212.0,Exhibición de filmes y videocintas,94122,9212,92120
+"",,94129p,,
+9213,Servicios de radio y televisión,,,
+9213.0,Servicios de radio y televisión,94119p,9213,92130
+"",(No incluye la transmisión -subclase 6420.1),94131p,,
+"",,94132p,,
+"",,94139p,,
+9214,Servicios teatrales y musicales y servicios artísticos n.c.p.,,,
+9214.1,Producción de espectáculos teatrales y musicales,94141p,9214p,92140p
+"",,94142p,,
+9214.2,"Composición y representación de obras teatrales, musicales y artísticas",94150,9214p,92140p
+"","( Incluye a compositores, actores, músicos, conferencistas, pintores, artistas plásticos etc.)",,,
+9214.3,"Servicios conexos a la producción de espectáculos teatrales, musicales y artísticos",94142p,9214p,92140p
+"","(Incluyediseñoymanejodeescenografía,montajedeiluminaciónysonido,funcionamientodeagencias de venta de billetes de teatro, conciertos, etc.)",,,
+9219,Servicios de espectáculos artísticos y de diversión  n.c.p.,,,
+9219.1,"Servicios de salones de baile, discotecas y similares",94909p,9219p,92190p
+9219.9,Servicios de espectáculos artísticos y de diversión  n.c.p.,94142p,9219p,92190p
+"",,94909p,,
+"","(Incluye parques de diversión y centros similares, circenses, de títeres, mimos etc.)",,,
+922,Servicios de agencias de noticias,,,
+9220,Servicios de agencias de noticias,,,
+9220.0,Servicios de agencias de noticias y servicios de información,83292,9220,92200
+"","(Incluye el suministro de material informativo, fotográfico y periodístico a medios de difusión)",,,
+923,"Servicios de bibliotecas, archivos y museos y  servicios culturales n.c.p.",,,
+9231,Servicios de bibliotecas y archivos,,,
+9231.0,Servicios de bibliotecas y archivos,94200p,9231,92300p
+9232,Servicios de museos y preservación de lugares y edificios históricos,,,
+9232.0,Servicios de museos y preservación de lugares y edificios históricos,94200p,9232,92300p
+9233,"Servicios de jardines botánicos, zoológicos y de parques nacionales",,,
+9233.0,"Servicios de jardines botánicos, zoológicos y de parques nacionales",94200p,9233,92300p
+924,Servicios para la práctica deportiva y de entretenimiento n.c.p.,,,
+9241,Servicios para prácticas deportivas,,,
+9241.1,"Serviciosdeorganización,direcciónygestióndeprácticasdeportivasyexplotacióndelasinstalaciones",94902p,9241p,92400p
+"","(Incluye clubes, gimnasios  y otras instalaciones para practicar deportes)",94903,,
+"",,94904p,,
+"",,94907p,,
+9241.2,Promoción y producción de espectáculos deportivos,94906p,9241p,92400p
+9241.3,"Servicios prestados por profesionales y técnicos, para la realización de prácticas deportivas",94902p,9241p,92400p
+"","(Incluyelaactividadrealizadapordeportistas, atletas,entrenadores, instructores,jueces árbitros,escuelas de deporte, etc.)",94904p,,
+"",,94907p,,
+9249,Servicios de esparcimiento n.c.p.,,,
+9249.1,Servicios de esparcimiento relacionadas con juegos de azar y apuestas,94906p,9249p,92400p
+9249.2,Servicios de salones de juegos,94901,9249p,92400p
+"","(Incluye salones de billar, pool, bowling, juegos electrónicos, etc.)",94908,,
+9249.9,Servicios de entretenimiento n.c.p.,94111p,9249p,92400p
+"CódigoClaNAE-97",Descripción de la actividad del ClaNAE-97,"CódigoCIIU-2","CódigoCIIU-3","CódigoCLACNE94"
+"",,94119p,,
+"",,94905p,,
+"",,94906p,,
+"",,94909p,,
+"",,94142p,,
+93,SERVICIOS N.C.P.,,93,93
+930,Servicios n.c.p.,,,
+9301,"Lavado y limpieza de artículos de tela, cuero y/o de piel, incluso la limpieza en seco",,,
+9301.0,"Lavado y limpieza de artículos de tela, cuero y/o de piel, incluso la limpieza en seco",95201,9301,93010
+9302,Servicios de peluquería y  tratamientos de belleza,,,
+9302.0,Servicios de peluquería y  tratamientos de belleza,95911,9302,93020
+"",,95912,,
+9303,Pompas fúnebres y servicios conexos,,,
+9303.0,Pompas fúnebres y servicios conexos,95992,9303,93030
+9309,Servicios n.c.p.,,,
+9309.1,Servicios para el mantenimiento físico-corporal,95991,9309p,93090p
+"","(Incluye baños turcos, saunas, solarios, centros de masajes y adelgazamiento etc.)",,,
+9309.9,Servicios n.c.p.,94905p,9309p,93090p
+"","(Incluyeactividades deastrología y espiritismo,lasrealizadas confines socialescomo agenciasmatrimoniales, de investigacionesgenealógicas, decontratación deacompañantes, laactividad delustrabotas, acomodadores de autos, etc.)",95993p,,
+"",,95999,,
+P,SERVICIOS DE HOGARES PRIVADOS QUE CONTRATAN SERVICIO DOMESTICO,9 p,P,-
+95,SERVICIOS DE HOGARES PRIVADOS QUE CONTRATAN SERVICIO DOMESTICO,,95,-
+950,Servicios de hogares privados que contratan servicio doméstico,,,
+9500,Servicios de hogares privados que contratan servicio doméstico,,,
+9500.0,Servicios de hogares privados que contratan servicio doméstico,95300,9500,
+Q,SERVICIOS DE ORGANIZACIONES Y ORGANOS EXTRATERRITORIALES,9 p,Q,-
+99,SERVICIOS DE ORGANIZACIONES Y ORGANOS EXTRATERRITORIALES,96,99,-
+990,Servicios de organizaciones y órganos extraterritoriales,,,
+9900,Servicios de organizaciones y órganos extraterritoriales,,,
+9900.0,Servicios de organizaciones y órganos extraterritoriales,96000,9900,-
+"",,,,
+"",,,,
+"",,,,
+ClaNAE-97,"ClasificaciónNacionaldeActividadesEconómicas,año1997.Losnúmerosalaizquierdadelpuntocorresponden a los códigos de la Clasificación Industrial Internacional Uniforme-Revisión3.",,,
+CIIU-2,"Clasificación Industrial Internacional Uniforme, Revisión 2, recomendada por Naciones Unidas. Vigente anivel internacional desde el año 1968 hasta 1989. Los cinco dígitos corresponden a la apertura nacionalrealizada en el INDEC.",,,
+CIIU-3,"Clasificación Industrial Internacional Uniforme, Revisión 3, recomendada por Naciones Unidas. Vigente anivel internacional desde el año 1989.",,,
+CLACNE-94,"ClasificadordeactividadeseconómicasdelCensoNacionalEconómico1994.Los sectorespara loscualesnosepublicarondatos,secorrespondenconlasramasdelclasificadorusadoduranteelrelevamiento (publicación rosa).",,,
+p,"Significa parte. Por ejemplo, la actividad 9309.9 (Servicios n.c.p.) tiene correspondencia con la suma delas actividades CIIU-2: 95999 (Otros servicios personales n.c.p.), parte de la 95993 (Gestoría en Gral.)y parte de la 94905(Alquiler de bicicletas, caballos, lanchas y otros artículos de diversión y esparcimiento)",,,
+"",,,,
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",38
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",39
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",40
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",41
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",42
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",43
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",44
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",45
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",46
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",47
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",48
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",49
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",50
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",51
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",52
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",53
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",54
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",55
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",56
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",57
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",58
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",59
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",60
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+52206p,
+52320p,
+"",61
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",62
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",63
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",64
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",65
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",66
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",67
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",68
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",69
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",70
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",71
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",72
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",73
+Clasificación Nacional de Actividades Económicas (ClaNAE-97),
+"",74
